@@ -1,0 +1,21 @@
+SALES BY CATEGORY REPORT
+========================
+ 
+DESCRIPTION                QUANTITY     GROSS SALE
+-------------------------------------------------------
+Womenswear                    14089    $1842832.39
+Menswear                       8028     $883724.38
+Kidswear                       2739     $115229.33
+Accessories                     553      $32013.71
+None                            151      $17913.70
+zEtail                         2588       $5980.00
+zGV                               2        $278.98
+Packaging                        -1         -$0.50
+-------------------------------------------------------
+              Total Units Sold     28149
+              Total Gross Sale$2897971.9
+   Total Gross Sale - Discount$2325003.7
+-------------------------------------------------------
+Printed by Teresa
+At Store SC FS Balmain
+16/03/2025 2:40 PM        
