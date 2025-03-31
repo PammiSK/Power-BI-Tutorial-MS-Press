@@ -1,0 +1,139 @@
+
+SALES BY SUB DEPARTMENT REPORT
+========================================
+ 
+ DEP              DESCRIPTIONQUANTITY  GROSS SALE     
+-------------------------------------------------------
+AC A      Women - Accessories9         $818.92        
+AC B                Men - Bag3         $1199.97       
+AC B              Women - Bag10        $1033.96       
+AC B               Men - Belt80        $7361.60       
+AC B             Women - Belt21        $2459.79       
+AC B            Women - Books8         $294.97        
+AC B           AC - Boys 3-1031        $670.99        
+AC B            AC - Boys Hat1         $34.99         
+AC G          AC - Girls 3-1021        $498.96        
+AC G         AC - Girls Other7         $194.98        
+AC H                Men - Hat90        $3789.35       
+AC H              Women - Hat30        $986.02        
+AC O              Men - Other49        $1837.83       
+AC O            Women - Other8         $133.98        
+AC S            Women - Scarf73        $7099.61       
+AC U         AC - Unisex Book2         $41.99         
+AC U      AC - Unisex Gifting132       $3177.97       
+AC U        AC - Unisex Shoes0         $0.00          
+AC U          AC - Unisex Toy27        $1481.77       
+AO B    AIO - Baby Boys 000-230        $1243.96       
+AO B   AIO - Baby Girls 000-2143       $6055.15       
+AO B          AIO - Boys 3-1025        $1182.70       
+AO G         AIO - Girls 3-1064        $3031.94       
+AO U       AIO - Unisex 000-213        $486.29        
+CS 3            C&S - 3/4 Slv665       $56178.53      
+CS B    C&S - Baby Boys 000-259        $1640.87       
+CS B    C&S- Baby Girls 000-279        $2190.84       
+CS B           C&S- Boys 3-10200       $5404.22       
+CS G          C&S- Girls 3-10112       $3696.24       
+CS L            C&S - Lng Slv775       $60156.30      
+CS O              C&S - Other464       $34771.42      
+CS P               C&S - Polo1254      $90521.51      
+CS S            C&S - Sht Slv2120      $153331.00     
+CS S              C&S - Slvss173       $10502.94      
+CS S              C&S - Sweat87        $8579.85       
+CS T            C&S - T-Shirt650       $41175.08      
+CS U        C&S- Unisex 000-223        $425.99        
+CS U         C&S- Unisex 3-1012        $178.00        
+DN 5         Denim - 5 Pocket548       $76399.39      
+DN R          Denim - Relaxed146       $23248.16      
+DN S           Denim - Skinny80        $9304.93       
+DN S             Denim - Slim1         $39.00         
+DR B  Dress- Baby Girls 000-2120       $6437.03       
+DR G       Dress - Girls 3-10148       $10182.50      
+DR K             Dress - Knit17        $2531.06       
+DR L          Dress - Lng Slv42        $8736.50       
+DR L             Dress - Long125       $29726.23      
+DR S            Dress - Short95        $20680.21      
+DR S          Dress - Sht Slv158       $31753.80      
+DR S            Dress - Slvss35        $6797.15       
+DR W            Dress - Woven70        $10771.42      
+JC B Jacket - Baby Boys 000-240        $1996.93       
+JC B Jacket- Baby Girls 000-238        $1995.96       
+JC B       Jacket - Boys 3-1056        $3139.47       
+JC D           Jacket - Denim3         $749.97        
+JC G      Jacket - Girls 3-10157       $10674.63      
+JC K            Jacket - Knit4         $799.96        
+JC L         Jacket - Leather1         $199.00        
+JC L          Jacket - Jacket566       $159101.69     
+JC O           Jacket - Other357       $92395.32      
+JC V            Jacket - Vest105       $19722.01      
+JC W       Jacket - Outerwear91        $33141.27      
+KN B   Knit - Baby Boys 000-220        $899.95        
+KN B  Knit - Baby Girls 000-247        $1842.92       
+KN B         Knit - Boys 3-1065        $2575.34       
+KN C          Knit - Cardigan351       $70496.22      
+KN G        Knit - Girls 3-1083        $3011.06       
+KN L           Knit - Lng Slv989       $151195.08     
+KN O             Knit - Other101       $13149.32      
+KN S           Knit - Sht Slv475       $59787.57      
+KN S             Knit - Slvss66        $8644.98       
+KN T               Knit - Top166       $26127.58      
+KN U      Knit - Unisex 000-212        $352.20        
+PN 5          Pant - 5 Pocket708       $100287.50     
+PN B    Pant- Baby Boys 000-229        $1305.80       
+PN B   Pant- Baby Girls 000-247        $1815.88       
+PN B          Pant- Boys 3-1086        $4544.81       
+PN C       Pant - Full Length570       $89516.06      
+PN C             Pant - Capri646       $101498.01     
+PN C              Pant - Crop412       $54848.89      
+PN F       Pant - Full Length841       $120533.54     
+PN G         Pant- Girls 3-1081        $2977.99       
+PN K              Pant - Knit29        $4226.22       
+PN L           Pant - Leather1         $249.00        
+PN O             Pant - Other590       $76729.26      
+PN S          Pant - Slim 7/871        $11124.76      
+PN S  Pant - Slim Full Length187       $29118.93      
+PN U       Pant- Unisex 000-222        $426.39        
+PN W  Pant - Wide Full Length47        $8318.56       
+PN W             Pant - Woven15        $1863.93       
+SH B  Shirt - Baby Boys 000-2100       $3358.99       
+SH B        Shirt - Boys 3-10184       $7202.22       
+SH G       Shirt - Girls 3-1095        $3402.17       
+SH L           Shirt - LS Reg1027      $118603.95     
+SH L          Shirt - LS Tapd132       $9008.89       
+SH L          Shirt - Lng Slv1647      $213547.51     
+SH S           Shirt - SS Reg1065      $120911.38     
+SH S          Shirt - SS Tapd227       $24021.50      
+SH S          Shirt - Sht Slv467       $59647.33      
+SH S            Shirt - Slvss70        $9020.73       
+SH W            Shirt - Woven41        $6052.96       
+SK A           Skirt - A Line1         $149.99        
+SK B             Skirt - Bias34        $6646.67       
+SK D            Skirt - Denim102       $13336.20      
+SK G       Skirt - Girls 3-10103       $5194.48       
+SK K         Skirt - Knee Lng28        $3518.83       
+SK K             Skirt - Knit13        $2021.10       
+SK L          Skirt - Leather1         $199.00        
+SK L             Skirt - Long73        $13571.35      
+SK O            Skirt - Other5         $785.00        
+SK P          Skirt - Pleated34        $5511.50       
+SK W            Skirt - Woven26        $3805.88       
+SM O         Swim - One Piece28        $2506.95       
+SM T         Swim - Two Piece72        $4163.41       
+SR B  Short - Baby Boys 000-263        $2045.86       
+SR B Short - Baby Girls 000-233        $1144.91       
+SR B        Short - Boys 3-10108       $3809.61       
+SR D            Short - Denim16        $1683.90       
+SR G       Short - Girls 3-10106       $4319.95       
+SR S            Short - Short1278      $125428.60     
+SR W            Short - Woven772       $77562.47      
+-------------------------------------------------------
+                        Total25261     $2874045.11    
+                  Gross Sale - Discount$2298473.07    
+-------------------------------------------------------
+
+PLEASE NOTE:
+Report is GST inclusive
+
+31904 Sales By Product Reference Report
+Printed by Pammi
+At Store SC FS Balmain
+27/03/2025 2:38 PM        
