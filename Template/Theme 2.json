@@ -1,0 +1,38 @@
+﻿{
+    "name": "Performance Dashboard Extended",
+    "dataColors": ["#265476","#EA582D","#66676E"],
+    "background": "#FFFFFF",
+    "foreground": "#000000",
+    "tableAccent": "#EA582D",
+    "textClasses": {
+      "title":   {"fontSize":16,"fontFamily":"Segoe UI"},
+      "header":  {"fontSize":12},
+      "callout": {"fontSize":10}
+    },
+    "visualStyles": {
+      "*": {
+        "title": [{ "fontColor": { "solid": { "color": "#265476" } } }],
+        "xAxis": [{ "labelColor": { "solid": { "color": "#66676E" } } }],
+        "yAxis": [{ "labelColor": { "solid": { "color": "#66676E" } } }]
+      },
+      "columnChart": {
+        "dataPoint": [{
+          "showAllDataPoints": true,
+          "labelPosition": "InsideEnd",
+          "labelColor": { "solid": { "color": "#FFFFFF" } }
+        }]
+      },
+      "slicer": {
+        "header":    [{ "fontSize": 12 }],
+        "selection": [{ "outline": { "color": "#EA582D" } }]
+      },
+      "card": {
+        "label":    [{ "fontSize": 24 }],
+        "category": [{ "fontSize": 12 }]
+      },
+      "tableEx": {
+        "grid": [{ "outlineColor": { "solid": { "color": "#D3D3D3" } } }]
+      }
+    }
+  }
+  
