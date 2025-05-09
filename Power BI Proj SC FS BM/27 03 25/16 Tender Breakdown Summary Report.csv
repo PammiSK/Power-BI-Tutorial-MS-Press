@@ -1,0 +1,2563 @@
+day,date,tender,value
+Saturday,2022-04-16,CASH,160.0
+Saturday,2022-04-16,Gift Voucher,20.0
+Saturday,2022-04-16,Integrated EFTPOS,7836.33
+Monday,2022-04-18,Integrated EFTPOS,3591.76
+Tuesday,2022-04-19,Integrated EFTPOS,3555.23
+Tuesday,2022-04-19,PayPal,-268.99
+Wednesday,2022-04-20,Integrated EFTPOS,2473.3
+Thursday,2022-04-21,Afterpay POS API Payment,-322.59
+Thursday,2022-04-21,CASH,126.0
+Thursday,2022-04-21,Gift Voucher,20.0
+Thursday,2022-04-21,Integrated EFTPOS,5326.59
+Friday,2022-04-22,Gift Voucher,20.0
+Friday,2022-04-22,Integrated EFTPOS,3807.2
+Saturday,2022-04-23,Gift Voucher,20.0
+Saturday,2022-04-23,Integrated EFTPOS,5668.04
+Saturday,2022-04-23,PayPal,-263.98
+Sunday,2022-04-24,Gift Voucher,125.99
+Sunday,2022-04-24,Integrated EFTPOS,3717.01
+Monday,2022-04-25,Integrated EFTPOS,1500.88
+Tuesday,2022-04-26,Gift Voucher,20.0
+Tuesday,2022-04-26,Integrated EFTPOS,3811.07
+Tuesday,2022-04-26,PayPal,-101.6
+Wednesday,2022-04-27,Account,189.99
+Wednesday,2022-04-27,Gift Voucher,20.0
+Wednesday,2022-04-27,Integrated EFTPOS,3537.61
+Thursday,2022-04-28,Integrated EFTPOS,5910.08
+Friday,2022-04-29,Account,429.98
+Friday,2022-04-29,Gift Voucher,20.0
+Friday,2022-04-29,Integrated EFTPOS,5560.79
+Saturday,2022-04-30,Gift Voucher,20.0
+Saturday,2022-04-30,Integrated EFTPOS,7991.68
+Sunday,2022-05-01,Integrated EFTPOS,5503.83
+Sunday,2022-05-01,PayPal,-158.4
+Monday,2022-05-02,Integrated EFTPOS,2867.3
+Monday,2022-05-02,Mail Order Pickup,151.99
+Tuesday,2022-05-03,Integrated EFTPOS,3652.67
+Wednesday,2022-05-04,Gift Voucher,40.0
+Wednesday,2022-05-04,Integrated EFTPOS,5552.33
+Thursday,2022-05-05,Integrated EFTPOS,3064.74
+Friday,2022-05-06,Integrated EFTPOS,3309.45
+Saturday,2022-05-07,Account,199.99
+Saturday,2022-05-07,Gift Voucher,20.0
+Saturday,2022-05-07,Integrated EFTPOS,14744.98
+Sunday,2022-05-08,Gift Voucher,100.0
+Sunday,2022-05-08,Integrated EFTPOS,6593.61
+Monday,2022-05-09,Integrated EFTPOS,3595.64
+Tuesday,2022-05-10,Integrated EFTPOS,2267.33
+Wednesday,2022-05-11,Integrated EFTPOS,3488.13
+Thursday,2022-05-12,Integrated EFTPOS,1668.36
+Thursday,2022-05-12,PayPal,-326.48
+Friday,2022-05-13,Integrated EFTPOS,2336.02
+Saturday,2022-05-14,CASH,370.0
+Saturday,2022-05-14,Gift Voucher,50.0
+Saturday,2022-05-14,Integrated EFTPOS,3651.71
+Sunday,2022-05-15,Integrated EFTPOS,3785.71
+Monday,2022-05-16,Integrated EFTPOS,4002.2
+Tuesday,2022-05-17,Integrated EFTPOS,2301.86
+Wednesday,2022-05-18,Account,789.97
+Wednesday,2022-05-18,Integrated EFTPOS,2750.75
+Thursday,2022-05-19,Gift Voucher,30.0
+Thursday,2022-05-19,Integrated EFTPOS,2680.79
+Friday,2022-05-20,Integrated EFTPOS,3082.67
+Saturday,2022-05-21,Integrated EFTPOS,5862.61
+Sunday,2022-05-22,Gift Voucher,20.0
+Sunday,2022-05-22,Integrated EFTPOS,5050.72
+Monday,2022-05-23,Integrated EFTPOS,2674.76
+Tuesday,2022-05-24,Integrated EFTPOS,2696.78
+Wednesday,2022-05-25,Integrated EFTPOS,2677.8
+Thursday,2022-05-26,Integrated EFTPOS,3534.76
+Friday,2022-05-27,Integrated EFTPOS,2207.84
+Saturday,2022-05-28,Integrated EFTPOS,8879.79
+Saturday,2022-05-28,PayPal,-254.39
+Sunday,2022-05-29,Gift Voucher,20.0
+Sunday,2022-05-29,Integrated EFTPOS,6972.31
+Sunday,2022-05-29,PayPal,-62.4
+Monday,2022-05-30,Integrated EFTPOS,240.97
+Tuesday,2022-05-31,Gift Voucher,20.0
+Tuesday,2022-05-31,Integrated EFTPOS,4503.75
+Wednesday,2022-06-01,Gift Voucher,20.0
+Wednesday,2022-06-01,Integrated EFTPOS,4878.89
+Thursday,2022-06-02,Integrated EFTPOS,2435.85
+Thursday,2022-06-02,PayPal,-135.99
+Friday,2022-06-03,Gift Voucher,20.0
+Friday,2022-06-03,Integrated EFTPOS,4033.91
+Saturday,2022-06-04,Account,99.0
+Saturday,2022-06-04,Gift Voucher,20.0
+Saturday,2022-06-04,Integrated EFTPOS,8743.59
+Sunday,2022-06-05,Gift Voucher,20.0
+Sunday,2022-06-05,Integrated EFTPOS,3676.83
+Monday,2022-06-06,Gift Voucher,20.0
+Monday,2022-06-06,Integrated EFTPOS,4286.76
+Tuesday,2022-06-07,Integrated EFTPOS,3159.85
+Wednesday,2022-06-08,Integrated EFTPOS,3199.29
+Thursday,2022-06-09,Integrated EFTPOS,2626.84
+Friday,2022-06-10,Account,233.19
+Friday,2022-06-10,Gift Voucher,102.4
+Friday,2022-06-10,Integrated EFTPOS,4027.73
+Saturday,2022-06-11,Gift Voucher,20.0
+Saturday,2022-06-11,Integrated EFTPOS,9660.35
+Sunday,2022-06-12,Gift Voucher,343.97
+Sunday,2022-06-12,Integrated EFTPOS,4006.56
+Monday,2022-06-13,Integrated EFTPOS,3706.19
+Tuesday,2022-06-14,Account,50.0
+Tuesday,2022-06-14,Gift Voucher,20.0
+Tuesday,2022-06-14,Integrated EFTPOS,2029.06
+Wednesday,2022-06-15,Integrated EFTPOS,2689.17
+Thursday,2022-06-16,Account,589.96
+Thursday,2022-06-16,Integrated EFTPOS,3205.35
+Thursday,2022-06-16,PayPal,-199.2
+Friday,2022-06-17,Integrated EFTPOS,4409.04
+Saturday,2022-06-18,Gift Voucher,270.59
+Saturday,2022-06-18,Integrated EFTPOS,6164.5
+Saturday,2022-06-18,PayPal,-271.98
+Sunday,2022-06-19,Integrated EFTPOS,5474.49
+Monday,2022-06-20,Integrated EFTPOS,3028.4
+Monday,2022-06-20,PayPal,-69.0
+Tuesday,2022-06-21,Account,69.3
+Tuesday,2022-06-21,Integrated EFTPOS,2707.73
+Wednesday,2022-06-22,Account,20.3
+Wednesday,2022-06-22,CASH,314.1
+Wednesday,2022-06-22,Integrated EFTPOS,2026.6
+Thursday,2022-06-23,Integrated EFTPOS,5452.1
+Friday,2022-06-24,Integrated EFTPOS,2409.13
+Saturday,2022-06-25,Account,361.18
+Saturday,2022-06-25,Integrated EFTPOS,4338.33
+Saturday,2022-06-25,PayPal,-23.2
+Sunday,2022-06-26,Gift Voucher,40.0
+Sunday,2022-06-26,Integrated EFTPOS,4850.33
+Monday,2022-06-27,Integrated EFTPOS,1621.61
+Tuesday,2022-06-28,Integrated EFTPOS,1702.4
+Tuesday,2022-06-28,Mail Order Pickup,119.99
+Wednesday,2022-06-29,Account,259.99
+Wednesday,2022-06-29,Birthday Voucher Refund,-20.0
+Wednesday,2022-06-29,Integrated EFTPOS,2975.31
+Thursday,2022-06-30,Gift Voucher,50.0
+Thursday,2022-06-30,Integrated EFTPOS,2610.26
+Thursday,2022-06-30,PayPal,-174.29
+Friday,2022-07-01,Integrated EFTPOS,1127.45
+Friday,2022-07-01,PayPal,-39.2
+Saturday,2022-07-02,Integrated EFTPOS,1979.14
+Sunday,2022-07-03,Integrated EFTPOS,1984.49
+Monday,2022-07-04,Integrated EFTPOS,1566.92
+Tuesday,2022-07-05,Integrated EFTPOS,1289.91
+Wednesday,2022-07-06,Integrated EFTPOS,3272.61
+Thursday,2022-07-07,Integrated EFTPOS,3388.85
+Friday,2022-07-08,Gift Voucher,40.0
+Friday,2022-07-08,Integrated EFTPOS,2673.23
+Saturday,2022-07-09,Gift Voucher,20.0
+Saturday,2022-07-09,Integrated EFTPOS,3030.21
+Sunday,2022-07-10,Afterpay POS API Payment,-239.99
+Sunday,2022-07-10,CASH,468.95
+Sunday,2022-07-10,Gift Voucher,40.0
+Sunday,2022-07-10,Integrated EFTPOS,3080.81
+Monday,2022-07-11,Gift Voucher,20.0
+Monday,2022-07-11,Integrated EFTPOS,2284.84
+Tuesday,2022-07-12,Account,169.99
+Tuesday,2022-07-12,Integrated EFTPOS,3535.76
+Wednesday,2022-07-13,Integrated EFTPOS,1197.9
+Thursday,2022-07-14,Account,200.0
+Thursday,2022-07-14,CASH,475.95
+Thursday,2022-07-14,Integrated EFTPOS,1585.86
+Friday,2022-07-15,Integrated EFTPOS,2060.37
+Saturday,2022-07-16,Gift Voucher,198.99
+Saturday,2022-07-16,Integrated EFTPOS,4853.14
+Sunday,2022-07-17,Gift Voucher,50.0
+Sunday,2022-07-17,Integrated EFTPOS,1713.84
+Monday,2022-07-18,Integrated EFTPOS,1403.44
+Tuesday,2022-07-19,Account,1251.93
+Tuesday,2022-07-19,Gift Voucher,20.0
+Tuesday,2022-07-19,Integrated EFTPOS,1460.91
+Wednesday,2022-07-20,Integrated EFTPOS,1912.83
+Thursday,2022-07-21,CASH,184.0
+Thursday,2022-07-21,Gift Voucher,271.99
+Thursday,2022-07-21,Integrated EFTPOS,846.93
+Thursday,2022-07-21,Mail Order Pickup,311.97
+Friday,2022-07-22,Account,231.98
+Friday,2022-07-22,Integrated EFTPOS,503.96
+Saturday,2022-07-23,Integrated EFTPOS,4906.64
+Sunday,2022-07-24,Gift Voucher,172.99
+Sunday,2022-07-24,Integrated EFTPOS,2536.82
+Monday,2022-07-25,Account,60.0
+Monday,2022-07-25,Integrated EFTPOS,2153.85
+Tuesday,2022-07-26,Integrated EFTPOS,1091.93
+Wednesday,2022-07-27,CASH,400.0
+Wednesday,2022-07-27,Gift Voucher,40.0
+Wednesday,2022-07-27,Integrated EFTPOS,1759.83
+Thursday,2022-07-28,Account,825.93
+Thursday,2022-07-28,CASH,312.0
+Thursday,2022-07-28,Gift Voucher,20.0
+Thursday,2022-07-28,Integrated EFTPOS,1728.87
+Friday,2022-07-29,Account,130.0
+Friday,2022-07-29,Gift Voucher,50.0
+Friday,2022-07-29,Integrated EFTPOS,3657.61
+Saturday,2022-07-30,Gift Voucher,50.0
+Saturday,2022-07-30,Integrated EFTPOS,2553.9
+Sunday,2022-07-31,Integrated EFTPOS,4455.89
+Monday,2022-08-01,Integrated EFTPOS,1208.91
+Tuesday,2022-08-02,Integrated EFTPOS,2374.91
+Wednesday,2022-08-03,Gift Voucher,20.0
+Wednesday,2022-08-03,Integrated EFTPOS,3256.9
+Thursday,2022-08-04,Integrated EFTPOS,2212.9
+Friday,2022-08-05,Integrated EFTPOS,2125.9
+Saturday,2022-08-06,Account,128.99
+Saturday,2022-08-06,CASH,81.0
+Saturday,2022-08-06,Gift Voucher,60.0
+Saturday,2022-08-06,Integrated EFTPOS,3012.83
+Sunday,2022-08-07,Integrated EFTPOS,2252.86
+Monday,2022-08-08,Gift Voucher,20.0
+Monday,2022-08-08,Integrated EFTPOS,3637.87
+Tuesday,2022-08-09,Account,-159.99
+Tuesday,2022-08-09,Integrated EFTPOS,1184.94
+Tuesday,2022-08-09,PayPal,-99.0
+Wednesday,2022-08-10,Gift Voucher,20.0
+Wednesday,2022-08-10,Integrated EFTPOS,1583.92
+Thursday,2022-08-11,Gift Voucher,20.0
+Thursday,2022-08-11,Integrated EFTPOS,2093.85
+Friday,2022-08-12,Account,584.94
+Friday,2022-08-12,CASH,0.0
+Friday,2022-08-12,Integrated EFTPOS,4610.56
+Friday,2022-08-12,PayPal,-118.0
+Saturday,2022-08-13,Integrated EFTPOS,3272.38
+Sunday,2022-08-14,Gift Voucher,20.0
+Sunday,2022-08-14,Integrated EFTPOS,3213.78
+Monday,2022-08-15,Integrated EFTPOS,2366.87
+Tuesday,2022-08-16,Account,1029.95
+Tuesday,2022-08-16,Integrated EFTPOS,1251.92
+Wednesday,2022-08-17,Gift Voucher,20.0
+Wednesday,2022-08-17,Integrated EFTPOS,1032.94
+Thursday,2022-08-18,Integrated EFTPOS,3011.73
+Friday,2022-08-19,CASH,223.0
+Friday,2022-08-19,Gift Voucher,60.0
+Friday,2022-08-19,Integrated EFTPOS,2182.31
+Friday,2022-08-19,PayPal,-47.99
+Saturday,2022-08-20,CASH,408.0
+Saturday,2022-08-20,Integrated EFTPOS,2776.83
+Saturday,2022-08-20,PayPal,-198.0
+Sunday,2022-08-21,Integrated EFTPOS,2933.83
+Monday,2022-08-22,Account,259.98
+Monday,2022-08-22,Integrated EFTPOS,2023.83
+Monday,2022-08-22,Mail Order Pickup,567.97
+Tuesday,2022-08-23,Gift Voucher,20.0
+Tuesday,2022-08-23,Integrated EFTPOS,2668.8
+Wednesday,2022-08-24,Account,49.0
+Wednesday,2022-08-24,Integrated EFTPOS,2702.8
+Wednesday,2022-08-24,Mail Order Pickup,164.98
+Thursday,2022-08-25,Gift Voucher,59.8
+Thursday,2022-08-25,Integrated EFTPOS,1425.9
+Friday,2022-08-26,CASH,135.0
+Friday,2022-08-26,Integrated EFTPOS,2265.82
+Saturday,2022-08-27,Gift Voucher,20.0
+Saturday,2022-08-27,Integrated EFTPOS,5870.59
+Saturday,2022-08-27,PayPal,-149.0
+Sunday,2022-08-28,Account,335.0
+Sunday,2022-08-28,Integrated EFTPOS,1639.35
+Monday,2022-08-29,Birthday Voucher Refund,-20.0
+Monday,2022-08-29,CASH,170.0
+Monday,2022-08-29,Integrated EFTPOS,2014.69
+Monday,2022-08-29,Mail Order Pickup,731.96
+Tuesday,2022-08-30,Integrated EFTPOS,3726.68
+Tuesday,2022-08-30,Mail Order Pickup,419.97
+Tuesday,2022-08-30,PayPal,-149.0
+Wednesday,2022-08-31,Integrated EFTPOS,2025.33
+Thursday,2022-09-01,Integrated EFTPOS,2387.31
+Friday,2022-09-02,Integrated EFTPOS,2185.27
+Friday,2022-09-02,Mail Order Pickup,323.98
+Saturday,2022-09-03,Gift Voucher,20.0
+Saturday,2022-09-03,Integrated EFTPOS,5302.59
+Sunday,2022-09-04,Gift Voucher,120.0
+Sunday,2022-09-04,Integrated EFTPOS,3163.72
+Monday,2022-09-05,Integrated EFTPOS,1473.89
+Monday,2022-09-05,Mail Order Pickup,134.99
+Tuesday,2022-09-06,CASH,139.0
+Tuesday,2022-09-06,Gift Voucher,20.0
+Tuesday,2022-09-06,Integrated EFTPOS,4514.29
+Tuesday,2022-09-06,PayPal,-119.0
+Wednesday,2022-09-07,Account,205.0
+Wednesday,2022-09-07,CASH,169.0
+Wednesday,2022-09-07,Integrated EFTPOS,3227.1
+Wednesday,2022-09-07,Mail Order Pickup,204.99
+Thursday,2022-09-08,CASH,107.0
+Thursday,2022-09-08,Gift Voucher,40.0
+Thursday,2022-09-08,Integrated EFTPOS,664.96
+Thursday,2022-09-08,Mail Order Pickup,49.0
+Friday,2022-09-09,Account,256.99
+Friday,2022-09-09,CASH,139.0
+Friday,2022-09-09,Gift Voucher,40.0
+Friday,2022-09-09,Integrated EFTPOS,2906.87
+Friday,2022-09-09,Mail Order Pickup,29.0
+Saturday,2022-09-10,Account,49.0
+Saturday,2022-09-10,Gift Voucher,20.0
+Saturday,2022-09-10,Integrated EFTPOS,5558.25
+Sunday,2022-09-11,Afterpay POS API Payment,-99.0
+Sunday,2022-09-11,Gift Voucher,20.0
+Sunday,2022-09-11,Integrated EFTPOS,4103.85
+Monday,2022-09-12,CASH,87.0
+Monday,2022-09-12,Integrated EFTPOS,1665.74
+Monday,2022-09-12,Mail Order Pickup,58.0
+Tuesday,2022-09-13,Gift Voucher,20.0
+Tuesday,2022-09-13,Integrated EFTPOS,3018.8
+Tuesday,2022-09-13,Mail Order Pickup,58.0
+Wednesday,2022-09-14,Account,175.19
+Wednesday,2022-09-14,CASH,23.2
+Wednesday,2022-09-14,Gift Voucher,20.0
+Wednesday,2022-09-14,Integrated EFTPOS,3363.99
+Wednesday,2022-09-14,PayPal,-91.05
+Thursday,2022-09-15,Gift Voucher,20.0
+Thursday,2022-09-15,Integrated EFTPOS,3613.8
+Friday,2022-09-16,Account,859.96
+Friday,2022-09-16,Birthday Voucher Refund,-0.75
+Friday,2022-09-16,Integrated EFTPOS,4451.03
+Friday,2022-09-16,Mail Order Pickup,206.39
+Friday,2022-09-16,PayPal,-98.0
+Saturday,2022-09-17,CASH,150.0
+Saturday,2022-09-17,Gift Voucher,29.0
+Saturday,2022-09-17,Integrated EFTPOS,3258.13
+Sunday,2022-09-18,Gift Voucher,20.0
+Sunday,2022-09-18,Integrated EFTPOS,2723.84
+Monday,2022-09-19,CASH,190.0
+Monday,2022-09-19,Gift Voucher,20.0
+Monday,2022-09-19,Integrated EFTPOS,1829.89
+Monday,2022-09-19,Mail Order Pickup,360.99
+Tuesday,2022-09-20,Account,85.0
+Tuesday,2022-09-20,CASH,110.0
+Tuesday,2022-09-20,Gift Voucher,20.0
+Tuesday,2022-09-20,Integrated EFTPOS,1034.93
+Tuesday,2022-09-20,PayPal,-78.0
+Wednesday,2022-09-21,CASH,99.0
+Wednesday,2022-09-21,Gift Voucher,20.0
+Wednesday,2022-09-21,Integrated EFTPOS,2709.83
+Thursday,2022-09-22,CASH,135.0
+Thursday,2022-09-22,Integrated EFTPOS,1393.99
+Friday,2022-09-23,Account,430.97
+Friday,2022-09-23,Integrated EFTPOS,1923.12
+Saturday,2022-09-24,CASH,404.2
+Saturday,2022-09-24,Integrated EFTPOS,2840.01
+Saturday,2022-09-24,PayPal,-128.0
+Sunday,2022-09-25,Afterpay POS API Payment,-49.0
+Sunday,2022-09-25,Gift Voucher,40.0
+Sunday,2022-09-25,Integrated EFTPOS,2333.82
+Monday,2022-09-26,Gift Voucher,20.0
+Monday,2022-09-26,Integrated EFTPOS,3712.03
+Monday,2022-09-26,Mail Order Pickup,779.95
+Tuesday,2022-09-27,Gift Voucher,170.0
+Tuesday,2022-09-27,Integrated EFTPOS,2191.65
+Wednesday,2022-09-28,Integrated EFTPOS,627.96
+Thursday,2022-09-29,Integrated EFTPOS,2489.66
+Friday,2022-09-30,Integrated EFTPOS,1438.4
+Saturday,2022-10-01,Gift Voucher,20.0
+Saturday,2022-10-01,Integrated EFTPOS,4175.75
+Sunday,2022-10-02,Account,179.99
+Sunday,2022-10-02,Integrated EFTPOS,775.93
+Monday,2022-10-03,Integrated EFTPOS,1675.89
+Tuesday,2022-10-04,Gift Voucher,20.0
+Tuesday,2022-10-04,Integrated EFTPOS,2850.85
+Wednesday,2022-10-05,CASH,81.0
+Wednesday,2022-10-05,Gift Voucher,20.0
+Wednesday,2022-10-05,Integrated EFTPOS,930.95
+Thursday,2022-10-06,Gift Voucher,20.0
+Thursday,2022-10-06,Integrated EFTPOS,442.95
+Thursday,2022-10-06,Mail Order Pickup,49.0
+Friday,2022-10-07,Gift Voucher,20.0
+Friday,2022-10-07,Integrated EFTPOS,2474.28
+Saturday,2022-10-08,CASH,135.0
+Saturday,2022-10-08,Gift Voucher,20.0
+Saturday,2022-10-08,Integrated EFTPOS,4950.09
+Sunday,2022-10-09,CASH,277.0
+Sunday,2022-10-09,Gift Voucher,50.0
+Sunday,2022-10-09,Integrated EFTPOS,3876.69
+Monday,2022-10-10,Integrated EFTPOS,998.91
+Monday,2022-10-10,Mail Order Pickup,260.97
+Tuesday,2022-10-11,Account,479.97
+Tuesday,2022-10-11,Afterpay POS API Payment,-199.0
+Tuesday,2022-10-11,Gift Voucher,20.0
+Tuesday,2022-10-11,Integrated EFTPOS,3794.75
+Tuesday,2022-10-11,Mail Order Pickup,278.98
+Wednesday,2022-10-12,Integrated EFTPOS,672.96
+Wednesday,2022-10-12,Mail Order Pickup,1118.93
+Wednesday,2022-10-12,PayPal,-49.0
+Thursday,2022-10-13,Account,799.94
+Thursday,2022-10-13,Integrated EFTPOS,4085.17
+Thursday,2022-10-13,Mail Order Pickup,625.95
+Friday,2022-10-14,CASH,205.0
+Friday,2022-10-14,Gift Voucher,20.0
+Friday,2022-10-14,Integrated EFTPOS,3764.77
+Friday,2022-10-14,Mail Order Pickup,299.98
+Saturday,2022-10-15,Account,336.53
+Saturday,2022-10-15,CASH,305.95
+Saturday,2022-10-15,Integrated EFTPOS,2438.27
+Sunday,2022-10-16,Integrated EFTPOS,4781.71
+Monday,2022-10-17,Integrated EFTPOS,314.98
+Monday,2022-10-17,Mail Order Pickup,358.98
+Tuesday,2022-10-18,Gift Voucher,20.0
+Tuesday,2022-10-18,Integrated EFTPOS,2228.36
+Wednesday,2022-10-19,CASH,190.0
+Wednesday,2022-10-19,Gift Voucher,30.0
+Wednesday,2022-10-19,Integrated EFTPOS,3565.76
+Wednesday,2022-10-19,Mail Order Pickup,134.99
+Thursday,2022-10-20,Integrated EFTPOS,1812.91
+Friday,2022-10-21,CASH,72.0
+Friday,2022-10-21,Gift Voucher,20.0
+Friday,2022-10-21,Integrated EFTPOS,3691.21
+Saturday,2022-10-22,Gift Voucher,20.0
+Saturday,2022-10-22,Integrated EFTPOS,4362.74
+Sunday,2022-10-23,CASH,323.95
+Sunday,2022-10-23,Integrated EFTPOS,3888.8
+Monday,2022-10-24,Gift Voucher,239.99
+Monday,2022-10-24,Integrated EFTPOS,2015.87
+Tuesday,2022-10-25,Integrated EFTPOS,1088.94
+Wednesday,2022-10-26,Gift Voucher,20.0
+Wednesday,2022-10-26,Integrated EFTPOS,2879.86
+Thursday,2022-10-27,Integrated EFTPOS,2042.41
+Friday,2022-10-28,CASH,99.0
+Friday,2022-10-28,Integrated EFTPOS,2075.52
+Saturday,2022-10-29,Integrated EFTPOS,2517.29
+Sunday,2022-10-30,CASH,49.0
+Sunday,2022-10-30,Gift Voucher,100.0
+Sunday,2022-10-30,Integrated EFTPOS,3220.8
+Monday,2022-10-31,Integrated EFTPOS,1232.93
+Monday,2022-10-31,Mail Order Pickup,99.0
+Tuesday,2022-11-01,CASH,478.4
+Tuesday,2022-11-01,Gift Voucher,20.0
+Tuesday,2022-11-01,Integrated EFTPOS,1625.86
+Wednesday,2022-11-02,Integrated EFTPOS,2975.83
+Wednesday,2022-11-02,Mail Order Pickup,106.66
+Thursday,2022-11-03,Gift Voucher,40.0
+Thursday,2022-11-03,Integrated EFTPOS,2697.75
+Thursday,2022-11-03,Mail Order Pickup,199.98
+Friday,2022-11-04,CASH,153.0
+Friday,2022-11-04,Integrated EFTPOS,1511.87
+Saturday,2022-11-05,CASH,81.0
+Saturday,2022-11-05,Gift Voucher,156.03
+Saturday,2022-11-05,Integrated EFTPOS,5192.5
+Sunday,2022-11-06,Integrated EFTPOS,4338.62
+Monday,2022-11-07,CASH,110.0
+Monday,2022-11-07,Integrated EFTPOS,2904.74
+Monday,2022-11-07,Mail Order Pickup,80.99
+Tuesday,2022-11-08,Gift Voucher,183.01
+Tuesday,2022-11-08,Integrated EFTPOS,4426.55
+Tuesday,2022-11-08,Mail Order Pickup,71.99
+Wednesday,2022-11-09,Account,119.99
+Wednesday,2022-11-09,Gift Voucher,20.0
+Wednesday,2022-11-09,Integrated EFTPOS,3287.73
+Wednesday,2022-11-09,Mail Order Pickup,263.98
+Thursday,2022-11-10,Account,110.72
+Thursday,2022-11-10,Integrated EFTPOS,2282.08
+Thursday,2022-11-10,Mail Order Pickup,711.97
+Friday,2022-11-11,Gift Voucher,20.0
+Friday,2022-11-11,Integrated EFTPOS,1394.87
+Friday,2022-11-11,Mail Order Pickup,205.99
+Saturday,2022-11-12,Integrated EFTPOS,3461.23
+Sunday,2022-11-13,Gift Voucher,98.99
+Sunday,2022-11-13,Integrated EFTPOS,2632.79
+Monday,2022-11-14,Integrated EFTPOS,2566.76
+Tuesday,2022-11-15,Integrated EFTPOS,1066.92
+Tuesday,2022-11-15,Mail Order Pickup,206.98
+Wednesday,2022-11-16,Integrated EFTPOS,2902.77
+Wednesday,2022-11-16,Mail Order Pickup,71.99
+Thursday,2022-11-17,Integrated EFTPOS,2245.9
+Friday,2022-11-18,Account,179.99
+Friday,2022-11-18,Integrated EFTPOS,3949.24
+Saturday,2022-11-19,Gift Voucher,170.0
+Saturday,2022-11-19,Integrated EFTPOS,6041.06
+Sunday,2022-11-20,Integrated EFTPOS,3225.9
+Sunday,2022-11-20,PayPal,-49.0
+Monday,2022-11-21,Birthday Voucher Refund,20.0
+Monday,2022-11-21,CASH,140.0
+Monday,2022-11-21,Integrated EFTPOS,2582.8
+Monday,2022-11-21,Mail Order Pickup,134.99
+Tuesday,2022-11-22,Integrated EFTPOS,1899.25
+Tuesday,2022-11-22,Mail Order Pickup,99.0
+Wednesday,2022-11-23,Integrated EFTPOS,2829.69
+Wednesday,2022-11-23,Mail Order Pickup,185.98
+Thursday,2022-11-24,Gift Voucher,20.0
+Thursday,2022-11-24,Integrated EFTPOS,5099.47
+Thursday,2022-11-24,Mail Order Pickup,119.99
+Friday,2022-11-25,Account,499.97
+Friday,2022-11-25,Afterpay POS API Payment,-59.99
+Friday,2022-11-25,CASH,779.95
+Friday,2022-11-25,Integrated EFTPOS,5743.37
+Friday,2022-11-25,Mail Order Pickup,87.99
+Saturday,2022-11-26,CASH,116.0
+Saturday,2022-11-26,Integrated EFTPOS,7691.17
+Sunday,2022-11-27,Afterpay POS API Payment,-151.99
+Sunday,2022-11-27,CASH,272.0
+Sunday,2022-11-27,Gift Voucher,310.0
+Sunday,2022-11-27,Integrated EFTPOS,7373.52
+Monday,2022-11-28,Account,50.0
+Monday,2022-11-28,Integrated EFTPOS,2458.7
+Monday,2022-11-28,Mail Order Pickup,647.95
+Tuesday,2022-11-29,Gift Voucher,20.0
+Tuesday,2022-11-29,Integrated EFTPOS,2769.19
+Tuesday,2022-11-29,Mail Order Pickup,188.98
+Wednesday,2022-11-30,Account,199.98
+Wednesday,2022-11-30,Gift Voucher,20.0
+Wednesday,2022-11-30,Integrated EFTPOS,2381.77
+Thursday,2022-12-01,Gift Voucher,20.0
+Thursday,2022-12-01,Integrated EFTPOS,184.94
+Friday,2022-12-02,Gift Voucher,20.0
+Friday,2022-12-02,Integrated EFTPOS,1474.33
+Saturday,2022-12-03,Account,515.04
+Saturday,2022-12-03,Integrated EFTPOS,3020.66
+Sunday,2022-12-04,Gift Voucher,391.97
+Sunday,2022-12-04,Integrated EFTPOS,1633.77
+Monday,2022-12-05,Integrated EFTPOS,2428.39
+Monday,2022-12-05,Mail Order Pickup,858.95
+Tuesday,2022-12-06,Gift Voucher,28.41
+Tuesday,2022-12-06,Integrated EFTPOS,1016.51
+Wednesday,2022-12-07,Account,189.98
+Wednesday,2022-12-07,Integrated EFTPOS,2616.63
+Thursday,2022-12-08,Gift Voucher,100.0
+Thursday,2022-12-08,Integrated EFTPOS,3390.67
+Thursday,2022-12-08,Mail Order Pickup,119.99
+Friday,2022-12-09,CASH,240.0
+Friday,2022-12-09,Integrated EFTPOS,2784.74
+Friday,2022-12-09,Mail Order Pickup,251.98
+Saturday,2022-12-10,CASH,172.0
+Saturday,2022-12-10,Gift Voucher,20.0
+Saturday,2022-12-10,Integrated EFTPOS,4289.62
+Sunday,2022-12-11,CASH,195.95
+Sunday,2022-12-11,Gift Voucher,20.0
+Sunday,2022-12-11,Integrated EFTPOS,3186.14
+Monday,2022-12-12,CASH,135.0
+Monday,2022-12-12,Gift Voucher,20.0
+Monday,2022-12-12,Integrated EFTPOS,1733.84
+Monday,2022-12-12,Mail Order Pickup,118.99
+Tuesday,2022-12-13,Integrated EFTPOS,1835.26
+Wednesday,2022-12-14,Integrated EFTPOS,3282.21
+Thursday,2022-12-15,Gift Voucher,355.3
+Thursday,2022-12-15,Integrated EFTPOS,2805.38
+Thursday,2022-12-15,Mail Order Pickup,104.99
+Friday,2022-12-16,CASH,50.0
+Friday,2022-12-16,Integrated EFTPOS,1803.82
+Friday,2022-12-16,Mail Order Pickup,235.98
+Friday,2022-12-16,PayPal,-300.98
+Saturday,2022-12-17,Account,571.97
+Saturday,2022-12-17,Gift Voucher,290.0
+Saturday,2022-12-17,Integrated EFTPOS,2862.63
+Sunday,2022-12-18,CASH,60.0
+Sunday,2022-12-18,Gift Voucher,40.0
+Sunday,2022-12-18,Integrated EFTPOS,2866.45
+Monday,2022-12-19,CASH,150.0
+Monday,2022-12-19,Integrated EFTPOS,2934.22
+Monday,2022-12-19,Mail Order Pickup,104.99
+Tuesday,2022-12-20,CASH,171.0
+Tuesday,2022-12-20,Integrated EFTPOS,4544.54
+Wednesday,2022-12-21,Account,510.0
+Wednesday,2022-12-21,Gift Voucher,40.0
+Wednesday,2022-12-21,Integrated EFTPOS,4657.72
+Thursday,2022-12-22,CASH,189.0
+Thursday,2022-12-22,Gift Voucher,50.0
+Thursday,2022-12-22,Integrated EFTPOS,9010.5
+Friday,2022-12-23,CASH,445.0
+Friday,2022-12-23,Integrated EFTPOS,7608.27
+Saturday,2022-12-24,CASH,324.0
+Saturday,2022-12-24,Gift Voucher,40.0
+Saturday,2022-12-24,Integrated EFTPOS,8277.56
+Monday,2022-12-26,CASH,117.0
+Monday,2022-12-26,Gift Voucher,150.0
+Monday,2022-12-26,Integrated EFTPOS,3673.87
+Tuesday,2022-12-27,CASH,18.0
+Tuesday,2022-12-27,Gift Voucher,460.98
+Tuesday,2022-12-27,Integrated EFTPOS,3077.85
+Wednesday,2022-12-28,Integrated EFTPOS,3812.78
+Wednesday,2022-12-28,Mail Order Pickup,291.98
+Thursday,2022-12-29,CASH,29.0
+Thursday,2022-12-29,Gift Voucher,576.0
+Thursday,2022-12-29,Integrated EFTPOS,3886.31
+Thursday,2022-12-29,Mail Order Pickup,246.98
+Friday,2022-12-30,Birthday Voucher Refund,20.0
+Friday,2022-12-30,CASH,29.0
+Friday,2022-12-30,Gift Voucher,242.98
+Friday,2022-12-30,Integrated EFTPOS,3255.86
+Saturday,2022-12-31,Account,250.0
+Saturday,2022-12-31,CASH,372.0
+Saturday,2022-12-31,Gift Voucher,40.0
+Saturday,2022-12-31,Integrated EFTPOS,2660.84
+Monday,2023-01-02,Integrated EFTPOS,3418.8
+Tuesday,2023-01-03,CASH,219.0
+Tuesday,2023-01-03,Gift Voucher,200.0
+Tuesday,2023-01-03,Integrated EFTPOS,1853.91
+Tuesday,2023-01-03,Mail Order Pickup,89.99
+Tuesday,2023-01-03,PayPal,-179.99
+Wednesday,2023-01-04,Integrated EFTPOS,1065.9
+Thursday,2023-01-05,CASH,450.0
+Thursday,2023-01-05,Eftpos card,89.99
+Thursday,2023-01-05,Gift Voucher,20.0
+Thursday,2023-01-05,Integrated EFTPOS,2571.45
+Friday,2023-01-06,Integrated EFTPOS,2354.65
+Friday,2023-01-06,Mail Order Pickup,535.96
+Saturday,2023-01-07,CASH,39.2
+Saturday,2023-01-07,Integrated EFTPOS,3571.0
+Sunday,2023-01-08,Account,379.98
+Sunday,2023-01-08,Integrated EFTPOS,2150.06
+Monday,2023-01-09,CASH,9.2
+Monday,2023-01-09,Gift Voucher,170.0
+Monday,2023-01-09,Integrated EFTPOS,998.56
+Monday,2023-01-09,Mail Order Pickup,95.99
+Tuesday,2023-01-10,Account,769.97
+Tuesday,2023-01-10,Gift Voucher,174.98
+Tuesday,2023-01-10,Integrated EFTPOS,1214.53
+Wednesday,2023-01-11,CASH,831.2
+Wednesday,2023-01-11,Integrated EFTPOS,2675.77
+Wednesday,2023-01-11,Mail Order Pickup,223.18
+Wednesday,2023-01-11,PayPal,-103.99
+Thursday,2023-01-12,Integrated EFTPOS,2215.62
+Thursday,2023-01-12,Mail Order Pickup,49.0
+Friday,2023-01-13,CASH,98.0
+Friday,2023-01-13,Integrated EFTPOS,1343.08
+Friday,2023-01-13,Mail Order Pickup,127.19
+Saturday,2023-01-14,CASH,120.0
+Saturday,2023-01-14,Gift Voucher,20.0
+Saturday,2023-01-14,Integrated EFTPOS,2436.65
+Sunday,2023-01-15,Integrated EFTPOS,1444.67
+Monday,2023-01-16,Afterpay POS API Payment,-119.2
+Monday,2023-01-16,Integrated EFTPOS,765.55
+Monday,2023-01-16,Mail Order Pickup,119.99
+Tuesday,2023-01-17,Credit note,-7.0
+Tuesday,2023-01-17,Gift Voucher,20.0
+Tuesday,2023-01-17,Integrated EFTPOS,1249.7
+Wednesday,2023-01-18,Birthday Voucher Refund,20.0
+Wednesday,2023-01-18,Credit note,7.0
+Wednesday,2023-01-18,Gift Voucher,40.0
+Wednesday,2023-01-18,Integrated EFTPOS,2420.4
+Wednesday,2023-01-18,Mail Order Pickup,111.99
+Thursday,2023-01-19,Gift Voucher,20.0
+Thursday,2023-01-19,Integrated EFTPOS,2699.56
+Thursday,2023-01-19,Mail Order Pickup,207.98
+Friday,2023-01-20,CASH,154.3
+Friday,2023-01-20,Integrated EFTPOS,1230.22
+Friday,2023-01-20,Mail Order Pickup,119.99
+Saturday,2023-01-21,Account,159.29
+Saturday,2023-01-21,CASH,120.0
+Saturday,2023-01-21,Credit note,-24.0
+Saturday,2023-01-21,Gift Voucher,20.0
+Saturday,2023-01-21,Integrated EFTPOS,1261.48
+Sunday,2023-01-22,Integrated EFTPOS,1866.36
+Monday,2023-01-23,Integrated EFTPOS,1884.42
+Monday,2023-01-23,Mail Order Pickup,71.99
+Tuesday,2023-01-24,Credit note,-89.99
+Tuesday,2023-01-24,Integrated EFTPOS,2611.27
+Wednesday,2023-01-25,Account,80.0
+Wednesday,2023-01-25,CASH,98.5
+Wednesday,2023-01-25,Integrated EFTPOS,639.72
+Wednesday,2023-01-25,Mail Order Pickup,259.47
+Thursday,2023-01-26,Integrated EFTPOS,1140.82
+Thursday,2023-01-26,PayPal,-23.2
+Friday,2023-01-27,CASH,75.0
+Friday,2023-01-27,Integrated EFTPOS,1294.48
+Saturday,2023-01-28,CASH,50.0
+Saturday,2023-01-28,Gift Voucher,270.0
+Saturday,2023-01-28,Integrated EFTPOS,1520.67
+Sunday,2023-01-29,Credit note,78.0
+Sunday,2023-01-29,Integrated EFTPOS,1529.99
+Monday,2023-01-30,Gift Voucher,50.0
+Monday,2023-01-30,Integrated EFTPOS,1434.74
+Tuesday,2023-01-31,Account,20.3
+Tuesday,2023-01-31,CASH,117.0
+Tuesday,2023-01-31,Gift Voucher,40.0
+Tuesday,2023-01-31,Integrated EFTPOS,1434.97
+Tuesday,2023-01-31,PayPal,-78.0
+Wednesday,2023-02-01,Integrated EFTPOS,639.12
+Wednesday,2023-02-01,Mail Order Pickup,104.99
+Thursday,2023-02-02,Gift Voucher,50.0
+Thursday,2023-02-02,Integrated EFTPOS,2946.75
+Friday,2023-02-03,Account,359.97
+Friday,2023-02-03,CASH,84.0
+Friday,2023-02-03,Integrated EFTPOS,2503.8
+Saturday,2023-02-04,Gift Voucher,100.0
+Saturday,2023-02-04,Integrated EFTPOS,3232.68
+Sunday,2023-02-05,Gift Voucher,98.99
+Sunday,2023-02-05,Integrated EFTPOS,1397.91
+Monday,2023-02-06,Integrated EFTPOS,2459.78
+Monday,2023-02-06,Mail Order Pickup,90.99
+Tuesday,2023-02-07,CASH,90.0
+Tuesday,2023-02-07,Integrated EFTPOS,527.45
+Wednesday,2023-02-08,Integrated EFTPOS,1022.41
+Wednesday,2023-02-08,Mail Order Pickup,152.99
+Thursday,2023-02-09,Account,509.96
+Thursday,2023-02-09,CASH,222.0
+Thursday,2023-02-09,Gift Voucher,20.0
+Thursday,2023-02-09,Integrated EFTPOS,1571.9
+Friday,2023-02-10,Integrated EFTPOS,2298.78
+Saturday,2023-02-11,Birthday Voucher Refund,-20.0
+Saturday,2023-02-11,Credit note,0.0
+Saturday,2023-02-11,Integrated EFTPOS,2712.76
+Sunday,2023-02-12,Account,160.0
+Sunday,2023-02-12,Integrated EFTPOS,1241.87
+Monday,2023-02-13,Integrated EFTPOS,1252.9
+Tuesday,2023-02-14,CASH,100.0
+Tuesday,2023-02-14,Integrated EFTPOS,1485.86
+Wednesday,2023-02-15,Integrated EFTPOS,1600.87
+Wednesday,2023-02-15,PayPal,-104.99
+Thursday,2023-02-16,Gift Voucher,134.99
+Thursday,2023-02-16,Integrated EFTPOS,4060.36
+Friday,2023-02-17,Integrated EFTPOS,1585.86
+Friday,2023-02-17,Mail Order Pickup,192.98
+Saturday,2023-02-18,Gift Voucher,40.0
+Saturday,2023-02-18,Integrated EFTPOS,1562.15
+Sunday,2023-02-19,Gift Voucher,20.0
+Sunday,2023-02-19,Integrated EFTPOS,3180.77
+Monday,2023-02-20,Integrated EFTPOS,506.94
+Tuesday,2023-02-21,CASH,300.0
+Tuesday,2023-02-21,Integrated EFTPOS,2198.82
+Wednesday,2023-02-22,Integrated EFTPOS,1267.89
+Thursday,2023-02-23,Integrated EFTPOS,1738.85
+Friday,2023-02-24,Integrated EFTPOS,1574.84
+Saturday,2023-02-25,Account,270.0
+Saturday,2023-02-25,CASH,99.0
+Saturday,2023-02-25,Integrated EFTPOS,863.9
+Sunday,2023-02-26,Account,116.85
+Sunday,2023-02-26,Gift Voucher,20.0
+Sunday,2023-02-26,Integrated EFTPOS,1935.95
+Monday,2023-02-27,Integrated EFTPOS,1646.84
+Monday,2023-02-27,Mail Order Pickup,119.99
+Tuesday,2023-02-28,CASH,170.0
+Tuesday,2023-02-28,Gift Voucher,40.0
+Tuesday,2023-02-28,Integrated EFTPOS,2187.89
+Wednesday,2023-03-01,CASH,50.0
+Wednesday,2023-03-01,Integrated EFTPOS,282.93
+Thursday,2023-03-02,CASH,411.95
+Thursday,2023-03-02,Gift Voucher,20.0
+Thursday,2023-03-02,Integrated EFTPOS,1991.85
+Thursday,2023-03-02,Mail Order Pickup,80.99
+Friday,2023-03-03,Gift Voucher,20.0
+Friday,2023-03-03,Integrated EFTPOS,2562.29
+Friday,2023-03-03,Mail Order Pickup,71.99
+Saturday,2023-03-04,CASH,389.95
+Saturday,2023-03-04,Gift Voucher,20.0
+Saturday,2023-03-04,Integrated EFTPOS,3751.23
+Sunday,2023-03-05,Integrated EFTPOS,1470.91
+Monday,2023-03-06,Integrated EFTPOS,747.93
+Tuesday,2023-03-07,Integrated EFTPOS,1022.92
+Wednesday,2023-03-08,Gift Voucher,20.0
+Wednesday,2023-03-08,Integrated EFTPOS,1311.91
+Thursday,2023-03-09,Integrated EFTPOS,1635.89
+Friday,2023-03-10,Account,85.03
+Friday,2023-03-10,Integrated EFTPOS,3657.65
+Friday,2023-03-10,Mail Order Pickup,139.99
+Saturday,2023-03-11,CASH,108.0
+Saturday,2023-03-11,Gift Voucher,20.0
+Saturday,2023-03-11,Integrated EFTPOS,2527.84
+Sunday,2023-03-12,Integrated EFTPOS,2296.86
+Monday,2023-03-13,CASH,14.95
+Monday,2023-03-13,Integrated EFTPOS,1750.79
+Tuesday,2023-03-14,CASH,160.0
+Tuesday,2023-03-14,Gift Voucher,20.0
+Tuesday,2023-03-14,Integrated EFTPOS,1764.88
+Wednesday,2023-03-15,Integrated EFTPOS,1977.91
+Wednesday,2023-03-15,Mail Order Pickup,716.97
+Thursday,2023-03-16,CASH,50.0
+Thursday,2023-03-16,Integrated EFTPOS,478.96
+Friday,2023-03-17,Integrated EFTPOS,2258.9
+Saturday,2023-03-18,CASH,99.0
+Saturday,2023-03-18,Integrated EFTPOS,876.97
+Sunday,2023-03-19,Integrated EFTPOS,1349.92
+Monday,2023-03-20,Integrated EFTPOS,1292.4
+Tuesday,2023-03-21,CASH,144.0
+Tuesday,2023-03-21,Gift Voucher,200.0
+Tuesday,2023-03-21,Integrated EFTPOS,2092.89
+Tuesday,2023-03-21,Mail Order Pickup,29.0
+Wednesday,2023-03-22,Account,510.12
+Wednesday,2023-03-22,CASH,99.0
+Wednesday,2023-03-22,Integrated EFTPOS,2996.71
+Thursday,2023-03-23,Account,102.4
+Thursday,2023-03-23,CASH,49.0
+Thursday,2023-03-23,Integrated EFTPOS,1979.03
+Friday,2023-03-24,CASH,159.2
+Friday,2023-03-24,Credit note,-103.99
+Friday,2023-03-24,Integrated EFTPOS,580.76
+Saturday,2023-03-25,Afterpay POS API Payment,-224.1
+Saturday,2023-03-25,Birthday Voucher Refund,20.0
+Saturday,2023-03-25,CASH,70.0
+Saturday,2023-03-25,Integrated EFTPOS,3333.42
+Sunday,2023-03-26,Integrated EFTPOS,2074.52
+Sunday,2023-03-26,Shopping Centre Vouchers,20.0
+Monday,2023-03-27,CASH,335.95
+Monday,2023-03-27,Gift Voucher,20.0
+Monday,2023-03-27,Integrated EFTPOS,2612.38
+Tuesday,2023-03-28,Gift Voucher,20.0
+Tuesday,2023-03-28,Integrated EFTPOS,2988.68
+Tuesday,2023-03-28,Mail Order Pickup,327.17
+Wednesday,2023-03-29,Integrated EFTPOS,2512.85
+Wednesday,2023-03-29,Mail Order Pickup,63.2
+Thursday,2023-03-30,Integrated EFTPOS,3057.42
+Friday,2023-03-31,Integrated EFTPOS,3683.11
+Saturday,2023-04-01,CASH,136.0
+Saturday,2023-04-01,Gift Voucher,120.0
+Saturday,2023-04-01,Integrated EFTPOS,4932.23
+Sunday,2023-04-02,CASH,144.0
+Sunday,2023-04-02,Integrated EFTPOS,2609.82
+Monday,2023-04-03,Integrated EFTPOS,1092.93
+Monday,2023-04-03,Mail Order Pickup,632.19
+Tuesday,2023-04-04,Integrated EFTPOS,1809.2
+Wednesday,2023-04-05,CASH,280.0
+Wednesday,2023-04-05,Credit note,-255.98
+Wednesday,2023-04-05,Integrated EFTPOS,1893.66
+Thursday,2023-04-06,Integrated EFTPOS,972.11
+Thursday,2023-04-06,Mail Order Pickup,89.0
+Saturday,2023-04-08,CASH,50.0
+Saturday,2023-04-08,Gift Voucher,150.0
+Saturday,2023-04-08,Integrated EFTPOS,3746.74
+Monday,2023-04-10,CASH,144.0
+Monday,2023-04-10,Integrated EFTPOS,2830.76
+Tuesday,2023-04-11,Integrated EFTPOS,2010.42
+Wednesday,2023-04-12,Account,509.97
+Wednesday,2023-04-12,Birthday Voucher Refund,20.0
+Wednesday,2023-04-12,Integrated EFTPOS,1424.51
+Wednesday,2023-04-12,Mail Order Pickup,251.98
+Thursday,2023-04-13,Gift Voucher,20.0
+Thursday,2023-04-13,Integrated EFTPOS,2959.78
+Friday,2023-04-14,Gift Voucher,294.98
+Friday,2023-04-14,Integrated EFTPOS,2813.12
+Friday,2023-04-14,Mail Order Pickup,89.0
+Friday,2023-04-14,PayPal,-110.6
+Saturday,2023-04-15,Account,330.02
+Saturday,2023-04-15,Integrated EFTPOS,4382.37
+Sunday,2023-04-16,Eftpos card,379.97
+Sunday,2023-04-16,Integrated EFTPOS,1513.0
+Monday,2023-04-17,Integrated EFTPOS,2300.16
+Monday,2023-04-17,Mail Order Pickup,510.96
+Tuesday,2023-04-18,Afterpay POS API Payment,-359.99
+Tuesday,2023-04-18,Integrated EFTPOS,3616.89
+Wednesday,2023-04-19,Integrated EFTPOS,4891.61
+Wednesday,2023-04-19,Mail Order Pickup,119.99
+Thursday,2023-04-20,Integrated EFTPOS,3715.68
+Thursday,2023-04-20,Mail Order Pickup,319.99
+Friday,2023-04-21,Account,59.99
+Friday,2023-04-21,Integrated EFTPOS,3994.77
+Friday,2023-04-21,Mail Order Pickup,251.98
+Saturday,2023-04-22,Account,85.02
+Saturday,2023-04-22,Gift Voucher,50.0
+Saturday,2023-04-22,Integrated EFTPOS,5313.62
+Saturday,2023-04-22,Shopping Centre Vouchers,20.0
+Sunday,2023-04-23,Integrated EFTPOS,4647.75
+Monday,2023-04-24,Integrated EFTPOS,3103.79
+Monday,2023-04-24,Mail Order Pickup,275.98
+Tuesday,2023-04-25,Integrated EFTPOS,-7.0
+Wednesday,2023-04-26,CASH,89.0
+Wednesday,2023-04-26,Integrated EFTPOS,2083.58
+Wednesday,2023-04-26,Mail Order Pickup,143.99
+Thursday,2023-04-27,Account,40.01
+Thursday,2023-04-27,Gift Voucher,20.0
+Thursday,2023-04-27,Integrated EFTPOS,1819.82
+Friday,2023-04-28,Account,209.99
+Friday,2023-04-28,Credit note,-197.99
+Friday,2023-04-28,Integrated EFTPOS,2185.83
+Friday,2023-04-28,Mail Order Pickup,184.98
+Saturday,2023-04-29,Integrated EFTPOS,4484.72
+Sunday,2023-04-30,Integrated EFTPOS,6344.63
+Monday,2023-05-01,Integrated EFTPOS,2841.78
+Monday,2023-05-01,Mail Order Pickup,529.97
+Tuesday,2023-05-02,Account,999.96
+Tuesday,2023-05-02,Gift Voucher,109.0
+Tuesday,2023-05-02,Integrated EFTPOS,6527.52
+Wednesday,2023-05-03,CASH,1055.95
+Wednesday,2023-05-03,Gift Voucher,119.99
+Wednesday,2023-05-03,Integrated EFTPOS,3150.76
+Wednesday,2023-05-03,Mail Order Pickup,295.98
+Thursday,2023-05-04,Account,409.97
+Thursday,2023-05-04,CASH,136.0
+Thursday,2023-05-04,Integrated EFTPOS,4312.7
+Friday,2023-05-05,Integrated EFTPOS,6596.52
+Friday,2023-05-05,Mail Order Pickup,303.96
+Saturday,2023-05-06,CASH,179.95
+Saturday,2023-05-06,Integrated EFTPOS,7177.54
+Sunday,2023-05-07,Integrated EFTPOS,3733.15
+Sunday,2023-05-07,Shopping Centre Vouchers,20.0
+Monday,2023-05-08,CASH,160.0
+Monday,2023-05-08,Integrated EFTPOS,4674.68
+Monday,2023-05-08,Mail Order Pickup,319.99
+Tuesday,2023-05-09,CASH,408.0
+Tuesday,2023-05-09,Integrated EFTPOS,4311.7
+Tuesday,2023-05-09,Mail Order Pickup,135.99
+Wednesday,2023-05-10,Gift Voucher,4.0
+Wednesday,2023-05-10,Integrated EFTPOS,4149.77
+Thursday,2023-05-11,Integrated EFTPOS,5468.54
+Friday,2023-05-12,CASH,360.0
+Friday,2023-05-12,Integrated EFTPOS,5860.55
+Friday,2023-05-12,Mail Order Pickup,127.98
+Friday,2023-05-12,PayPal,-119.99
+Saturday,2023-05-13,CASH,396.0
+Saturday,2023-05-13,Integrated EFTPOS,5954.64
+Sunday,2023-05-14,Integrated EFTPOS,3423.48
+Monday,2023-05-15,Integrated EFTPOS,2600.83
+Tuesday,2023-05-16,CASH,187.5
+Tuesday,2023-05-16,Credit note,-295.98
+Tuesday,2023-05-16,Integrated EFTPOS,2241.81
+Tuesday,2023-05-16,Mail Order Pickup,119.99
+Wednesday,2023-05-17,Credit note,295.98
+Wednesday,2023-05-17,Gift Voucher,20.0
+Wednesday,2023-05-17,Integrated EFTPOS,4325.16
+Wednesday,2023-05-17,Mail Order Pickup,463.97
+Thursday,2023-05-18,CASH,45.0
+Thursday,2023-05-18,Integrated EFTPOS,4852.68
+Friday,2023-05-19,CASH,217.5
+Friday,2023-05-19,Integrated EFTPOS,3190.77
+Saturday,2023-05-20,CASH,253.0
+Saturday,2023-05-20,Integrated EFTPOS,6099.98
+Sunday,2023-05-21,CASH,50.0
+Sunday,2023-05-21,Integrated EFTPOS,4299.42
+Monday,2023-05-22,CASH,153.0
+Monday,2023-05-22,Integrated EFTPOS,4234.71
+Monday,2023-05-22,Mail Order Pickup,90.99
+Tuesday,2023-05-23,Gift Voucher,100.0
+Tuesday,2023-05-23,Integrated EFTPOS,3283.79
+Tuesday,2023-05-23,Mail Order Pickup,143.99
+Wednesday,2023-05-24,Gift Voucher,20.0
+Wednesday,2023-05-24,Integrated EFTPOS,4709.69
+Thursday,2023-05-25,Account,99.99
+Thursday,2023-05-25,Birthday Voucher Refund,20.0
+Thursday,2023-05-25,CASH,45.95
+Thursday,2023-05-25,Integrated EFTPOS,4391.28
+Thursday,2023-05-25,Mail Order Pickup,95.98
+Friday,2023-05-26,Integrated EFTPOS,3182.25
+Friday,2023-05-26,Mail Order Pickup,99.99
+Saturday,2023-05-27,Integrated EFTPOS,4372.7
+Sunday,2023-05-28,CASH,30.0
+Sunday,2023-05-28,Integrated EFTPOS,8725.39
+Sunday,2023-05-28,PayPal,-185.35
+Monday,2023-05-29,Gift Voucher,20.0
+Monday,2023-05-29,Integrated EFTPOS,3003.84
+Tuesday,2023-05-30,Integrated EFTPOS,3864.83
+Tuesday,2023-05-30,Mail Order Pickup,103.99
+Wednesday,2023-05-31,Gift Voucher,20.0
+Wednesday,2023-05-31,Integrated EFTPOS,3296.86
+Thursday,2023-06-01,CASH,48.0
+Thursday,2023-06-01,Integrated EFTPOS,2909.1
+Thursday,2023-06-01,Mail Order Pickup,89.0
+Friday,2023-06-02,Account,1109.96
+Friday,2023-06-02,CASH,-146.0
+Friday,2023-06-02,Integrated EFTPOS,2478.89
+Friday,2023-06-02,Mail Order Pickup,458.99
+Saturday,2023-06-03,Account,179.99
+Saturday,2023-06-03,CASH,144.0
+Saturday,2023-06-03,Eftpos card,239.98
+Saturday,2023-06-03,Gift Voucher,50.0
+Saturday,2023-06-03,Integrated EFTPOS,5474.16
+Sunday,2023-06-04,Afterpay POS API Payment,-199.99
+Sunday,2023-06-04,Integrated EFTPOS,5230.41
+Monday,2023-06-05,Integrated EFTPOS,2645.85
+Monday,2023-06-05,Mail Order Pickup,713.96
+Tuesday,2023-06-06,Account,530.04
+Tuesday,2023-06-06,Afterpay POS API Payment,-199.0
+Tuesday,2023-06-06,CASH,31.9
+Tuesday,2023-06-06,Integrated EFTPOS,1539.93
+Wednesday,2023-06-07,CASH,184.0
+Wednesday,2023-06-07,Gift Voucher,200.0
+Wednesday,2023-06-07,Integrated EFTPOS,3123.27
+Thursday,2023-06-08,Integrated EFTPOS,3321.81
+Friday,2023-06-09,CASH,178.0
+Friday,2023-06-09,Integrated EFTPOS,3135.85
+Saturday,2023-06-10,Account,399.99
+Saturday,2023-06-10,Integrated EFTPOS,3943.35
+Sunday,2023-06-11,CASH,129.0
+Sunday,2023-06-11,Gift Voucher,79.99
+Sunday,2023-06-11,Integrated EFTPOS,2893.78
+Sunday,2023-06-11,PayPal,-199.99
+Monday,2023-06-12,Account,461.59
+Monday,2023-06-12,CASH,256.0
+Monday,2023-06-12,Integrated EFTPOS,3674.22
+Tuesday,2023-06-13,Integrated EFTPOS,2139.84
+Tuesday,2023-06-13,Mail Order Pickup,235.98
+Wednesday,2023-06-14,CASH,199.2
+Wednesday,2023-06-14,Gift Voucher,40.0
+Wednesday,2023-06-14,Integrated EFTPOS,1685.32
+Wednesday,2023-06-14,PayPal,-99.0
+Thursday,2023-06-15,CASH,200.0
+Thursday,2023-06-15,Integrated EFTPOS,1725.0
+Friday,2023-06-16,Integrated EFTPOS,3239.38
+Saturday,2023-06-17,Afterpay POS API Payment,-199.0
+Saturday,2023-06-17,Integrated EFTPOS,4759.39
+Sunday,2023-06-18,Account,47.99
+Sunday,2023-06-18,Integrated EFTPOS,5458.96
+Monday,2023-06-19,Integrated EFTPOS,2853.46
+Monday,2023-06-19,Mail Order Pickup,126.4
+Tuesday,2023-06-20,Integrated EFTPOS,2801.23
+Wednesday,2023-06-21,Account,90.3
+Wednesday,2023-06-21,CASH,140.0
+Wednesday,2023-06-21,Gift Voucher,20.0
+Wednesday,2023-06-21,Integrated EFTPOS,2923.23
+Wednesday,2023-06-21,Mail Order Pickup,90.99
+Wednesday,2023-06-21,PayPal,-29.0
+Thursday,2023-06-22,CASH,440.3
+Thursday,2023-06-22,Integrated EFTPOS,3596.88
+Thursday,2023-06-22,PayPal,-135.99
+Friday,2023-06-23,Account,55.3
+Friday,2023-06-23,Afterpay POS API Payment,-314.99
+Friday,2023-06-23,Gift Voucher,90.3
+Friday,2023-06-23,Integrated EFTPOS,2875.62
+Saturday,2023-06-24,Integrated EFTPOS,4966.78
+Sunday,2023-06-25,Integrated EFTPOS,5643.12
+Monday,2023-06-26,Integrated EFTPOS,1745.82
+Tuesday,2023-06-27,Gift Voucher,20.0
+Tuesday,2023-06-27,Integrated EFTPOS,2204.45
+Tuesday,2023-06-27,Mail Order Pickup,90.99
+Wednesday,2023-06-28,CASH,672.0
+Wednesday,2023-06-28,Integrated EFTPOS,1914.08
+Wednesday,2023-06-28,PayPal,-55.3
+Thursday,2023-06-29,Account,49.0
+Thursday,2023-06-29,CASH,34.3
+Thursday,2023-06-29,Integrated EFTPOS,4556.71
+Friday,2023-06-30,Integrated EFTPOS,1806.09
+Friday,2023-06-30,Mail Order Pickup,49.0
+Saturday,2023-07-01,CASH,369.25
+Saturday,2023-07-01,Gift Voucher,20.0
+Saturday,2023-07-01,Integrated EFTPOS,5774.58
+Sunday,2023-07-02,CASH,297.0
+Sunday,2023-07-02,Integrated EFTPOS,3984.25
+Monday,2023-07-03,CASH,179.0
+Monday,2023-07-03,Integrated EFTPOS,1243.53
+Tuesday,2023-07-04,CASH,108.0
+Tuesday,2023-07-04,Gift Voucher,40.0
+Tuesday,2023-07-04,Integrated EFTPOS,2237.66
+Wednesday,2023-07-05,Account,289.31
+Wednesday,2023-07-05,Integrated EFTPOS,2216.99
+Thursday,2023-07-06,Integrated EFTPOS,1466.18
+Friday,2023-07-07,Account,118.99
+Friday,2023-07-07,Integrated EFTPOS,3696.4
+Friday,2023-07-07,Mail Order Pickup,270.98
+Saturday,2023-07-08,Gift Voucher,59.7
+Saturday,2023-07-08,Integrated EFTPOS,2945.61
+Sunday,2023-07-09,CASH,245.0
+Sunday,2023-07-09,Integrated EFTPOS,4322.94
+Monday,2023-07-10,CASH,659.95
+Monday,2023-07-10,Integrated EFTPOS,3618.45
+Tuesday,2023-07-11,Credit note,-158.0
+Tuesday,2023-07-11,Integrated EFTPOS,4241.32
+Wednesday,2023-07-12,CASH,272.0
+Wednesday,2023-07-12,Integrated EFTPOS,3627.56
+Thursday,2023-07-13,CASH,280.0
+Thursday,2023-07-13,Integrated EFTPOS,2004.38
+Friday,2023-07-14,CASH,69.3
+Friday,2023-07-14,Integrated EFTPOS,1091.6
+Saturday,2023-07-15,Gift Voucher,20.0
+Saturday,2023-07-15,Integrated EFTPOS,2311.14
+Sunday,2023-07-16,Integrated EFTPOS,1620.77
+Monday,2023-07-17,Integrated EFTPOS,1550.83
+Tuesday,2023-07-18,Gift Voucher,71.99
+Tuesday,2023-07-18,Integrated EFTPOS,1997.82
+Wednesday,2023-07-19,CASH,11.45
+Wednesday,2023-07-19,Gift Voucher,20.0
+Wednesday,2023-07-19,Integrated EFTPOS,1535.45
+Thursday,2023-07-20,Gift Voucher,20.0
+Thursday,2023-07-20,Integrated EFTPOS,1615.97
+Friday,2023-07-21,Account,40.0
+Friday,2023-07-21,CASH,401.0
+Friday,2023-07-21,Integrated EFTPOS,1719.88
+Friday,2023-07-21,Mail Order Pickup,104.99
+Saturday,2023-07-22,Gift Voucher,20.0
+Saturday,2023-07-22,Integrated EFTPOS,3327.85
+Sunday,2023-07-23,Account,20.0
+Sunday,2023-07-23,Gift Voucher,20.0
+Sunday,2023-07-23,Integrated EFTPOS,2164.84
+Monday,2023-07-24,Account,79.0
+Monday,2023-07-24,Integrated EFTPOS,461.66
+Monday,2023-07-24,Mail Order Pickup,179.99
+Tuesday,2023-07-25,Integrated EFTPOS,1325.96
+Tuesday,2023-07-25,Mail Order Pickup,242.99
+Wednesday,2023-07-26,Integrated EFTPOS,2056.8
+Thursday,2023-07-27,Integrated EFTPOS,2739.8
+Friday,2023-07-28,Integrated EFTPOS,740.93
+Friday,2023-07-28,Mail Order Pickup,159.99
+Saturday,2023-07-29,Integrated EFTPOS,2514.77
+Sunday,2023-07-30,Integrated EFTPOS,2087.89
+Monday,2023-07-31,Integrated EFTPOS,1454.9
+Monday,2023-07-31,Mail Order Pickup,63.99
+Tuesday,2023-08-01,CASH,72.0
+Tuesday,2023-08-01,Integrated EFTPOS,432.97
+Wednesday,2023-08-02,Integrated EFTPOS,1379.91
+Thursday,2023-08-03,Integrated EFTPOS,2360.8
+Friday,2023-08-04,Credit note,0.0
+Friday,2023-08-04,Gift Voucher,20.0
+Friday,2023-08-04,Integrated EFTPOS,1040.94
+Friday,2023-08-04,PayPal,-149.0
+Saturday,2023-08-05,Integrated EFTPOS,2456.87
+Sunday,2023-08-06,CASH,225.0
+Sunday,2023-08-06,Gift Voucher,20.0
+Sunday,2023-08-06,Integrated EFTPOS,2691.87
+Monday,2023-08-07,Integrated EFTPOS,1506.91
+Monday,2023-08-07,Mail Order Pickup,152.99
+Tuesday,2023-08-08,Account,369.98
+Tuesday,2023-08-08,Gift Voucher,20.0
+Tuesday,2023-08-08,Integrated EFTPOS,1389.91
+Wednesday,2023-08-09,Afterpay POS API Payment,-49.01
+Wednesday,2023-08-09,Integrated EFTPOS,2490.86
+Thursday,2023-08-10,Integrated EFTPOS,806.93
+Friday,2023-08-11,Account,426.97
+Friday,2023-08-11,Integrated EFTPOS,3251.85
+Saturday,2023-08-12,Account,449.96
+Saturday,2023-08-12,Integrated EFTPOS,3047.8
+Sunday,2023-08-13,Integrated EFTPOS,1658.89
+Monday,2023-08-14,Integrated EFTPOS,2067.89
+Tuesday,2023-08-15,Account,160.0
+Tuesday,2023-08-15,Gift Voucher,20.0
+Tuesday,2023-08-15,Integrated EFTPOS,1859.53
+Wednesday,2023-08-16,Integrated EFTPOS,2422.57
+Wednesday,2023-08-16,Mail Order Pickup,179.99
+Thursday,2023-08-17,Gift Voucher,20.0
+Thursday,2023-08-17,Integrated EFTPOS,1857.78
+Friday,2023-08-18,Integrated EFTPOS,1534.27
+Saturday,2023-08-19,CASH,72.0
+Saturday,2023-08-19,Integrated EFTPOS,3406.22
+Sunday,2023-08-20,Account,107.82
+Sunday,2023-08-20,CASH,20.0
+Sunday,2023-08-20,Eftpos card,295.99
+Sunday,2023-08-20,Integrated EFTPOS,1650.7
+Monday,2023-08-21,Integrated EFTPOS,3672.47
+Monday,2023-08-21,Mail Order Pickup,191.98
+Tuesday,2023-08-22,Integrated EFTPOS,2703.78
+Tuesday,2023-08-22,Mail Order Pickup,125.99
+Tuesday,2023-08-22,PayPal,-199.0
+Wednesday,2023-08-23,Integrated EFTPOS,3291.82
+Thursday,2023-08-24,Integrated EFTPOS,2978.93
+Thursday,2023-08-24,Mail Order Pickup,109.0
+Friday,2023-08-25,Integrated EFTPOS,1534.98
+Saturday,2023-08-26,Integrated EFTPOS,4382.75
+Sunday,2023-08-27,Account,169.99
+Sunday,2023-08-27,Integrated EFTPOS,3246.81
+Monday,2023-08-28,Gift Voucher,80.99
+Monday,2023-08-28,Integrated EFTPOS,2064.93
+Monday,2023-08-28,Mail Order Pickup,59.0
+Tuesday,2023-08-29,Gift Voucher,20.0
+Tuesday,2023-08-29,Integrated EFTPOS,3132.84
+Tuesday,2023-08-29,Mail Order Pickup,148.0
+Wednesday,2023-08-30,Account,62.0
+Wednesday,2023-08-30,CASH,28.0
+Wednesday,2023-08-30,Integrated EFTPOS,1909.87
+Wednesday,2023-08-30,Mail Order Pickup,89.99
+Thursday,2023-08-31,Account,0.0
+Thursday,2023-08-31,Integrated EFTPOS,2990.35
+Friday,2023-09-01,Account,279.98
+Friday,2023-09-01,CASH,128.0
+Friday,2023-09-01,Gift Voucher,20.0
+Friday,2023-09-01,Integrated EFTPOS,2779.87
+Saturday,2023-09-02,Eftpos card,-295.99
+Saturday,2023-09-02,Gift Voucher,40.0
+Saturday,2023-09-02,Integrated EFTPOS,7690.61
+Sunday,2023-09-03,Integrated EFTPOS,6816.17
+Monday,2023-09-04,Integrated EFTPOS,2234.33
+Monday,2023-09-04,Mail Order Pickup,292.99
+Tuesday,2023-09-05,CASH,0.2
+Tuesday,2023-09-05,Gift Voucher,20.0
+Tuesday,2023-09-05,Integrated EFTPOS,1917.88
+Tuesday,2023-09-05,Mail Order Pickup,263.98
+Wednesday,2023-09-06,CASH,78.4
+Wednesday,2023-09-06,Integrated EFTPOS,2913.39
+Thursday,2023-09-07,CASH,0.0
+Thursday,2023-09-07,Eftpos card,0.0
+Thursday,2023-09-07,Gift Voucher,20.0
+Thursday,2023-09-07,Integrated EFTPOS,1554.07
+Friday,2023-09-08,Integrated EFTPOS,1023.33
+Saturday,2023-09-09,CASH,301.0
+Saturday,2023-09-09,Eftpos card,233.98
+Saturday,2023-09-09,Gift Voucher,20.0
+Saturday,2023-09-09,Integrated EFTPOS,2981.29
+Sunday,2023-09-10,Afterpay POS API Payment,-178.0
+Sunday,2023-09-10,Gift Voucher,20.0
+Sunday,2023-09-10,Integrated EFTPOS,2083.89
+Monday,2023-09-11,Integrated EFTPOS,2741.72
+Tuesday,2023-09-12,Account,50.0
+Tuesday,2023-09-12,Integrated EFTPOS,1388.8
+Tuesday,2023-09-12,Mail Order Pickup,71.99
+Wednesday,2023-09-13,Integrated EFTPOS,2518.33
+Thursday,2023-09-14,CASH,180.0
+Thursday,2023-09-14,Gift Voucher,39.01
+Thursday,2023-09-14,Integrated EFTPOS,2026.23
+Thursday,2023-09-14,Mail Order Pickup,134.99
+Friday,2023-09-15,Integrated EFTPOS,1930.48
+Saturday,2023-09-16,Gift Voucher,120.0
+Saturday,2023-09-16,Integrated EFTPOS,2085.02
+Saturday,2023-09-16,PayPal,-88.99
+Sunday,2023-09-17,Integrated EFTPOS,783.94
+Monday,2023-09-18,Integrated EFTPOS,2507.85
+Monday,2023-09-18,Mail Order Pickup,198.98
+Tuesday,2023-09-19,Integrated EFTPOS,2248.76
+Wednesday,2023-09-20,Gift Voucher,20.0
+Wednesday,2023-09-20,Integrated EFTPOS,1684.86
+Thursday,2023-09-21,CASH,150.0
+Thursday,2023-09-21,Integrated EFTPOS,1937.84
+Friday,2023-09-22,Gift Voucher,18.0
+Friday,2023-09-22,Integrated EFTPOS,1359.88
+Saturday,2023-09-23,Integrated EFTPOS,3618.65
+Sunday,2023-09-24,CASH,178.0
+Sunday,2023-09-24,Integrated EFTPOS,2407.78
+Monday,2023-09-25,Integrated EFTPOS,2429.8
+Monday,2023-09-25,Mail Order Pickup,212.26
+Tuesday,2023-09-26,CASH,610.95
+Tuesday,2023-09-26,Gift Voucher,20.0
+Tuesday,2023-09-26,Integrated EFTPOS,3162.48
+Wednesday,2023-09-27,CASH,171.0
+Wednesday,2023-09-27,Gift Voucher,20.0
+Wednesday,2023-09-27,Integrated EFTPOS,2749.74
+Wednesday,2023-09-27,Mail Order Pickup,102.15
+Thursday,2023-09-28,Integrated EFTPOS,1475.78
+Thursday,2023-09-28,Mail Order Pickup,224.99
+Thursday,2023-09-28,PayPal,-206.98
+Friday,2023-09-29,CASH,120.0
+Friday,2023-09-29,Gift Voucher,98.0
+Friday,2023-09-29,Integrated EFTPOS,2554.78
+Saturday,2023-09-30,Gift Voucher,40.0
+Saturday,2023-09-30,Integrated EFTPOS,5462.48
+Sunday,2023-10-01,Integrated EFTPOS,3471.65
+Monday,2023-10-02,Integrated EFTPOS,2384.77
+Monday,2023-10-02,Mail Order Pickup,244.97
+Tuesday,2023-10-03,Account,794.96
+Tuesday,2023-10-03,Integrated EFTPOS,1041.88
+Wednesday,2023-10-04,Account,309.97
+Wednesday,2023-10-04,CASH,135.0
+Wednesday,2023-10-04,Gift Voucher,40.0
+Wednesday,2023-10-04,Integrated EFTPOS,2115.84
+Wednesday,2023-10-04,Mail Order Pickup,134.99
+Wednesday,2023-10-04,PayPal,-383.45
+Thursday,2023-10-05,Integrated EFTPOS,720.93
+Thursday,2023-10-05,Mail Order Pickup,435.96
+Friday,2023-10-06,Account,290.0
+Friday,2023-10-06,CASH,118.0
+Friday,2023-10-06,Gift Voucher,20.0
+Friday,2023-10-06,Integrated EFTPOS,2042.77
+Saturday,2023-10-07,CASH,72.0
+Saturday,2023-10-07,Integrated EFTPOS,2252.86
+Sunday,2023-10-08,Gift Voucher,20.0
+Sunday,2023-10-08,Integrated EFTPOS,1984.86
+Monday,2023-10-09,Account,50.0
+Monday,2023-10-09,Integrated EFTPOS,671.94
+Monday,2023-10-09,Mail Order Pickup,152.99
+Tuesday,2023-10-10,Gift Voucher,20.0
+Tuesday,2023-10-10,Integrated EFTPOS,1697.87
+Tuesday,2023-10-10,PayPal,-17.98
+Wednesday,2023-10-11,CASH,135.0
+Wednesday,2023-10-11,Gift Voucher,20.0
+Wednesday,2023-10-11,Integrated EFTPOS,3009.56
+Thursday,2023-10-12,CASH,306.0
+Thursday,2023-10-12,Gift Voucher,20.0
+Thursday,2023-10-12,Integrated EFTPOS,2028.81
+Friday,2023-10-13,Gift Voucher,20.0
+Friday,2023-10-13,Integrated EFTPOS,2840.82
+Saturday,2023-10-14,CASH,99.0
+Saturday,2023-10-14,Integrated EFTPOS,3265.5
+Sunday,2023-10-15,Account,80.41
+Sunday,2023-10-15,Integrated EFTPOS,998.5
+Monday,2023-10-16,Integrated EFTPOS,953.92
+Tuesday,2023-10-17,CASH,99.0
+Tuesday,2023-10-17,Integrated EFTPOS,1114.94
+Wednesday,2023-10-18,CASH,90.0
+Wednesday,2023-10-18,Integrated EFTPOS,997.45
+Thursday,2023-10-19,Gift Voucher,20.0
+Thursday,2023-10-19,Integrated EFTPOS,3360.81
+Friday,2023-10-20,CASH,350.0
+Friday,2023-10-20,Gift Voucher,20.0
+Friday,2023-10-20,Integrated EFTPOS,2642.79
+Saturday,2023-10-21,CASH,232.0
+Saturday,2023-10-21,Gift Voucher,20.0
+Saturday,2023-10-21,Integrated EFTPOS,3208.78
+Sunday,2023-10-22,Integrated EFTPOS,3334.73
+Monday,2023-10-23,Gift Voucher,20.0
+Monday,2023-10-23,Integrated EFTPOS,3690.73
+Tuesday,2023-10-24,Integrated EFTPOS,3095.75
+Wednesday,2023-10-25,CASH,100.0
+Wednesday,2023-10-25,Integrated EFTPOS,3042.36
+Thursday,2023-10-26,Integrated EFTPOS,1323.89
+Friday,2023-10-27,Gift Voucher,40.0
+Friday,2023-10-27,Integrated EFTPOS,1248.87
+Friday,2023-10-27,Mail Order Pickup,135.99
+Saturday,2023-10-28,Integrated EFTPOS,4294.53
+Sunday,2023-10-29,CASH,50.0
+Sunday,2023-10-29,Gift Voucher,20.0
+Sunday,2023-10-29,Integrated EFTPOS,2521.78
+Monday,2023-10-30,CASH,99.0
+Monday,2023-10-30,Integrated EFTPOS,1693.85
+Monday,2023-10-30,Mail Order Pickup,169.98
+Tuesday,2023-10-31,Gift Voucher,40.0
+Tuesday,2023-10-31,Integrated EFTPOS,2231.9
+Wednesday,2023-11-01,Integrated EFTPOS,1873.35
+Thursday,2023-11-02,CASH,125.0
+Thursday,2023-11-02,Gift Voucher,40.0
+Thursday,2023-11-02,Integrated EFTPOS,3067.27
+Thursday,2023-11-02,Mail Order Pickup,90.99
+Friday,2023-11-03,Integrated EFTPOS,2246.37
+Saturday,2023-11-04,Gift Voucher,40.0
+Saturday,2023-11-04,Integrated EFTPOS,2203.85
+Sunday,2023-11-05,CASH,120.0
+Sunday,2023-11-05,Integrated EFTPOS,1323.38
+Monday,2023-11-06,Gift Voucher,20.0
+Monday,2023-11-06,Integrated EFTPOS,1325.91
+Tuesday,2023-11-07,CASH,99.0
+Tuesday,2023-11-07,Gift Voucher,27.51
+Tuesday,2023-11-07,Integrated EFTPOS,3509.25
+Wednesday,2023-11-08,Integrated EFTPOS,2721.82
+Thursday,2023-11-09,Gift Voucher,20.0
+Thursday,2023-11-09,Integrated EFTPOS,1543.94
+Friday,2023-11-10,CASH,104.0
+Friday,2023-11-10,Integrated EFTPOS,1141.42
+Saturday,2023-11-11,Afterpay POS API Payment,-143.98
+Saturday,2023-11-11,Integrated EFTPOS,3527.27
+Sunday,2023-11-12,Gift Voucher,20.0
+Sunday,2023-11-12,Integrated EFTPOS,4153.76
+Monday,2023-11-13,Gift Voucher,20.0
+Monday,2023-11-13,Integrated EFTPOS,2041.87
+Monday,2023-11-13,Mail Order Pickup,119.99
+Tuesday,2023-11-14,Integrated EFTPOS,2013.85
+Wednesday,2023-11-15,Gift Voucher,20.0
+Wednesday,2023-11-15,Integrated EFTPOS,1338.9
+Thursday,2023-11-16,Gift Voucher,20.0
+Thursday,2023-11-16,Integrated EFTPOS,5276.47
+Friday,2023-11-17,Account,100.0
+Friday,2023-11-17,CASH,139.0
+Friday,2023-11-17,Gift Voucher,20.0
+Friday,2023-11-17,Integrated EFTPOS,4458.52
+Saturday,2023-11-18,Integrated EFTPOS,5215.42
+Sunday,2023-11-19,CASH,630.9
+Sunday,2023-11-19,Gift Voucher,20.0
+Sunday,2023-11-19,Integrated EFTPOS,2806.69
+Monday,2023-11-20,Integrated EFTPOS,2572.7
+Monday,2023-11-20,Mail Order Pickup,570.95
+Tuesday,2023-11-21,Gift Voucher,40.0
+Tuesday,2023-11-21,Integrated EFTPOS,2257.21
+Wednesday,2023-11-22,Gift Voucher,20.0
+Wednesday,2023-11-22,Integrated EFTPOS,1093.85
+Thursday,2023-11-23,CASH,72.0
+Thursday,2023-11-23,Gift Voucher,108.03
+Thursday,2023-11-23,Integrated EFTPOS,2610.66
+Friday,2023-11-24,Gift Voucher,40.0
+Friday,2023-11-24,Integrated EFTPOS,4943.54
+Friday,2023-11-24,Mail Order Pickup,119.99
+Saturday,2023-11-25,Account,100.0
+Saturday,2023-11-25,CASH,112.0
+Saturday,2023-11-25,Gift Voucher,40.0
+Saturday,2023-11-25,Integrated EFTPOS,5894.48
+Sunday,2023-11-26,CASH,49.0
+Sunday,2023-11-26,Gift Voucher,189.98
+Sunday,2023-11-26,Integrated EFTPOS,5320.47
+Monday,2023-11-27,Gift Voucher,20.0
+Monday,2023-11-27,Integrated EFTPOS,3130.7
+Monday,2023-11-27,Mail Order Pickup,182.98
+Tuesday,2023-11-28,CASH,207.5
+Tuesday,2023-11-28,Gift Voucher,40.0
+Tuesday,2023-11-28,Integrated EFTPOS,1187.4
+Tuesday,2023-11-28,Mail Order Pickup,69.99
+Wednesday,2023-11-29,Afterpay POS API Payment,-159.99
+Wednesday,2023-11-29,Gift Voucher,137.48
+Wednesday,2023-11-29,Integrated EFTPOS,1495.86
+Thursday,2023-11-30,Integrated EFTPOS,1795.32
+Friday,2023-12-01,Account,59.99
+Friday,2023-12-01,CASH,200.0
+Friday,2023-12-01,Integrated EFTPOS,3566.2
+Friday,2023-12-01,Mail Order Pickup,134.99
+Friday,2023-12-01,PayPal,-233.98
+Saturday,2023-12-02,CASH,247.5
+Saturday,2023-12-02,Gift Voucher,20.0
+Saturday,2023-12-02,Integrated EFTPOS,4527.59
+Sunday,2023-12-03,CASH,243.0
+Sunday,2023-12-03,Gift Voucher,20.0
+Sunday,2023-12-03,Integrated EFTPOS,3123.77
+Monday,2023-12-04,CASH,135.0
+Monday,2023-12-04,Gift Voucher,40.0
+Monday,2023-12-04,Integrated EFTPOS,2814.21
+Tuesday,2023-12-05,CASH,35.0
+Tuesday,2023-12-05,Gift Voucher,20.0
+Tuesday,2023-12-05,Integrated EFTPOS,1490.36
+Wednesday,2023-12-06,Account,509.99
+Wednesday,2023-12-06,Integrated EFTPOS,1792.33
+Wednesday,2023-12-06,Mail Order Pickup,259.99
+Thursday,2023-12-07,CASH,126.0
+Thursday,2023-12-07,Integrated EFTPOS,1866.36
+Thursday,2023-12-07,PayPal,-79.0
+Friday,2023-12-08,CASH,10.0
+Friday,2023-12-08,Gift Voucher,99.99
+Friday,2023-12-08,Integrated EFTPOS,2757.27
+Saturday,2023-12-09,Integrated EFTPOS,4713.48
+Sunday,2023-12-10,Gift Voucher,20.0
+Sunday,2023-12-10,Integrated EFTPOS,1859.36
+Monday,2023-12-11,Integrated EFTPOS,2245.76
+Tuesday,2023-12-12,Integrated EFTPOS,1640.86
+Wednesday,2023-12-13,Account,529.97
+Wednesday,2023-12-13,Gift Voucher,109.99
+Wednesday,2023-12-13,Integrated EFTPOS,3711.72
+Thursday,2023-12-14,Integrated EFTPOS,2533.24
+Thursday,2023-12-14,Mail Order Pickup,97.49
+Friday,2023-12-15,Account,209.99
+Friday,2023-12-15,CASH,629.95
+Friday,2023-12-15,Integrated EFTPOS,3047.23
+Saturday,2023-12-16,CASH,190.0
+Saturday,2023-12-16,Gift Voucher,140.0
+Saturday,2023-12-16,Integrated EFTPOS,6938.87
+Sunday,2023-12-17,Account,200.0
+Sunday,2023-12-17,Integrated EFTPOS,3790.66
+Monday,2023-12-18,Gift Voucher,20.0
+Monday,2023-12-18,Integrated EFTPOS,4787.6
+Tuesday,2023-12-19,Account,79.99
+Tuesday,2023-12-19,CASH,384.5
+Tuesday,2023-12-19,Gift Voucher,20.0
+Tuesday,2023-12-19,Integrated EFTPOS,3336.71
+Wednesday,2023-12-20,Integrated EFTPOS,991.64
+Thursday,2023-12-21,Account,80.0
+Thursday,2023-12-21,CASH,63.0
+Thursday,2023-12-21,Gift Voucher,190.0
+Thursday,2023-12-21,Integrated EFTPOS,4964.75
+Friday,2023-12-22,Account,49.0
+Friday,2023-12-22,Gift Voucher,20.0
+Friday,2023-12-22,Integrated EFTPOS,8659.97
+Saturday,2023-12-23,Account,564.97
+Saturday,2023-12-23,CASH,401.0
+Saturday,2023-12-23,Gift Voucher,20.0
+Saturday,2023-12-23,Integrated EFTPOS,8371.89
+Sunday,2023-12-24,Account,19.0
+Sunday,2023-12-24,CASH,98.0
+Sunday,2023-12-24,Gift Voucher,40.0
+Sunday,2023-12-24,Integrated EFTPOS,4585.73
+Tuesday,2023-12-26,CASH,300.0
+Tuesday,2023-12-26,Gift Voucher,120.0
+Tuesday,2023-12-26,Integrated EFTPOS,3182.82
+Wednesday,2023-12-27,CASH,100.0
+Wednesday,2023-12-27,Gift Voucher,191.98
+Wednesday,2023-12-27,Integrated EFTPOS,3563.28
+Wednesday,2023-12-27,Mail Order Pickup,469.98
+Wednesday,2023-12-27,PayPal,-134.99
+Thursday,2023-12-28,Gift Voucher,20.0
+Thursday,2023-12-28,Integrated EFTPOS,2597.8
+Friday,2023-12-29,CASH,129.0
+Friday,2023-12-29,Gift Voucher,40.0
+Friday,2023-12-29,Integrated EFTPOS,3619.77
+Saturday,2023-12-30,Integrated EFTPOS,2053.8
+Sunday,2023-12-31,Integrated EFTPOS,2146.82
+Tuesday,2024-01-02,CASH,139.2
+Tuesday,2024-01-02,Gift Voucher,50.0
+Tuesday,2024-01-02,Integrated EFTPOS,1169.77
+Tuesday,2024-01-02,Mail Order Pickup,94.99
+Wednesday,2024-01-03,CASH,88.4
+Wednesday,2024-01-03,Integrated EFTPOS,2107.79
+Wednesday,2024-01-03,Mail Order Pickup,143.2
+Wednesday,2024-01-03,PayPal,-214.8
+Thursday,2024-01-04,Gift Voucher,117.99
+Thursday,2024-01-04,Integrated EFTPOS,1039.26
+Thursday,2024-01-04,Mail Order Pickup,99.99
+Friday,2024-01-05,Account,300.0
+Friday,2024-01-05,Gift Voucher,20.0
+Friday,2024-01-05,Integrated EFTPOS,1934.48
+Friday,2024-01-05,PayPal,-104.99
+Saturday,2024-01-06,CASH,126.0
+Saturday,2024-01-06,Gift Voucher,83.2
+Saturday,2024-01-06,Integrated EFTPOS,1896.27
+Sunday,2024-01-07,Account,10.0
+Sunday,2024-01-07,Integrated EFTPOS,1406.31
+Monday,2024-01-08,Integrated EFTPOS,1233.74
+Monday,2024-01-08,Mail Order Pickup,329.98
+Tuesday,2024-01-09,Integrated EFTPOS,1695.09
+Wednesday,2024-01-10,CASH,33.8
+Wednesday,2024-01-10,Integrated EFTPOS,1381.14
+Wednesday,2024-01-10,Mail Order Pickup,63.2
+Wednesday,2024-01-10,PayPal,-79.2
+Thursday,2024-01-11,Gift Voucher,332.98
+Thursday,2024-01-11,Integrated EFTPOS,943.34
+Friday,2024-01-12,Gift Voucher,20.0
+Friday,2024-01-12,Integrated EFTPOS,2113.65
+Friday,2024-01-12,PayPal,-277.2
+Saturday,2024-01-13,CASH,12.0
+Saturday,2024-01-13,Gift Voucher,51.2
+Saturday,2024-01-13,Integrated EFTPOS,3882.28
+Sunday,2024-01-14,CASH,39.2
+Sunday,2024-01-14,Gift Voucher,40.0
+Sunday,2024-01-14,Integrated EFTPOS,1650.65
+Monday,2024-01-15,Integrated EFTPOS,1149.61
+Monday,2024-01-15,Mail Order Pickup,39.2
+Tuesday,2024-01-16,CASH,0.0
+Tuesday,2024-01-16,Integrated EFTPOS,2330.83
+Wednesday,2024-01-17,Gift Voucher,20.0
+Wednesday,2024-01-17,Integrated EFTPOS,2790.79
+Thursday,2024-01-18,Gift Voucher,20.0
+Thursday,2024-01-18,Integrated EFTPOS,1051.89
+Friday,2024-01-19,Integrated EFTPOS,2515.28
+Friday,2024-01-19,Mail Order Pickup,104.99
+Friday,2024-01-19,PayPal,-83.99
+Saturday,2024-01-20,Gift Voucher,100.0
+Saturday,2024-01-20,Integrated EFTPOS,2728.28
+Sunday,2024-01-21,CASH,59.0
+Sunday,2024-01-21,Integrated EFTPOS,1516.89
+Monday,2024-01-22,CASH,59.0
+Monday,2024-01-22,Integrated EFTPOS,2152.1
+Monday,2024-01-22,Mail Order Pickup,78.0
+Tuesday,2024-01-23,Integrated EFTPOS,1812.86
+Tuesday,2024-01-23,Mail Order Pickup,89.99
+Wednesday,2024-01-24,CASH,60.0
+Wednesday,2024-01-24,Gift Voucher,149.97
+Wednesday,2024-01-24,Integrated EFTPOS,933.14
+Thursday,2024-01-25,Integrated EFTPOS,1137.89
+Saturday,2024-01-27,CASH,172.5
+Saturday,2024-01-27,Integrated EFTPOS,1841.3
+Sunday,2024-01-28,Integrated EFTPOS,2785.71
+Monday,2024-01-29,Integrated EFTPOS,1089.83
+Monday,2024-01-29,Mail Order Pickup,134.98
+Tuesday,2024-01-30,Integrated EFTPOS,850.91
+Wednesday,2024-01-31,Gift Voucher,100.0
+Wednesday,2024-01-31,Integrated EFTPOS,1018.89
+Thursday,2024-02-01,Account,81.0
+Thursday,2024-02-01,CASH,337.5
+Thursday,2024-02-01,Integrated EFTPOS,1941.83
+Thursday,2024-02-01,Mail Order Pickup,54.99
+Friday,2024-02-02,Account,51.0
+Friday,2024-02-02,CASH,75.0
+Friday,2024-02-02,Gift Voucher,20.0
+Friday,2024-02-02,Integrated EFTPOS,2299.23
+Saturday,2024-02-03,Account,560.0
+Saturday,2024-02-03,Integrated EFTPOS,2337.2
+Sunday,2024-02-04,Integrated EFTPOS,3760.16
+Monday,2024-02-05,Integrated EFTPOS,1136.39
+Monday,2024-02-05,Mail Order Pickup,314.97
+Tuesday,2024-02-06,CASH,90.0
+Tuesday,2024-02-06,Gift Voucher,94.99
+Tuesday,2024-02-06,Integrated EFTPOS,2265.33
+Tuesday,2024-02-06,Mail Order Pickup,74.99
+Wednesday,2024-02-07,Account,260.01
+Wednesday,2024-02-07,CASH,90.0
+Wednesday,2024-02-07,Integrated EFTPOS,1279.88
+Thursday,2024-02-08,Account,50.12
+Thursday,2024-02-08,CASH,316.0
+Thursday,2024-02-08,Integrated EFTPOS,1542.36
+Friday,2024-02-09,Account,479.96
+Friday,2024-02-09,Integrated EFTPOS,1014.92
+Saturday,2024-02-10,CASH,196.0
+Saturday,2024-02-10,Integrated EFTPOS,3853.7
+Sunday,2024-02-11,Gift Voucher,20.0
+Sunday,2024-02-11,Integrated EFTPOS,1693.82
+Monday,2024-02-12,CASH,-75.0
+Monday,2024-02-12,Integrated EFTPOS,2771.29
+Monday,2024-02-12,Mail Order Pickup,610.44
+Monday,2024-02-12,PayPal,-217.48
+Tuesday,2024-02-13,Gift Voucher,20.0
+Tuesday,2024-02-13,Integrated EFTPOS,774.91
+Tuesday,2024-02-13,Mail Order Pickup,179.99
+Wednesday,2024-02-14,CASH,81.0
+Wednesday,2024-02-14,Integrated EFTPOS,2396.24
+Wednesday,2024-02-14,Mail Order Pickup,194.98
+Thursday,2024-02-15,Gift Voucher,100.0
+Thursday,2024-02-15,Integrated EFTPOS,684.04
+Thursday,2024-02-15,Mail Order Pickup,335.97
+Friday,2024-02-16,Gift Voucher,20.0
+Friday,2024-02-16,Integrated EFTPOS,1749.34
+Saturday,2024-02-17,Gift Voucher,100.0
+Saturday,2024-02-17,Integrated EFTPOS,2620.22
+Sunday,2024-02-18,Integrated EFTPOS,2344.28
+Monday,2024-02-19,CASH,208.0
+Monday,2024-02-19,Integrated EFTPOS,898.42
+Tuesday,2024-02-20,CASH,362.45
+Tuesday,2024-02-20,Integrated EFTPOS,1777.35
+Wednesday,2024-02-21,CASH,284.95
+Wednesday,2024-02-21,Integrated EFTPOS,544.65
+Wednesday,2024-02-21,Mail Order Pickup,299.97
+Thursday,2024-02-22,Integrated EFTPOS,1655.36
+Thursday,2024-02-22,Mail Order Pickup,199.99
+Friday,2024-02-23,Account,85.0
+Friday,2024-02-23,Integrated EFTPOS,989.9
+Saturday,2024-02-24,Gift Voucher,20.0
+Saturday,2024-02-24,Integrated EFTPOS,2933.25
+Sunday,2024-02-25,Gift Voucher,79.99
+Sunday,2024-02-25,Integrated EFTPOS,1759.38
+Monday,2024-02-26,Integrated EFTPOS,2112.82
+Tuesday,2024-02-27,Integrated EFTPOS,1425.86
+Tuesday,2024-02-27,Mail Order Pickup,468.96
+Wednesday,2024-02-28,Birthday Voucher Refund,-20.0
+Wednesday,2024-02-28,Integrated EFTPOS,1831.87
+Wednesday,2024-02-28,PayPal,-139.98
+Thursday,2024-02-29,Integrated EFTPOS,2563.78
+Thursday,2024-02-29,Mail Order Pickup,207.98
+Friday,2024-03-01,Gift Voucher,80.99
+Friday,2024-03-01,Integrated EFTPOS,1050.4
+Friday,2024-03-01,Mail Order Pickup,209.98
+Saturday,2024-03-02,Gift Voucher,20.0
+Saturday,2024-03-02,Integrated EFTPOS,2986.07
+Sunday,2024-03-03,Gift Voucher,20.0
+Sunday,2024-03-03,Integrated EFTPOS,4363.17
+Monday,2024-03-04,CASH,128.0
+Monday,2024-03-04,Integrated EFTPOS,3833.21
+Tuesday,2024-03-05,CASH,39.0
+Tuesday,2024-03-05,Integrated EFTPOS,1530.93
+Tuesday,2024-03-05,Mail Order Pickup,579.98
+Wednesday,2024-03-06,Integrated EFTPOS,1848.94
+Thursday,2024-03-07,Gift Voucher,20.0
+Thursday,2024-03-07,Integrated EFTPOS,1555.95
+Friday,2024-03-08,Integrated EFTPOS,2439.42
+Saturday,2024-03-09,Gift Voucher,40.0
+Saturday,2024-03-09,Integrated EFTPOS,2955.9
+Sunday,2024-03-10,CASH,60.0
+Sunday,2024-03-10,Gift Voucher,150.0
+Sunday,2024-03-10,Integrated EFTPOS,1796.93
+Monday,2024-03-11,Gift Voucher,40.0
+Monday,2024-03-11,Integrated EFTPOS,1217.97
+Tuesday,2024-03-12,CASH,99.0
+Tuesday,2024-03-12,Integrated EFTPOS,2476.88
+Wednesday,2024-03-13,Gift Voucher,20.0
+Wednesday,2024-03-13,Integrated EFTPOS,1959.89
+Wednesday,2024-03-13,Mail Order Pickup,125.99
+Thursday,2024-03-14,Integrated EFTPOS,1474.42
+Friday,2024-03-15,Integrated EFTPOS,5151.7
+Saturday,2024-03-16,CASH,285.0
+Saturday,2024-03-16,Integrated EFTPOS,3670.79
+Sunday,2024-03-17,CASH,307.0
+Sunday,2024-03-17,Gift Voucher,20.0
+Sunday,2024-03-17,Integrated EFTPOS,3403.81
+Monday,2024-03-18,Integrated EFTPOS,-17.0
+Monday,2024-03-18,Mail Order Pickup,222.99
+Monday,2024-03-18,PayPal,-191.99
+Tuesday,2024-03-19,Gift Voucher,20.0
+Tuesday,2024-03-19,Integrated EFTPOS,183.78
+Tuesday,2024-03-19,Mail Order Pickup,79.0
+Wednesday,2024-03-20,Integrated EFTPOS,1472.72
+Thursday,2024-03-21,Account,80.0
+Thursday,2024-03-21,CASH,228.0
+Thursday,2024-03-21,Integrated EFTPOS,2621.86
+Friday,2024-03-22,Gift Voucher,20.0
+Friday,2024-03-22,Integrated EFTPOS,2287.88
+Friday,2024-03-22,PayPal,-75.0
+Saturday,2024-03-23,Afterpay POS API Payment,-69.6
+Saturday,2024-03-23,CASH,39.2
+Saturday,2024-03-23,Gift Voucher,20.0
+Saturday,2024-03-23,Integrated EFTPOS,3616.04
+Saturday,2024-03-23,PayPal,-79.0
+Sunday,2024-03-24,CASH,97.0
+Sunday,2024-03-24,Gift Voucher,20.0
+Sunday,2024-03-24,Integrated EFTPOS,1670.96
+Monday,2024-03-25,Integrated EFTPOS,925.37
+Tuesday,2024-03-26,Gift Voucher,20.0
+Tuesday,2024-03-26,Integrated EFTPOS,2350.26
+Wednesday,2024-03-27,Integrated EFTPOS,4646.65
+Thursday,2024-03-28,CASH,456.0
+Thursday,2024-03-28,Gift Voucher,200.0
+Thursday,2024-03-28,Integrated EFTPOS,4137.34
+Saturday,2024-03-30,Integrated EFTPOS,2103.66
+Monday,2024-04-01,CASH,166.0
+Monday,2024-04-01,Gift Voucher,20.0
+Monday,2024-04-01,Integrated EFTPOS,3027.83
+Tuesday,2024-04-02,Integrated EFTPOS,2080.4
+Wednesday,2024-04-03,CASH,34.3
+Wednesday,2024-04-03,Gift Voucher,20.0
+Wednesday,2024-04-03,Integrated EFTPOS,2971.85
+Wednesday,2024-04-03,Mail Order Pickup,478.17
+Thursday,2024-04-04,Gift Voucher,120.0
+Thursday,2024-04-04,Integrated EFTPOS,1944.48
+Friday,2024-04-05,Integrated EFTPOS,3869.37
+Friday,2024-04-05,Mail Order Pickup,109.0
+Saturday,2024-04-06,CASH,135.0
+Saturday,2024-04-06,Integrated EFTPOS,2139.14
+Sunday,2024-04-07,Gift Voucher,20.0
+Sunday,2024-04-07,Integrated EFTPOS,2362.33
+Monday,2024-04-08,Gift Voucher,20.0
+Monday,2024-04-08,Integrated EFTPOS,1726.22
+Monday,2024-04-08,Mail Order Pickup,369.59
+Tuesday,2024-04-09,Account,519.96
+Tuesday,2024-04-09,Integrated EFTPOS,1207.53
+Wednesday,2024-04-10,Gift Voucher,20.0
+Wednesday,2024-04-10,Integrated EFTPOS,3313.21
+Wednesday,2024-04-10,Mail Order Pickup,672.95
+Wednesday,2024-04-10,PayPal,-343.99
+Thursday,2024-04-11,Gift Voucher,220.0
+Thursday,2024-04-11,Integrated EFTPOS,2228.37
+Friday,2024-04-12,Account,260.0
+Friday,2024-04-12,Afterpay POS API Payment,-79.99
+Friday,2024-04-12,Integrated EFTPOS,2127.5
+Saturday,2024-04-13,Account,659.96
+Saturday,2024-04-13,Gift Voucher,40.0
+Saturday,2024-04-13,Integrated EFTPOS,3599.72
+Sunday,2024-04-14,CASH,260.0
+Sunday,2024-04-14,Gift Voucher,20.0
+Sunday,2024-04-14,Integrated EFTPOS,3809.79
+Monday,2024-04-15,CASH,54.0
+Monday,2024-04-15,Integrated EFTPOS,1550.94
+Monday,2024-04-15,Mail Order Pickup,499.97
+Monday,2024-04-15,PayPal,-34.3
+Tuesday,2024-04-16,Account,560.0
+Tuesday,2024-04-16,CASH,150.0
+Tuesday,2024-04-16,Integrated EFTPOS,1855.86
+Wednesday,2024-04-17,Account,260.0
+Wednesday,2024-04-17,Integrated EFTPOS,4825.71
+Thursday,2024-04-18,Integrated EFTPOS,2922.8
+Thursday,2024-04-18,Mail Order Pickup,159.99
+Friday,2024-04-19,Integrated EFTPOS,3895.57
+Saturday,2024-04-20,Gift Voucher,203.99
+Saturday,2024-04-20,Integrated EFTPOS,5187.61
+Sunday,2024-04-21,CASH,104.0
+Sunday,2024-04-21,Integrated EFTPOS,2913.8
+Monday,2024-04-22,CASH,160.0
+Monday,2024-04-22,Integrated EFTPOS,3379.78
+Monday,2024-04-22,Mail Order Pickup,435.97
+Tuesday,2024-04-23,Gift Voucher,40.0
+Tuesday,2024-04-23,Integrated EFTPOS,3372.73
+Tuesday,2024-04-23,Mail Order Pickup,135.99
+Wednesday,2024-04-24,Integrated EFTPOS,4541.18
+Wednesday,2024-04-24,PayPal,-224.99
+Thursday,2024-04-25,Integrated EFTPOS,2354.89
+Friday,2024-04-26,CASH,0.0
+Friday,2024-04-26,Integrated EFTPOS,3496.76
+Friday,2024-04-26,Mail Order Pickup,350.98
+Saturday,2024-04-27,Birthday Voucher Refund,20.0
+Saturday,2024-04-27,CASH,432.0
+Saturday,2024-04-27,Integrated EFTPOS,5079.24
+Sunday,2024-04-28,Gift Voucher,20.0
+Sunday,2024-04-28,Integrated EFTPOS,2908.27
+Monday,2024-04-29,CASH,248.0
+Monday,2024-04-29,Eftpos card,135.99
+Monday,2024-04-29,Gift Voucher,20.0
+Monday,2024-04-29,Integrated EFTPOS,3364.72
+Monday,2024-04-29,Mail Order Pickup,399.97
+Tuesday,2024-04-30,CASH,232.0
+Tuesday,2024-04-30,Integrated EFTPOS,3223.81
+Tuesday,2024-04-30,PayPal,-159.99
+Wednesday,2024-05-01,CASH,24.0
+Wednesday,2024-05-01,Gift Voucher,40.0
+Wednesday,2024-05-01,Integrated EFTPOS,2760.81
+Wednesday,2024-05-01,Mail Order Pickup,159.99
+Thursday,2024-05-02,Afterpay POS API Payment,-27.99
+Thursday,2024-05-02,Birthday Voucher Refund,-20.0
+Thursday,2024-05-02,CASH,200.0
+Thursday,2024-05-02,Gift Voucher,20.0
+Thursday,2024-05-02,Integrated EFTPOS,2146.84
+Thursday,2024-05-02,Mail Order Pickup,135.99
+Friday,2024-05-03,Gift Voucher,47.99
+Friday,2024-05-03,Integrated EFTPOS,3988.7
+Saturday,2024-05-04,CASH,72.0
+Saturday,2024-05-04,Gift Voucher,80.0
+Saturday,2024-05-04,Integrated EFTPOS,7946.92
+Saturday,2024-05-04,PayPal,-33.0
+Sunday,2024-05-05,Gift Voucher,20.0
+Sunday,2024-05-05,Integrated EFTPOS,5217.13
+Monday,2024-05-06,Integrated EFTPOS,5050.69
+Monday,2024-05-06,Mail Order Pickup,63.99
+Tuesday,2024-05-07,Gift Voucher,20.0
+Tuesday,2024-05-07,Integrated EFTPOS,2330.84
+Wednesday,2024-05-08,Afterpay POS API Payment,-399.99
+Wednesday,2024-05-08,CASH,128.0
+Wednesday,2024-05-08,Gift Voucher,419.99
+Wednesday,2024-05-08,Integrated EFTPOS,3782.73
+Thursday,2024-05-09,CASH,150.0
+Thursday,2024-05-09,Integrated EFTPOS,4602.07
+Friday,2024-05-10,Gift Voucher,220.0
+Friday,2024-05-10,Integrated EFTPOS,3959.04
+Friday,2024-05-10,Mail Order Pickup,322.48
+Saturday,2024-05-11,Account,69.99
+Saturday,2024-05-11,Gift Voucher,40.0
+Saturday,2024-05-11,Integrated EFTPOS,8486.9
+Sunday,2024-05-12,CASH,400.0
+Sunday,2024-05-12,Gift Voucher,132.49
+Sunday,2024-05-12,Integrated EFTPOS,5014.12
+Monday,2024-05-13,Integrated EFTPOS,4656.1
+Monday,2024-05-13,Mail Order Pickup,219.98
+Tuesday,2024-05-14,CASH,200.0
+Tuesday,2024-05-14,Integrated EFTPOS,5849.62
+Tuesday,2024-05-14,Mail Order Pickup,637.47
+Wednesday,2024-05-15,Gift Voucher,40.0
+Wednesday,2024-05-15,Integrated EFTPOS,3831.78
+Wednesday,2024-05-15,Mail Order Pickup,215.99
+Thursday,2024-05-16,Gift Voucher,149.99
+Thursday,2024-05-16,Integrated EFTPOS,6136.57
+Thursday,2024-05-16,Mail Order Pickup,559.98
+Friday,2024-05-17,Integrated EFTPOS,2999.24
+Friday,2024-05-17,Mail Order Pickup,469.97
+Saturday,2024-05-18,Afterpay POS API Payment,-217.47
+Saturday,2024-05-18,Integrated EFTPOS,5273.16
+Sunday,2024-05-19,CASH,160.0
+Sunday,2024-05-19,Gift Voucher,20.0
+Sunday,2024-05-19,Integrated EFTPOS,4720.67
+Monday,2024-05-20,Gift Voucher,20.0
+Monday,2024-05-20,Integrated EFTPOS,2680.27
+Monday,2024-05-20,Mail Order Pickup,314.98
+Tuesday,2024-05-21,Gift Voucher,371.98
+Tuesday,2024-05-21,Integrated EFTPOS,3380.75
+Tuesday,2024-05-21,Mail Order Pickup,104.99
+Wednesday,2024-05-22,Integrated EFTPOS,2562.31
+Wednesday,2024-05-22,Mail Order Pickup,472.47
+Thursday,2024-05-23,CASH,50.0
+Thursday,2024-05-23,Gift Voucher,40.0
+Thursday,2024-05-23,Integrated EFTPOS,1825.88
+Thursday,2024-05-23,Mail Order Pickup,112.49
+Thursday,2024-05-23,PayPal,-103.99
+Friday,2024-05-24,Integrated EFTPOS,2354.81
+Saturday,2024-05-25,CASH,99.0
+Saturday,2024-05-25,Gift Voucher,70.02
+Saturday,2024-05-25,Integrated EFTPOS,4169.2
+Saturday,2024-05-25,PayPal,-52.0
+Sunday,2024-05-26,Afterpay POS API Payment,-591.97
+Sunday,2024-05-26,Gift Voucher,20.0
+Sunday,2024-05-26,Integrated EFTPOS,2696.32
+Monday,2024-05-27,CASH,285.0
+Monday,2024-05-27,Gift Voucher,149.99
+Monday,2024-05-27,Integrated EFTPOS,4168.27
+Tuesday,2024-05-28,Gift Voucher,40.0
+Tuesday,2024-05-28,Integrated EFTPOS,2470.99
+Tuesday,2024-05-28,Mail Order Pickup,415.48
+Tuesday,2024-05-28,PayPal,-408.99
+Wednesday,2024-05-29,Integrated EFTPOS,3881.89
+Wednesday,2024-05-29,PayPal,-99.0
+Thursday,2024-05-30,Afterpay POS API Payment,-79.0
+Thursday,2024-05-30,Gift Voucher,89.0
+Thursday,2024-05-30,Integrated EFTPOS,4220.86
+Thursday,2024-05-30,Mail Order Pickup,89.0
+Friday,2024-05-31,Gift Voucher,149.99
+Friday,2024-05-31,Integrated EFTPOS,3634.93
+Friday,2024-05-31,Mail Order Pickup,109.0
+Saturday,2024-06-01,Gift Voucher,150.0
+Saturday,2024-06-01,Integrated EFTPOS,3458.91
+Sunday,2024-06-02,CASH,56.0
+Sunday,2024-06-02,Gift Voucher,20.0
+Sunday,2024-06-02,Integrated EFTPOS,3869.89
+Sunday,2024-06-02,PayPal,-135.99
+Monday,2024-06-03,Integrated EFTPOS,2465.95
+Monday,2024-06-03,Mail Order Pickup,466.0
+Tuesday,2024-06-04,Account,509.96
+Tuesday,2024-06-04,Integrated EFTPOS,1862.9
+Wednesday,2024-06-05,Account,510.0
+Wednesday,2024-06-05,CASH,19.0
+Wednesday,2024-06-05,Integrated EFTPOS,1489.09
+Wednesday,2024-06-05,PayPal,-344.97
+Thursday,2024-06-06,Gift Voucher,370.0
+Thursday,2024-06-06,Integrated EFTPOS,3043.25
+Friday,2024-06-07,CASH,299.0
+Friday,2024-06-07,Gift Voucher,95.99
+Friday,2024-06-07,Integrated EFTPOS,2692.89
+Friday,2024-06-07,Mail Order Pickup,257.19
+Friday,2024-06-07,PayPal,-127.99
+Saturday,2024-06-08,CASH,320.0
+Saturday,2024-06-08,Gift Voucher,60.0
+Saturday,2024-06-08,Integrated EFTPOS,6566.27
+Sunday,2024-06-09,Afterpay POS API Payment,-79.0
+Sunday,2024-06-09,CASH,261.2
+Sunday,2024-06-09,Gift Voucher,107.2
+Sunday,2024-06-09,Integrated EFTPOS,3247.63
+Monday,2024-06-10,Gift Voucher,20.0
+Monday,2024-06-10,Integrated EFTPOS,4148.3
+Tuesday,2024-06-11,Gift Voucher,20.0
+Tuesday,2024-06-11,Integrated EFTPOS,1442.52
+Tuesday,2024-06-11,Mail Order Pickup,527.98
+Wednesday,2024-06-12,Account,620.01
+Wednesday,2024-06-12,CASH,208.0
+Wednesday,2024-06-12,Integrated EFTPOS,2258.82
+Wednesday,2024-06-12,Mail Order Pickup,270.2
+Wednesday,2024-06-12,PayPal,-99.0
+Thursday,2024-06-13,Gift Voucher,40.0
+Thursday,2024-06-13,Integrated EFTPOS,2618.37
+Thursday,2024-06-13,Mail Order Pickup,159.99
+Friday,2024-06-14,CASH,162.0
+Friday,2024-06-14,Integrated EFTPOS,1800.53
+Friday,2024-06-14,Mail Order Pickup,99.0
+Saturday,2024-06-15,CASH,72.0
+Saturday,2024-06-15,Gift Voucher,60.0
+Saturday,2024-06-15,Integrated EFTPOS,3431.77
+Sunday,2024-06-16,Gift Voucher,20.0
+Sunday,2024-06-16,Integrated EFTPOS,4918.89
+Monday,2024-06-17,Gift Voucher,117.49
+Monday,2024-06-17,Integrated EFTPOS,2264.37
+Monday,2024-06-17,Mail Order Pickup,178.29
+Tuesday,2024-06-18,Integrated EFTPOS,1369.09
+Wednesday,2024-06-19,Integrated EFTPOS,1388.03
+Wednesday,2024-06-19,Mail Order Pickup,441.27
+Thursday,2024-06-20,Integrated EFTPOS,1008.35
+Friday,2024-06-21,CASH,79.0
+Friday,2024-06-21,Gift Voucher,20.0
+Friday,2024-06-21,Integrated EFTPOS,1716.67
+Friday,2024-06-21,Mail Order Pickup,107.49
+Saturday,2024-06-22,Gift Voucher,20.0
+Saturday,2024-06-22,Integrated EFTPOS,1437.43
+Saturday,2024-06-22,PayPal,-174.3
+Sunday,2024-06-23,CASH,296.5
+Sunday,2024-06-23,Gift Voucher,60.0
+Sunday,2024-06-23,Integrated EFTPOS,3741.3
+Sunday,2024-06-23,PayPal,-55.3
+Monday,2024-06-24,Account,400.0
+Monday,2024-06-24,Gift Voucher,20.0
+Monday,2024-06-24,Integrated EFTPOS,3450.54
+Monday,2024-06-24,Mail Order Pickup,241.49
+Tuesday,2024-06-25,Integrated EFTPOS,2642.88
+Tuesday,2024-06-25,Mail Order Pickup,199.0
+Wednesday,2024-06-26,CASH,319.45
+Wednesday,2024-06-26,Gift Voucher,60.0
+Wednesday,2024-06-26,Integrated EFTPOS,4856.23
+Wednesday,2024-06-26,PayPal,-243.9
+Thursday,2024-06-27,Account,499.97
+Thursday,2024-06-27,CASH,50.0
+Thursday,2024-06-27,Integrated EFTPOS,2617.51
+Thursday,2024-06-27,Mail Order Pickup,428.98
+Friday,2024-06-28,Gift Voucher,150.4
+Friday,2024-06-28,Integrated EFTPOS,3457.49
+Saturday,2024-06-29,CASH,99.0
+Saturday,2024-06-29,Gift Voucher,20.0
+Saturday,2024-06-29,Integrated EFTPOS,4103.86
+Sunday,2024-06-30,CASH,198.0
+Sunday,2024-06-30,Gift Voucher,80.0
+Sunday,2024-06-30,Integrated EFTPOS,4814.6
+Sunday,2024-06-30,PayPal,-474.79
+Monday,2024-07-01,Integrated EFTPOS,1448.91
+Monday,2024-07-01,Mail Order Pickup,192.99
+Tuesday,2024-07-02,CASH,150.0
+Tuesday,2024-07-02,Gift Voucher,278.99
+Tuesday,2024-07-02,Integrated EFTPOS,1463.24
+Wednesday,2024-07-03,CASH,60.0
+Wednesday,2024-07-03,Gift Voucher,40.0
+Wednesday,2024-07-03,Integrated EFTPOS,2967.44
+Thursday,2024-07-04,Afterpay POS API Payment,-498.0
+Thursday,2024-07-04,Gift Voucher,20.0
+Thursday,2024-07-04,Integrated EFTPOS,3431.42
+Friday,2024-07-05,Gift Voucher,80.01
+Friday,2024-07-05,Integrated EFTPOS,1294.45
+Friday,2024-07-05,Mail Order Pickup,99.0
+Saturday,2024-07-06,CASH,-137.3
+Saturday,2024-07-06,Gift Voucher,130.0
+Saturday,2024-07-06,Integrated EFTPOS,1630.06
+Sunday,2024-07-07,CASH,198.4
+Sunday,2024-07-07,Integrated EFTPOS,1417.13
+Sunday,2024-07-07,PayPal,-79.0
+Monday,2024-07-08,Gift Voucher,120.0
+Monday,2024-07-08,Integrated EFTPOS,1397.77
+Monday,2024-07-08,Mail Order Pickup,191.19
+Tuesday,2024-07-09,Integrated EFTPOS,1448.43
+Tuesday,2024-07-09,PayPal,-39.2
+Wednesday,2024-07-10,Integrated EFTPOS,2025.83
+Wednesday,2024-07-10,Mail Order Pickup,54.25
+Thursday,2024-07-11,CASH,36.75
+Thursday,2024-07-11,Gift Voucher,40.0
+Thursday,2024-07-11,Integrated EFTPOS,1429.2
+Friday,2024-07-12,Integrated EFTPOS,2618.16
+Friday,2024-07-12,PayPal,-127.2
+Saturday,2024-07-13,Gift Voucher,279.49
+Saturday,2024-07-13,Integrated EFTPOS,5001.77
+Sunday,2024-07-14,Gift Voucher,111.22
+Sunday,2024-07-14,Integrated EFTPOS,1433.65
+Monday,2024-07-15,Gift Voucher,20.0
+Monday,2024-07-15,Integrated EFTPOS,2806.73
+Tuesday,2024-07-16,CASH,10.0
+Tuesday,2024-07-16,Integrated EFTPOS,1704.41
+Wednesday,2024-07-17,Account,100.0
+Wednesday,2024-07-17,CASH,89.0
+Wednesday,2024-07-17,Integrated EFTPOS,1645.96
+Thursday,2024-07-18,Gift Voucher,70.0
+Thursday,2024-07-18,Integrated EFTPOS,2393.18
+Friday,2024-07-19,Integrated EFTPOS,1358.12
+Saturday,2024-07-20,Gift Voucher,20.0
+Saturday,2024-07-20,Integrated EFTPOS,1580.93
+Sunday,2024-07-21,Integrated EFTPOS,1287.29
+Monday,2024-07-22,CASH,10.0
+Monday,2024-07-22,Gift Voucher,20.0
+Monday,2024-07-22,Integrated EFTPOS,3259.81
+Monday,2024-07-22,Mail Order Pickup,202.49
+Tuesday,2024-07-23,Integrated EFTPOS,3535.8
+Wednesday,2024-07-24,Integrated EFTPOS,2335.83
+Wednesday,2024-07-24,Mail Order Pickup,97.49
+Thursday,2024-07-25,Afterpay POS API Payment,-149.25
+Thursday,2024-07-25,CASH,100.0
+Thursday,2024-07-25,Integrated EFTPOS,3178.84
+Friday,2024-07-26,Gift Voucher,20.0
+Friday,2024-07-26,Integrated EFTPOS,2346.89
+Saturday,2024-07-27,Integrated EFTPOS,2934.86
+Sunday,2024-07-28,Gift Voucher,40.0
+Sunday,2024-07-28,Integrated EFTPOS,1884.39
+Monday,2024-07-29,Gift Voucher,140.0
+Monday,2024-07-29,Integrated EFTPOS,947.57
+Monday,2024-07-29,Mail Order Pickup,224.99
+Monday,2024-07-29,PayPal,-51.75
+Tuesday,2024-07-30,Integrated EFTPOS,1687.45
+Wednesday,2024-07-31,CASH,153.0
+Wednesday,2024-07-31,Gift Voucher,139.0
+Wednesday,2024-07-31,Integrated EFTPOS,2735.82
+Thursday,2024-08-01,Account,510.4
+Thursday,2024-08-01,Gift Voucher,235.99
+Thursday,2024-08-01,Integrated EFTPOS,2118.19
+Friday,2024-08-02,CASH,228.0
+Friday,2024-08-02,Gift Voucher,40.0
+Friday,2024-08-02,Integrated EFTPOS,1752.9
+Saturday,2024-08-03,Integrated EFTPOS,3917.81
+Sunday,2024-08-04,CASH,225.0
+Sunday,2024-08-04,Integrated EFTPOS,248.97
+Monday,2024-08-05,Integrated EFTPOS,1507.93
+Monday,2024-08-05,Mail Order Pickup,69.0
+Monday,2024-08-05,PayPal,-125.99
+Tuesday,2024-08-06,Account,459.96
+Tuesday,2024-08-06,Gift Voucher,20.0
+Tuesday,2024-08-06,Integrated EFTPOS,570.96
+Tuesday,2024-08-06,Mail Order Pickup,99.99
+Wednesday,2024-08-07,Account,499.97
+Wednesday,2024-08-07,Integrated EFTPOS,1967.89
+Wednesday,2024-08-07,Mail Order Pickup,109.0
+Thursday,2024-08-08,Account,199.99
+Thursday,2024-08-08,CASH,76.0
+Thursday,2024-08-08,Integrated EFTPOS,972.44
+Friday,2024-08-09,Account,509.96
+Friday,2024-08-09,Gift Voucher,20.0
+Friday,2024-08-09,Integrated EFTPOS,2929.32
+Saturday,2024-08-10,Gift Voucher,20.0
+Saturday,2024-08-10,Integrated EFTPOS,4725.73
+Sunday,2024-08-11,CASH,333.0
+Sunday,2024-08-11,Gift Voucher,20.0
+Sunday,2024-08-11,Integrated EFTPOS,4947.75
+Monday,2024-08-12,Integrated EFTPOS,839.93
+Tuesday,2024-08-13,CASH,300.0
+Tuesday,2024-08-13,Integrated EFTPOS,733.93
+Tuesday,2024-08-13,Mail Order Pickup,90.99
+Wednesday,2024-08-14,Integrated EFTPOS,2244.82
+Thursday,2024-08-15,Integrated EFTPOS,2558.34
+Thursday,2024-08-15,Mail Order Pickup,103.99
+Thursday,2024-08-15,PayPal,-10.85
+Friday,2024-08-16,Account,50.0
+Friday,2024-08-16,CASH,210.0
+Friday,2024-08-16,Integrated EFTPOS,1769.84
+Saturday,2024-08-17,Account,75.0
+Saturday,2024-08-17,CASH,200.0
+Saturday,2024-08-17,Gift Voucher,44.99
+Saturday,2024-08-17,Integrated EFTPOS,5464.95
+Sunday,2024-08-18,Gift Voucher,100.0
+Sunday,2024-08-18,Integrated EFTPOS,1245.93
+Monday,2024-08-19,Integrated EFTPOS,1164.94
+Monday,2024-08-19,Mail Order Pickup,495.97
+Tuesday,2024-08-20,Gift Voucher,20.0
+Tuesday,2024-08-20,Integrated EFTPOS,1507.03
+Wednesday,2024-08-21,Integrated EFTPOS,2808.89
+Wednesday,2024-08-21,Mail Order Pickup,152.99
+Thursday,2024-08-22,Integrated EFTPOS,1486.93
+Friday,2024-08-23,Afterpay POS API Payment,-119.99
+Friday,2024-08-23,CASH,20.0
+Friday,2024-08-23,Gift Voucher,20.0
+Friday,2024-08-23,Integrated EFTPOS,2649.86
+Saturday,2024-08-24,Gift Voucher,20.0
+Saturday,2024-08-24,Integrated EFTPOS,4323.9
+Sunday,2024-08-25,CASH,50.0
+Sunday,2024-08-25,Gift Voucher,40.0
+Sunday,2024-08-25,Integrated EFTPOS,4620.72
+Monday,2024-08-26,CASH,256.0
+Monday,2024-08-26,Integrated EFTPOS,2113.9
+Monday,2024-08-26,Mail Order Pickup,287.98
+Tuesday,2024-08-27,Gift Voucher,20.0
+Tuesday,2024-08-27,Integrated EFTPOS,3185.96
+Wednesday,2024-08-28,CASH,130.0
+Wednesday,2024-08-28,Integrated EFTPOS,2820.84
+Wednesday,2024-08-28,Mail Order Pickup,149.0
+Thursday,2024-08-29,Account,79.2
+Thursday,2024-08-29,CASH,400.0
+Thursday,2024-08-29,Gift Voucher,40.0
+Thursday,2024-08-29,Integrated EFTPOS,3568.17
+Thursday,2024-08-29,Mail Order Pickup,116.99
+Friday,2024-08-30,Account,50.0
+Friday,2024-08-30,Integrated EFTPOS,6769.82
+Saturday,2024-08-31,Afterpay POS API Payment,-258.0
+Saturday,2024-08-31,CASH,330.0
+Saturday,2024-08-31,Gift Voucher,80.0
+Saturday,2024-08-31,Integrated EFTPOS,7845.16
+Sunday,2024-09-01,Gift Voucher,400.0
+Sunday,2024-09-01,Integrated EFTPOS,3591.52
+Sunday,2024-09-01,PayPal,-129.0
+Monday,2024-09-02,Gift Voucher,20.0
+Monday,2024-09-02,Integrated EFTPOS,3056.17
+Monday,2024-09-02,Mail Order Pickup,500.37
+Tuesday,2024-09-03,CASH,100.0
+Tuesday,2024-09-03,Gift Voucher,20.0
+Tuesday,2024-09-03,Integrated EFTPOS,6198.25
+Tuesday,2024-09-03,Mail Order Pickup,238.98
+Wednesday,2024-09-04,CASH,140.0
+Wednesday,2024-09-04,Gift Voucher,40.0
+Wednesday,2024-09-04,Integrated EFTPOS,4451.09
+Wednesday,2024-09-04,Mail Order Pickup,415.98
+Thursday,2024-09-05,Integrated EFTPOS,2936.02
+Thursday,2024-09-05,Mail Order Pickup,178.99
+Friday,2024-09-06,CASH,270.0
+Friday,2024-09-06,Integrated EFTPOS,1786.57
+Saturday,2024-09-07,CASH,450.0
+Saturday,2024-09-07,Gift Voucher,20.0
+Saturday,2024-09-07,Integrated EFTPOS,2787.41
+Sunday,2024-09-08,CASH,79.2
+Sunday,2024-09-08,Integrated EFTPOS,2398.68
+Monday,2024-09-09,CASH,138.0
+Monday,2024-09-09,Integrated EFTPOS,743.56
+Monday,2024-09-09,Mail Order Pickup,103.2
+Monday,2024-09-09,PayPal,-318.4
+Tuesday,2024-09-10,Gift Voucher,20.0
+Tuesday,2024-09-10,Integrated EFTPOS,2505.98
+Wednesday,2024-09-11,Gift Voucher,124.0
+Wednesday,2024-09-11,Integrated EFTPOS,2978.8
+Wednesday,2024-09-11,Mail Order Pickup,258.99
+Wednesday,2024-09-11,PayPal,-87.0
+Thursday,2024-09-12,CASH,57.0
+Thursday,2024-09-12,Gift Voucher,20.0
+Thursday,2024-09-12,Integrated EFTPOS,1341.76
+Thursday,2024-09-12,PayPal,-239.2
+Friday,2024-09-13,CASH,-180.0
+Friday,2024-09-13,Gift Voucher,20.0
+Friday,2024-09-13,Integrated EFTPOS,2683.47
+Friday,2024-09-13,Mail Order Pickup,112.49
+Friday,2024-09-13,PayPal,-53.99
+Saturday,2024-09-14,Gift Voucher,20.0
+Saturday,2024-09-14,Integrated EFTPOS,4374.36
+Sunday,2024-09-15,Gift Voucher,139.99
+Sunday,2024-09-15,Integrated EFTPOS,1326.59
+Monday,2024-09-16,Integrated EFTPOS,-87.5
+Monday,2024-09-16,Mail Order Pickup,125.99
+Tuesday,2024-09-17,Gift Voucher,20.0
+Tuesday,2024-09-17,Integrated EFTPOS,2330.27
+Wednesday,2024-09-18,CASH,327.0
+Wednesday,2024-09-18,Gift Voucher,20.0
+Wednesday,2024-09-18,Integrated EFTPOS,1784.33
+Thursday,2024-09-19,Gift Voucher,40.0
+Thursday,2024-09-19,Integrated EFTPOS,2492.51
+Thursday,2024-09-19,Mail Order Pickup,104.99
+Friday,2024-09-20,Gift Voucher,20.0
+Friday,2024-09-20,Integrated EFTPOS,2658.55
+Saturday,2024-09-21,Gift Voucher,74.98
+Saturday,2024-09-21,Integrated EFTPOS,3856.7
+Sunday,2024-09-22,Integrated EFTPOS,3519.11
+Monday,2024-09-23,CASH,239.2
+Monday,2024-09-23,Gift Voucher,511.93
+Monday,2024-09-23,Integrated EFTPOS,2607.88
+Monday,2024-09-23,Mail Order Pickup,158.4
+Tuesday,2024-09-24,Integrated EFTPOS,4272.74
+Wednesday,2024-09-25,Gift Voucher,20.0
+Wednesday,2024-09-25,Integrated EFTPOS,3822.43
+Wednesday,2024-09-25,Mail Order Pickup,1058.95
+Thursday,2024-09-26,Gift Voucher,20.0
+Thursday,2024-09-26,Integrated EFTPOS,573.88
+Thursday,2024-09-26,PayPal,-166.4
+Friday,2024-09-27,CASH,50.0
+Friday,2024-09-27,Gift Voucher,20.0
+Friday,2024-09-27,Integrated EFTPOS,3400.39
+Saturday,2024-09-28,Gift Voucher,40.0
+Saturday,2024-09-28,Integrated EFTPOS,3955.83
+Sunday,2024-09-29,Gift Voucher,20.0
+Sunday,2024-09-29,Integrated EFTPOS,1587.92
+Monday,2024-09-30,Integrated EFTPOS,1149.23
+Tuesday,2024-10-01,Gift Voucher,20.0
+Tuesday,2024-10-01,Integrated EFTPOS,3323.44
+Tuesday,2024-10-01,Mail Order Pickup,99.0
+Wednesday,2024-10-02,Gift Voucher,40.0
+Wednesday,2024-10-02,Integrated EFTPOS,2689.3
+Thursday,2024-10-03,Account,1259.94
+Thursday,2024-10-03,Integrated EFTPOS,970.24
+Thursday,2024-10-03,Mail Order Pickup,104.3
+Thursday,2024-10-03,PayPal,-89.6
+Friday,2024-10-04,Account,140.0
+Friday,2024-10-04,Integrated EFTPOS,2899.88
+Saturday,2024-10-05,Gift Voucher,20.0
+Saturday,2024-10-05,Integrated EFTPOS,4761.79
+Sunday,2024-10-06,Gift Voucher,25.0
+Sunday,2024-10-06,Integrated EFTPOS,1639.92
+Sunday,2024-10-06,PayPal,-269.59
+Monday,2024-10-07,Gift Voucher,99.2
+Monday,2024-10-07,Integrated EFTPOS,2851.44
+Monday,2024-10-07,Mail Order Pickup,359.99
+Tuesday,2024-10-08,CASH,588.95
+Tuesday,2024-10-08,Gift Voucher,20.0
+Tuesday,2024-10-08,Integrated EFTPOS,2504.86
+Tuesday,2024-10-08,Mail Order Pickup,224.98
+Wednesday,2024-10-09,Integrated EFTPOS,4570.76
+Thursday,2024-10-10,Gift Voucher,20.0
+Thursday,2024-10-10,Integrated EFTPOS,1427.88
+Friday,2024-10-11,Gift Voucher,20.0
+Friday,2024-10-11,Integrated EFTPOS,2804.87
+Saturday,2024-10-12,Account,99.0
+Saturday,2024-10-12,Gift Voucher,40.0
+Saturday,2024-10-12,Integrated EFTPOS,4317.76
+Sunday,2024-10-13,Gift Voucher,80.99
+Sunday,2024-10-13,Integrated EFTPOS,2067.91
+Monday,2024-10-14,Gift Voucher,20.0
+Monday,2024-10-14,Integrated EFTPOS,2843.95
+Tuesday,2024-10-15,Integrated EFTPOS,1952.91
+Tuesday,2024-10-15,Mail Order Pickup,306.98
+Wednesday,2024-10-16,CASH,614.0
+Wednesday,2024-10-16,Integrated EFTPOS,1450.94
+Wednesday,2024-10-16,Mail Order Pickup,29.0
+Thursday,2024-10-17,Account,100.0
+Thursday,2024-10-17,Integrated EFTPOS,4691.73
+Thursday,2024-10-17,Mail Order Pickup,165.0
+Friday,2024-10-18,CASH,20.0
+Friday,2024-10-18,Gift Voucher,20.0
+Friday,2024-10-18,Integrated EFTPOS,1371.89
+Friday,2024-10-18,Mail Order Pickup,159.0
+Saturday,2024-10-19,Gift Voucher,20.0
+Saturday,2024-10-19,Integrated EFTPOS,5458.72
+Saturday,2024-10-19,PayPal,-165.2
+Sunday,2024-10-20,CASH,100.0
+Sunday,2024-10-20,Integrated EFTPOS,4447.73
+Monday,2024-10-21,Integrated EFTPOS,1595.89
+Monday,2024-10-21,Mail Order Pickup,749.96
+Tuesday,2024-10-22,Account,349.98
+Tuesday,2024-10-22,Gift Voucher,20.0
+Tuesday,2024-10-22,Integrated EFTPOS,4912.75
+Wednesday,2024-10-23,Gift Voucher,20.0
+Wednesday,2024-10-23,Integrated EFTPOS,4596.65
+Wednesday,2024-10-23,Mail Order Pickup,177.99
+Thursday,2024-10-24,Integrated EFTPOS,1571.87
+Thursday,2024-10-24,Mail Order Pickup,29.0
+Friday,2024-10-25,Gift Voucher,20.0
+Friday,2024-10-25,Integrated EFTPOS,3419.86
+Friday,2024-10-25,Mail Order Pickup,87.0
+Saturday,2024-10-26,Account,250.0
+Saturday,2024-10-26,CASH,92.0
+Saturday,2024-10-26,Gift Voucher,20.0
+Saturday,2024-10-26,Integrated EFTPOS,3993.71
+Saturday,2024-10-26,PayPal,-69.0
+Sunday,2024-10-27,Integrated EFTPOS,3443.71
+Monday,2024-10-28,Gift Voucher,44.99
+Monday,2024-10-28,Integrated EFTPOS,843.92
+Monday,2024-10-28,Mail Order Pickup,528.96
+Tuesday,2024-10-29,Integrated EFTPOS,3852.78
+Wednesday,2024-10-30,Integrated EFTPOS,2984.75
+Wednesday,2024-10-30,Mail Order Pickup,111.99
+Thursday,2024-10-31,Integrated EFTPOS,1657.87
+Friday,2024-11-01,Gift Voucher,40.0
+Friday,2024-11-01,Integrated EFTPOS,4129.77
+Saturday,2024-11-02,Gift Voucher,40.0
+Saturday,2024-11-02,Integrated EFTPOS,3827.7
+Sunday,2024-11-03,Gift Voucher,100.0
+Sunday,2024-11-03,Integrated EFTPOS,3235.76
+Monday,2024-11-04,Account,199.98
+Monday,2024-11-04,Integrated EFTPOS,3529.97
+Monday,2024-11-04,Mail Order Pickup,190.99
+Tuesday,2024-11-05,Integrated EFTPOS,1008.88
+Wednesday,2024-11-06,Integrated EFTPOS,1847.89
+Wednesday,2024-11-06,Mail Order Pickup,116.99
+Thursday,2024-11-07,CASH,70.0
+Thursday,2024-11-07,Integrated EFTPOS,3853.7
+Thursday,2024-11-07,Mail Order Pickup,58.0
+Friday,2024-11-08,CASH,189.0
+Friday,2024-11-08,Integrated EFTPOS,4891.66
+Friday,2024-11-08,Mail Order Pickup,99.99
+Friday,2024-11-08,PayPal,-134.99
+Saturday,2024-11-09,Gift Voucher,20.0
+Saturday,2024-11-09,Integrated EFTPOS,4645.66
+Saturday,2024-11-09,PayPal,-119.99
+Sunday,2024-11-10,Integrated EFTPOS,3294.01
+Monday,2024-11-11,Gift Voucher,210.0
+Monday,2024-11-11,Integrated EFTPOS,1939.83
+Monday,2024-11-11,Mail Order Pickup,255.98
+Tuesday,2024-11-12,CASH,200.0
+Tuesday,2024-11-12,Gift Voucher,20.0
+Tuesday,2024-11-12,Integrated EFTPOS,2658.76
+Wednesday,2024-11-13,Gift Voucher,100.0
+Wednesday,2024-11-13,Integrated EFTPOS,2958.75
+Wednesday,2024-11-13,Mail Order Pickup,103.99
+Thursday,2024-11-14,Gift Voucher,20.0
+Thursday,2024-11-14,Integrated EFTPOS,2357.33
+Thursday,2024-11-14,Mail Order Pickup,33.2
+Friday,2024-11-15,Account,140.0
+Friday,2024-11-15,Integrated EFTPOS,3918.05
+Friday,2024-11-15,Mail Order Pickup,81.99
+Saturday,2024-11-16,CASH,232.0
+Saturday,2024-11-16,Integrated EFTPOS,3543.9
+Sunday,2024-11-17,Gift Voucher,20.0
+Sunday,2024-11-17,Integrated EFTPOS,3342.69
+Monday,2024-11-18,Birthday Voucher Refund,20.0
+Monday,2024-11-18,CASH,220.0
+Monday,2024-11-18,Integrated EFTPOS,1845.82
+Monday,2024-11-18,PayPal,-99.0
+Tuesday,2024-11-19,Integrated EFTPOS,2882.36
+Wednesday,2024-11-20,Integrated EFTPOS,2278.85
+Thursday,2024-11-21,Afterpay POS API Payment,-194.98
+Thursday,2024-11-21,Gift Voucher,87.51
+Thursday,2024-11-21,Integrated EFTPOS,3075.25
+Friday,2024-11-22,CASH,135.0
+Friday,2024-11-22,Gift Voucher,40.0
+Friday,2024-11-22,Integrated EFTPOS,5053.84
+Saturday,2024-11-23,CASH,198.0
+Saturday,2024-11-23,Gift Voucher,40.0
+Saturday,2024-11-23,Integrated EFTPOS,6148.5
+Sunday,2024-11-24,Integrated EFTPOS,4068.74
+Monday,2024-11-25,Integrated EFTPOS,3078.28
+Monday,2024-11-25,Mail Order Pickup,376.49
+Tuesday,2024-11-26,CASH,383.95
+Tuesday,2024-11-26,Integrated EFTPOS,4638.22
+Tuesday,2024-11-26,Mail Order Pickup,104.99
+Wednesday,2024-11-27,Afterpay POS API Payment,-299.99
+Wednesday,2024-11-27,CASH,50.0
+Wednesday,2024-11-27,Integrated EFTPOS,5246.2
+Wednesday,2024-11-27,Mail Order Pickup,149.98
+Thursday,2024-11-28,CASH,202.0
+Thursday,2024-11-28,Gift Voucher,200.0
+Thursday,2024-11-28,Integrated EFTPOS,4045.62
+Thursday,2024-11-28,Mail Order Pickup,59.0
+Friday,2024-11-29,CASH,882.45
+Friday,2024-11-29,Integrated EFTPOS,7083.29
+Friday,2024-11-29,Mail Order Pickup,198.0
+Saturday,2024-11-30,Gift Voucher,40.0
+Saturday,2024-11-30,Integrated EFTPOS,5352.16
+Sunday,2024-12-01,CASH,299.0
+Sunday,2024-12-01,Integrated EFTPOS,5443.58
+Monday,2024-12-02,Integrated EFTPOS,5031.41
+Monday,2024-12-02,PayPal,-171.49
+Tuesday,2024-12-03,Integrated EFTPOS,1232.38
+Tuesday,2024-12-03,Mail Order Pickup,198.0
+Tuesday,2024-12-03,PayPal,-8.49
+Wednesday,2024-12-04,Account,804.95
+Wednesday,2024-12-04,Integrated EFTPOS,1717.37
+Thursday,2024-12-05,Account,599.96
+Thursday,2024-12-05,CASH,81.0
+Thursday,2024-12-05,Integrated EFTPOS,1329.37
+Friday,2024-12-06,Account,499.98
+Friday,2024-12-06,Integrated EFTPOS,3089.72
+Friday,2024-12-06,Mail Order Pickup,99.0
+Saturday,2024-12-07,CASH,100.0
+Saturday,2024-12-07,Gift Voucher,99.99
+Saturday,2024-12-07,Integrated EFTPOS,3823.77
+Sunday,2024-12-08,Integrated EFTPOS,4714.43
+Monday,2024-12-09,Integrated EFTPOS,2341.86
+Tuesday,2024-12-10,Account,209.98
+Tuesday,2024-12-10,Gift Voucher,20.0
+Tuesday,2024-12-10,Integrated EFTPOS,2849.09
+Wednesday,2024-12-11,CASH,100.0
+Wednesday,2024-12-11,Integrated EFTPOS,4020.35
+Thursday,2024-12-12,Integrated EFTPOS,2805.75
+Thursday,2024-12-12,Mail Order Pickup,194.98
+Friday,2024-12-13,Account,200.0
+Friday,2024-12-13,CASH,296.95
+Friday,2024-12-13,Gift Voucher,40.0
+Friday,2024-12-13,Integrated EFTPOS,5246.09
+Friday,2024-12-13,Mail Order Pickup,88.0
+Saturday,2024-12-14,CASH,129.0
+Saturday,2024-12-14,Eftpos card,-119.99
+Saturday,2024-12-14,Gift Voucher,195.0
+Saturday,2024-12-14,Integrated EFTPOS,4809.58
+Sunday,2024-12-15,Account,275.01
+Sunday,2024-12-15,Afterpay POS API Payment,-103.99
+Sunday,2024-12-15,Integrated EFTPOS,3974.76
+Sunday,2024-12-15,PayPal,-174.99
+Monday,2024-12-16,Integrated EFTPOS,2487.24
+Monday,2024-12-16,Mail Order Pickup,233.99
+Tuesday,2024-12-17,Integrated EFTPOS,3600.88
+Tuesday,2024-12-17,PayPal,-99.0
+Wednesday,2024-12-18,Account,79.99
+Wednesday,2024-12-18,CASH,394.95
+Wednesday,2024-12-18,Integrated EFTPOS,5784.84
+Wednesday,2024-12-18,Mail Order Pickup,69.0
+Wednesday,2024-12-18,PayPal,-174.99
+Thursday,2024-12-19,CASH,89.0
+Thursday,2024-12-19,Integrated EFTPOS,4922.75
+Thursday,2024-12-19,Mail Order Pickup,248.99
+Friday,2024-12-20,CASH,59.0
+Friday,2024-12-20,Gift Voucher,104.99
+Friday,2024-12-20,Integrated EFTPOS,6189.79
+Saturday,2024-12-21,Gift Voucher,40.0
+Saturday,2024-12-21,Integrated EFTPOS,9730.56
+Sunday,2024-12-22,CASH,317.0
+Sunday,2024-12-22,Integrated EFTPOS,8076.68
+Monday,2024-12-23,Afterpay POS API Payment,-104.99
+Monday,2024-12-23,CASH,50.0
+Monday,2024-12-23,Integrated EFTPOS,7995.73
+Monday,2024-12-23,Mail Order Pickup,501.99
+Tuesday,2024-12-24,CASH,100.0
+Tuesday,2024-12-24,Integrated EFTPOS,9333.49
+Tuesday,2024-12-24,Mail Order Pickup,111.99
+Thursday,2024-12-26,Gift Voucher,131.99
+Thursday,2024-12-26,Integrated EFTPOS,2316.87
+Friday,2024-12-27,Gift Voucher,598.97
+Friday,2024-12-27,Integrated EFTPOS,2413.43
+Friday,2024-12-27,Mail Order Pickup,111.99
+Friday,2024-12-27,PayPal,-8.0
+Saturday,2024-12-28,Integrated EFTPOS,2683.87
+Sunday,2024-12-29,CASH,200.0
+Sunday,2024-12-29,Gift Voucher,100.0
+Sunday,2024-12-29,Integrated EFTPOS,2573.36
+Monday,2024-12-30,Integrated EFTPOS,4458.82
+Monday,2024-12-30,Mail Order Pickup,188.99
+Tuesday,2024-12-31,CASH,99.0
+Tuesday,2024-12-31,Integrated EFTPOS,4231.21
+Tuesday,2024-12-31,Mail Order Pickup,593.98
+Tuesday,2024-12-31,PayPal,-138.0
+Thursday,2025-01-02,Integrated EFTPOS,4629.07
+Friday,2025-01-03,Gift Voucher,79.0
+Friday,2025-01-03,Integrated EFTPOS,2137.28
+Friday,2025-01-03,PayPal,-119.0
+Saturday,2025-01-04,CASH,234.0
+Saturday,2025-01-04,Gift Voucher,20.0
+Saturday,2025-01-04,Integrated EFTPOS,3589.79
+Sunday,2025-01-05,Gift Voucher,20.0
+Sunday,2025-01-05,Integrated EFTPOS,1720.09
+Monday,2025-01-06,Gift Voucher,40.0
+Monday,2025-01-06,Integrated EFTPOS,2266.06
+Monday,2025-01-06,Mail Order Pickup,224.98
+Monday,2025-01-06,PayPal,-143.2
+Tuesday,2025-01-07,Account,149.99
+Tuesday,2025-01-07,Gift Voucher,250.0
+Tuesday,2025-01-07,Integrated EFTPOS,1846.08
+Wednesday,2025-01-08,Gift Voucher,20.0
+Wednesday,2025-01-08,Integrated EFTPOS,1398.49
+Thursday,2025-01-09,Gift Voucher,220.0
+Thursday,2025-01-09,Integrated EFTPOS,719.24
+Friday,2025-01-10,Account,82.6
+Friday,2025-01-10,Gift Voucher,46.99
+Friday,2025-01-10,Integrated EFTPOS,1494.41
+Friday,2025-01-10,Mail Order Pickup,80.99
+Friday,2025-01-10,PayPal,-120.19
+Saturday,2025-01-11,CASH,135.0
+Saturday,2025-01-11,Integrated EFTPOS,2887.67
+Sunday,2025-01-12,Afterpay POS API Payment,-65.55
+Sunday,2025-01-12,Gift Voucher,20.0
+Sunday,2025-01-12,Integrated EFTPOS,969.61
+Monday,2025-01-13,CASH,100.0
+Monday,2025-01-13,Gift Voucher,83.3
+Monday,2025-01-13,Integrated EFTPOS,1392.03
+Monday,2025-01-13,Mail Order Pickup,527.96
+Tuesday,2025-01-14,Gift Voucher,40.0
+Tuesday,2025-01-14,Integrated EFTPOS,1567.07
+Wednesday,2025-01-15,Account,149.99
+Wednesday,2025-01-15,Integrated EFTPOS,1511.71
+Wednesday,2025-01-15,Mail Order Pickup,116.99
+Thursday,2025-01-16,Integrated EFTPOS,752.49
+Friday,2025-01-17,Account,59.99
+Friday,2025-01-17,Gift Voucher,169.99
+Friday,2025-01-17,Integrated EFTPOS,1251.9
+Friday,2025-01-17,PayPal,-139.3
+Saturday,2025-01-18,Account,250.0
+Saturday,2025-01-18,Gift Voucher,40.0
+Saturday,2025-01-18,Integrated EFTPOS,3775.93
+Saturday,2025-01-18,PayPal,-99.0
+Sunday,2025-01-19,Account,289.98
+Sunday,2025-01-19,CASH,80.0
+Sunday,2025-01-19,Integrated EFTPOS,1029.96
+Sunday,2025-01-19,PayPal,-809.94
+Monday,2025-01-20,CASH,130.0
+Monday,2025-01-20,Gift Voucher,20.0
+Monday,2025-01-20,Integrated EFTPOS,2642.64
+Monday,2025-01-20,Mail Order Pickup,79.99
+Tuesday,2025-01-21,Integrated EFTPOS,155.42
+Tuesday,2025-01-21,Mail Order Pickup,166.6
+Wednesday,2025-01-22,Integrated EFTPOS,1557.1
+Wednesday,2025-01-22,Mail Order Pickup,74.99
+Thursday,2025-01-23,Integrated EFTPOS,1882.09
+Thursday,2025-01-23,Mail Order Pickup,112.49
+Friday,2025-01-24,CASH,105.0
+Friday,2025-01-24,Integrated EFTPOS,3490.02
+Friday,2025-01-24,Mail Order Pickup,152.99
+Friday,2025-01-24,PayPal,-69.3
+Saturday,2025-01-25,Afterpay POS API Payment,-127.74
+Saturday,2025-01-25,Gift Voucher,20.0
+Saturday,2025-01-25,Integrated EFTPOS,2300.28
+Sunday,2025-01-26,Integrated EFTPOS,762.01
+Tuesday,2025-01-28,Integrated EFTPOS,633.96
+Tuesday,2025-01-28,Mail Order Pickup,244.47
+Wednesday,2025-01-29,Gift Voucher,20.0
+Wednesday,2025-01-29,Integrated EFTPOS,598.95
+Thursday,2025-01-30,Integrated EFTPOS,1707.08
+Friday,2025-01-31,Gift Voucher,40.0
+Friday,2025-01-31,Integrated EFTPOS,4054.23
+Friday,2025-01-31,Mail Order Pickup,260.98
+Saturday,2025-02-01,CASH,270.0
+Saturday,2025-02-01,Gift Voucher,20.0
+Saturday,2025-02-01,Integrated EFTPOS,2836.8
+Sunday,2025-02-02,Integrated EFTPOS,1622.88
+Monday,2025-02-03,Integrated EFTPOS,956.42
+Monday,2025-02-03,Mail Order Pickup,89.99
+Monday,2025-02-03,PayPal,-89.0
+Tuesday,2025-02-04,Account,1579.91
+Tuesday,2025-02-04,Gift Voucher,20.0
+Tuesday,2025-02-04,Integrated EFTPOS,2174.29
+Tuesday,2025-02-04,Mail Order Pickup,269.98
+Wednesday,2025-02-05,Gift Voucher,20.0
+Wednesday,2025-02-05,Integrated EFTPOS,1115.9
+Thursday,2025-02-06,CASH,120.0
+Thursday,2025-02-06,Integrated EFTPOS,4903.12
+Friday,2025-02-07,Account,250.0
+Friday,2025-02-07,Integrated EFTPOS,3057.72
+Friday,2025-02-07,Mail Order Pickup,263.98
+Saturday,2025-02-08,Gift Voucher,20.0
+Saturday,2025-02-08,Integrated EFTPOS,1727.8
+Sunday,2025-02-09,CASH,650.0
+Sunday,2025-02-09,Gift Voucher,20.0
+Sunday,2025-02-09,Integrated EFTPOS,1773.52
+Monday,2025-02-10,Gift Voucher,155.98
+Monday,2025-02-10,Integrated EFTPOS,1698.58
+Monday,2025-02-10,Mail Order Pickup,753.93
+Tuesday,2025-02-11,Gift Voucher,502.99
+Tuesday,2025-02-11,Integrated EFTPOS,1402.83
+Tuesday,2025-02-11,Mail Order Pickup,125.99
+Wednesday,2025-02-12,Integrated EFTPOS,3131.78
+Thursday,2025-02-13,Account,209.98
+Thursday,2025-02-13,Integrated EFTPOS,1123.89
+Friday,2025-02-14,CASH,85.0
+Friday,2025-02-14,Integrated EFTPOS,457.92
+Friday,2025-02-14,Mail Order Pickup,71.99
+Saturday,2025-02-15,Account,40.0
+Saturday,2025-02-15,Integrated EFTPOS,2058.31
+Sunday,2025-02-16,Gift Voucher,20.0
+Sunday,2025-02-16,Integrated EFTPOS,5080.59
+Monday,2025-02-17,Integrated EFTPOS,1323.89
+Monday,2025-02-17,Mail Order Pickup,557.46
+Tuesday,2025-02-18,Integrated EFTPOS,992.92
+Tuesday,2025-02-18,Mail Order Pickup,79.99
+Wednesday,2025-02-19,CASH,160.0
+Wednesday,2025-02-19,Integrated EFTPOS,1770.54
+Thursday,2025-02-20,Gift Voucher,20.0
+Thursday,2025-02-20,Integrated EFTPOS,851.95
+Thursday,2025-02-20,Mail Order Pickup,119.99
+Friday,2025-02-21,Gift Voucher,20.0
+Friday,2025-02-21,Integrated EFTPOS,1777.35
+Saturday,2025-02-22,Integrated EFTPOS,3131.76
+Saturday,2025-02-22,PayPal,-349.98
+Sunday,2025-02-23,Gift Voucher,20.0
+Sunday,2025-02-23,Integrated EFTPOS,2816.24
+Monday,2025-02-24,CASH,136.0
+Monday,2025-02-24,Integrated EFTPOS,1003.9
+Monday,2025-02-24,Mail Order Pickup,125.99
+Tuesday,2025-02-25,Integrated EFTPOS,1399.38
+Wednesday,2025-02-26,CASH,200.0
+Wednesday,2025-02-26,Integrated EFTPOS,2137.32
+Wednesday,2025-02-26,Mail Order Pickup,149.99
+Thursday,2025-02-27,Gift Voucher,170.0
+Thursday,2025-02-27,Integrated EFTPOS,2591.73
+Thursday,2025-02-27,Mail Order Pickup,187.48
+Friday,2025-02-28,Gift Voucher,220.0
+Friday,2025-02-28,Integrated EFTPOS,1582.59
+Friday,2025-02-28,Mail Order Pickup,119.99
+Saturday,2025-03-01,CASH,128.0
+Saturday,2025-03-01,Integrated EFTPOS,3177.73
+Sunday,2025-03-02,Gift Voucher,65.03
+Sunday,2025-03-02,Integrated EFTPOS,3015.67
+Monday,2025-03-03,Gift Voucher,20.0
+Monday,2025-03-03,Integrated EFTPOS,5093.6
+Tuesday,2025-03-04,Gift Voucher,20.0
+Tuesday,2025-03-04,Integrated EFTPOS,834.94
+Wednesday,2025-03-05,Integrated EFTPOS,5052.7
+Thursday,2025-03-06,Gift Voucher,20.0
+Thursday,2025-03-06,Integrated EFTPOS,1559.89
+Friday,2025-03-07,Account,329.98
+Friday,2025-03-07,Gift Voucher,20.0
+Friday,2025-03-07,Integrated EFTPOS,2121.92
+Saturday,2025-03-08,CASH,100.0
+Saturday,2025-03-08,Gift Voucher,20.0
+Saturday,2025-03-08,Integrated EFTPOS,3480.89
+Sunday,2025-03-09,Integrated EFTPOS,3588.84
+Monday,2025-03-10,Integrated EFTPOS,895.95
+Tuesday,2025-03-11,CASH,-45.0
+Tuesday,2025-03-11,Integrated EFTPOS,2022.34
+Wednesday,2025-03-12,Gift Voucher,40.0
+Wednesday,2025-03-12,Integrated EFTPOS,3914.23
+Wednesday,2025-03-12,Mail Order Pickup,138.0
+Thursday,2025-03-13,Account,40.84
+Thursday,2025-03-13,Integrated EFTPOS,3301.62
+Thursday,2025-03-13,Mail Order Pickup,158.0
+Friday,2025-03-14,Gift Voucher,40.0
+Friday,2025-03-14,Integrated EFTPOS,967.78
+Friday,2025-03-14,Mail Order Pickup,175.2
+Friday,2025-03-14,PayPal,-63.2
+Saturday,2025-03-15,Integrated EFTPOS,5056.76
+Sunday,2025-03-16,Gift Voucher,40.0
+Sunday,2025-03-16,Integrated EFTPOS,242.19
+Monday,2025-03-17,Integrated EFTPOS,1259.24
+Monday,2025-03-17,Mail Order Pickup,158.0
+Tuesday,2025-03-18,CASH,59.0
+Tuesday,2025-03-18,Integrated EFTPOS,2889.81
+Wednesday,2025-03-19,Account,80.0
+Wednesday,2025-03-19,CASH,447.95
+Wednesday,2025-03-19,Integrated EFTPOS,1931.03
+Thursday,2025-03-20,CASH,-20.0
+Thursday,2025-03-20,Gift Voucher,40.0
+Thursday,2025-03-20,Integrated EFTPOS,2103.82
+Friday,2025-03-21,Gift Voucher,20.0
+Friday,2025-03-21,Integrated EFTPOS,4817.82
+Saturday,2025-03-22,CASH,-8.0
+Saturday,2025-03-22,Gift Voucher,40.0
+Saturday,2025-03-22,Integrated EFTPOS,4232.3
+Sunday,2025-03-23,Integrated EFTPOS,1847.85
+Sunday,2025-03-23,PayPal,-159.99
+Monday,2025-03-24,Integrated EFTPOS,1998.81
+Monday,2025-03-24,Mail Order Pickup,79.0
+Tuesday,2025-03-25,Integrated EFTPOS,1505.87
+Tuesday,2025-03-25,Mail Order Pickup,103.99
+Wednesday,2025-03-26,CASH,50.0
+Wednesday,2025-03-26,Gift Voucher,20.0
+Wednesday,2025-03-26,Integrated EFTPOS,2778.77
+Wednesday,2025-03-26,Mail Order Pickup,225.98
+Thursday,2025-03-27,Gift Voucher,20.0
+Thursday,2025-03-27,Integrated EFTPOS,1048.91

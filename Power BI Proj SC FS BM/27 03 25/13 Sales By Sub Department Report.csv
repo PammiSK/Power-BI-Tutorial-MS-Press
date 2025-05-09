@@ -1,0 +1,122 @@
+dept,sub_dept,type,description,quantity,gross_sale
+AC,A,Women,Accessories,9,818.92
+AC,B,Men,Bag,3,1199.97
+AC,B,Women,Bag,10,1033.96
+AC,B,Men,Belt,80,7361.6
+AC,B,Women,Belt,21,2459.79
+AC,B,Women,Books,8,294.97
+AC,B,AC,Boys 3-10,31,670.99
+AC,B,AC,Boys Hat,1,34.99
+AC,G,AC,Girls 3-10,21,498.96
+AC,G,AC,Girls Other,7,194.98
+AC,H,Men,Hat,90,3789.35
+AC,H,Women,Hat,30,986.02
+AC,O,Men,Other,49,1837.83
+AC,O,Women,Other,8,133.98
+AC,S,Women,Scarf,73,7099.61
+AC,U,AC,Unisex Book,2,41.99
+AC,U,AC,Unisex Gifting,132,3177.97
+AC,U,AC,Unisex Shoes,0,0.0
+AC,U,AC,Unisex Toy,27,1481.77
+AO,B,AIO,Baby Boys 000-2,30,1243.96
+AO,B,AIO,Baby Girls 000-2,143,6055.15
+AO,B,AIO,Boys 3-10,25,1182.7
+AO,G,AIO,Girls 3-10,64,3031.94
+AO,U,AIO,Unisex 000-2,13,486.29
+CS,3,C&S,3/4 Slv,665,56178.53
+CS,B,C&S,Baby Boys 000-2,59,1640.87
+CS,B,C&S,Baby Girls 000-2,79,2190.84
+CS,B,C&S,Boys 3-10,200,5404.22
+CS,G,C&S,Girls 3-10,112,3696.24
+CS,L,C&S,Lng Slv,775,60156.3
+CS,O,C&S,Other,464,34771.42
+CS,P,C&S,Polo,1254,90521.51
+CS,S,C&S,Sht Slv,2120,153331.0
+CS,S,C&S,Slvss,173,10502.94
+CS,S,C&S,Sweat,87,8579.85
+CS,T,C&S,T-Shirt,650,41175.08
+CS,U,C&S,Unisex 000-2,23,425.99
+CS,U,C&S,Unisex 3-10,12,178.0
+DN,5,Denim,5 Pocket,548,76399.39
+DN,R,Denim,Relaxed,146,23248.16
+DN,S,Denim,Skinny,80,9304.93
+DN,S,Denim,Slim,1,39.0
+DR,B,Dress,Baby Girls 000-2,120,6437.03
+DR,G,Dress,Girls 3-10,148,10182.5
+DR,K,Dress,Knit,17,2531.06
+DR,L,Dress,Lng Slv,42,8736.5
+DR,L,Dress,Long,125,29726.23
+DR,S,Dress,Short,95,20680.21
+DR,S,Dress,Sht Slv,158,31753.8
+DR,S,Dress,Slvss,35,6797.15
+DR,W,Dress,Woven,70,10771.42
+JC,B,Jacket,Baby Boys 000-2,40,1996.93
+JC,B,Jacket,Baby Girls 000-2,38,1995.96
+JC,B,Jacket,Boys 3-10,56,3139.47
+JC,D,Jacket,Denim,3,749.97
+JC,G,Jacket,Girls 3-10,157,10674.63
+JC,K,Jacket,Knit,4,799.96
+JC,L,Jacket,Leather,1,199.0
+JC,L,Jacket,Jacket,566,159101.69
+JC,O,Jacket,Other,357,92395.32
+JC,V,Jacket,Vest,105,19722.01
+JC,W,Jacket,Outerwear,91,33141.27
+KN,B,Knit,Baby Boys 000-2,20,899.95
+KN,B,Knit,Baby Girls 000-2,47,1842.92
+KN,B,Knit,Boys 3-10,65,2575.34
+KN,C,Knit,Cardigan,351,70496.22
+KN,G,Knit,Girls 3-10,83,3011.06
+KN,L,Knit,Lng Slv,989,151195.08
+KN,O,Knit,Other,101,13149.32
+KN,S,Knit,Sht Slv,475,59787.57
+KN,S,Knit,Slvss,66,8644.98
+KN,T,Knit,Top,166,26127.58
+KN,U,Knit,Unisex 000-2,12,352.2
+PN,5,Pant,5 Pocket,708,100287.5
+PN,B,Pant,Baby Boys 000-2,29,1305.8
+PN,B,Pant,Baby Girls 000-2,47,1815.88
+PN,B,Pant,Boys 3-10,86,4544.81
+PN,C,Pant,Full Length,570,89516.06
+PN,C,Pant,Capri,646,101498.01
+PN,C,Pant,Crop,412,54848.89
+PN,F,Pant,Full Length,841,120533.54
+PN,G,Pant,Girls 3-10,81,2977.99
+PN,K,Pant,Knit,29,4226.22
+PN,L,Pant,Leather,1,249.0
+PN,O,Pant,Other,590,76729.26
+PN,S,Pant,Slim 7/8,71,11124.76
+PN,S,Pant,Slim Full Length,187,29118.93
+PN,U,Pant,Unisex 000-2,22,426.39
+PN,W,Pant,Wide Full Length,47,8318.56
+PN,W,Pant,Woven,15,1863.93
+SH,B,Shirt,Baby Boys 000-2,100,3358.99
+SH,B,Shirt,Boys 3-10,184,7202.22
+SH,G,Shirt,Girls 3-10,95,3402.17
+SH,L,Shirt,LS Reg,1027,118603.95
+SH,L,Shirt,LS Tapd,132,9008.89
+SH,L,Shirt,Lng Slv,1647,213547.51
+SH,S,Shirt,SS Reg,1065,120911.38
+SH,S,Shirt,SS Tapd,227,24021.5
+SH,S,Shirt,Sht Slv,467,59647.33
+SH,S,Shirt,Slvss,70,9020.73
+SH,W,Shirt,Woven,41,6052.96
+SK,A,Skirt,A Line,1,149.99
+SK,B,Skirt,Bias,34,6646.67
+SK,D,Skirt,Denim,102,13336.2
+SK,G,Skirt,Girls 3-10,103,5194.48
+SK,K,Skirt,Knee Lng,28,3518.83
+SK,K,Skirt,Knit,13,2021.1
+SK,L,Skirt,Leather,1,199.0
+SK,L,Skirt,Long,73,13571.35
+SK,O,Skirt,Other,5,785.0
+SK,P,Skirt,Pleated,34,5511.5
+SK,W,Skirt,Woven,26,3805.88
+SM,O,Swim,One Piece,28,2506.95
+SM,T,Swim,Two Piece,72,4163.41
+SR,B,Short,Baby Boys 000-2,63,2045.86
+SR,B,Short,Baby Girls 000-2,33,1144.91
+SR,B,Short,Boys 3-10,108,3809.61
+SR,D,Short,Denim,16,1683.9
+SR,G,Short,Girls 3-10,106,4319.95
+SR,S,Short,Short,1278,125428.6
+SR,W,Short,Woven,772,77562.47
