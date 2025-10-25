@@ -131,6 +131,7 @@ function compareValue(val, op, target) {
 function applyFiltersToRows(rows) {
   const repsCSV = document.getElementById('f_sales_reps').value.trim();
   const tendStr = document.getElementById('f_tender').value.trim().toLowerCase();
+  const dayFilter = document.getElementById('f_day').value.trim().toLowerCase();
   const docketStr = document.getElementById('f_docket').value.trim().toLowerCase();
   const valOp = document.getElementById('f_val_op').value;
   const valNum = document.getElementById('f_val_num').value;
@@ -165,6 +166,9 @@ function applyFiltersToRows(rows) {
     if (tendStr) {
       if (!String(r.tender || '').toLowerCase().includes(tendStr)) return false;
     }
+
+    // day filter
+    if (dayFilter && String(r.day || '').toLowerCase() !== dayFilter) return false;
 
     // docket contains
     if (docketStr) {
