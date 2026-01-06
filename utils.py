@@ -87,6 +87,281 @@ def markdown(report: str):
 
     return deduped
 
+def sales_perf_inc_gst_on_retail(report: str):
+    print("Processing: Sales Performance (Incl. GST on Retail $)")
+    
+    df_attributes = [
+        'sales_person',
+        'retail_$_incl_disc',
+        'discount',
+        'returns',
+        'net_$',
+        'avg_sale_units',
+        'avg_sale_$',
+        '%_store_total'
+    ]
+    rows = []
+    
+    for l in report.splitlines():
+        line = l.rstrip("\n")
+        if not line.endswith("%"):
+            continue
+
+        # split into tokens
+        data = line.split()
+
+        # skip any "Total" row by checking the first field
+        if data[0].startswith("Total"):
+            continue
+
+        # if name has spaces, rejoin all except last 7 tokens
+        if len(data) != len(df_attributes):
+            name = " ".join(data[:-7])
+            rest = data[-7:]
+            data = [name] + rest
+
+        rows.append(data)
+
+    df = pd.DataFrame(rows,columns=df_attributes)
+
+    float_attrs = ['retail_$_incl_disc', 'discount', 'returns', 'net_$', 'avg_sale_units', 'avg_sale_$', '%_store_total']
+
+    for col in float_attrs:
+        s = df[col].astype(str).str.replace(',', '')
+        if col == '%_store_total':
+            s = s.str.rstrip('%')
+        df[col] = s.astype(float)
+
+    # ensure string columns are of type str
+    df['sales_person'] = df['sales_person'].astype(str)
+    
+    return df
+
+def sales_perf_exc_gst_on_retail(report: str):
+    print("Processing: Sales Performance (Excl. GST on Retail $)")
+    df_attributes = [
+        'sales_person',
+        'retail_$_incl_disc',
+        'discount',
+        'returns',
+        'net_$',
+        'avg_sale_units',
+        'avg_sale_$',
+        '%_store_total'
+    ]
+    rows = []
+
+    for l in report.splitlines():
+        line = l.rstrip("\n")
+        if not line.endswith("%"):
+            continue
+
+        # split into tokens
+        data = line.split()
+
+        # skip any "Total" row by checking the first field
+        if data[0].startswith("Total"):
+            continue
+
+        # if name has spaces, rejoin all except last 7 tokens
+        if len(data) != len(df_attributes):
+            name = " ".join(data[:-7])
+            rest = data[-7:]
+            data = [name] + rest
+
+        rows.append(data)
+
+    df = pd.DataFrame(rows,columns=df_attributes)
+
+    float_attrs = ['retail_$_incl_disc', 'discount', 'returns', 'net_$', 'avg_sale_units', 'avg_sale_$', '%_store_total']
+
+    for col in float_attrs:
+        s = df[col].astype(str).str.replace(',', '')
+        if col == '%_store_total':
+            s = s.str.rstrip('%')
+        df[col] = s.astype(float)
+
+    # ensure string columns are of type str
+    df['sales_person'] = df['sales_person'].astype(str)
+    
+    return df
+
+def sales_perf_inc_tax_on_net(report: str):
+    print("Processing: Sales Performance (Incl. Tax on Net $)")
+    
+    df_attributes = [
+        'sales_person',
+        'retail_$_after_disc',
+        'discount',
+        'returns',
+        'net_$',
+        '#_of_trans',
+        'avg_sale_units',
+        'avg_sale_$',
+        '%_store_total'
+    ]
+    rows = []
+
+    for l in report.splitlines():
+        line = l.rstrip("\n")
+        if not line.endswith("%"):
+            continue
+
+        # split into tokens
+        data = line.split()
+
+        # skip any "Total" row by checking the first field
+        if data[0].startswith("Total"):
+            continue        
+        
+        # if name has spaces, rejoin all except last 8 tokens
+        
+        name = " ".join(data[:-8])
+        rest = data[-8:]
+        data = [name] + rest
+
+        rows.append(data)
+
+    df = pd.DataFrame(rows,columns=df_attributes)
+
+    float_attrs = ['retail_$_after_disc', 'discount', 'returns', 'net_$', 'avg_sale_units', 'avg_sale_$', '%_store_total']
+
+    for col in float_attrs:
+        s = df[col].astype(str).str.replace(',', '')
+        if col == '%_store_total':
+            s = s.str.rstrip('%')
+        df[col] = s.astype(float)
+
+    # ensure string columns are of type str
+    df['sales_person'] = df['sales_person'].astype('string')
+
+    # ensure string columns are of type int
+    df['#_of_trans'] = df['#_of_trans'].astype(str).str.replace(',', '').astype(int)
+    
+    return df
+
+def sales_perf_exc_tax_on_net(report: str):
+    print("Processing: Sales Performance (Excl. Tax on Net $)")
+    
+    df_attributes = [
+        'sales_person',
+        'retail_$_after_disc',
+        'discount',
+        'returns',
+        'net_$',
+        '#_of_trans',
+        'avg_sale_units',
+        'avg_sale_$',
+        '%_store_total'
+    ]
+    rows = []
+
+    for l in report.splitlines():
+        line = l.rstrip("\n")
+        if not line.endswith("%"):
+            continue
+
+        # split into tokens
+        data = line.split()
+
+        # skip any "Total" row by checking the first field
+        if data[0].startswith("Total"):
+            continue        
+        
+        # if name has spaces, rejoin all except last 8 tokens
+        
+        name = " ".join(data[:-8])
+        rest = data[-8:]
+        data = [name] + rest
+
+        rows.append(data)
+
+    df = pd.DataFrame(rows,columns=df_attributes)
+
+    float_attrs = ['retail_$_after_disc', 'discount', 'returns', 'net_$', 'avg_sale_units', 'avg_sale_$', '%_store_total']
+
+    for col in float_attrs:
+        s = df[col].astype(str).str.replace(',', '')
+        if col == '%_store_total':
+            s = s.str.rstrip('%')
+        df[col] = s.astype(float)
+
+    # ensure string columns are of type str
+    df['sales_person'] = df['sales_person'].astype('string')
+
+    # ensure string columns are of type int
+    df['#_of_trans'] = df['#_of_trans'].astype(str).str.replace(',', '').astype(int)
+
+def best_sellers_qty(report: str):
+    print("Processing: Best Sellers by Quantity")
+    
+    price_re = re.compile(r"\.\d{2}\s*$")
+    df_attributes = ['style', 'colour', 'qty', 'avg_price', 'net_$']
+    rows = []
+
+    for line in report.splitlines():
+    # with open("06 BEST SELLERS REPORT BY VALUE.txt", encoding="utf-8") as f: # yields the same result        
+        line = line.rstrip("\n")
+        if price_re.search(line):
+            data = line.split()
+            
+            if data[0].startswith("Total") or data[0].startswith("Gross"):
+                continue
+            
+            if len(data) != len(df_attributes):
+                name = " ".join(data[1:-3]).title()
+                # print(data[-3:])
+                data = [data[0]] + [name] + data[-3:]
+            
+            rows.append(data)
+
+    df = pd.DataFrame(rows,columns=df_attributes)
+                
+    for col in df_attributes:
+        if col == 'qty':
+            df[col] = df[col].astype(int)
+        elif col == 'net_$' or col == 'avg_price':
+            s = df[col].astype(str).str.replace('$', '')
+            df[col] = s.astype(float)
+        elif col == 'style' or col == 'colour':
+            df[col] = df[col].astype('string')
+    
+    return df
+
+def best_sellers_value(report: str):
+    print("Processing: Best Sellers by Value")
+    price_re = re.compile(r"\.\d{2}\s*$")
+
+    df_attributes = ['style', 'colour', 'qty', 'avg_price', 'net_$']
+    rows = []
+    
+    for line in report.splitlines():
+        line = line.rstrip("\n")
+        if price_re.search(line):
+            data = line.split()
+            
+            if data[0].startswith("Total") or data[0].startswith("Gross"):
+                continue
+            
+            if len(data) != len(df_attributes):
+                name = " ".join(data[1:-3]).title()
+                # print(data[-3:])
+                data = [data[0]] + [name] + data[-3:]
+            
+            rows.append(data)
+        df = pd.DataFrame(rows,columns=df_attributes)
+            
+    for col in df_attributes:
+        if col == 'qty':
+            df[col] = df[col].astype(int)
+        elif col == 'net_$' or col == 'avg_price':
+            s = df[col].astype(str).str.replace('$', '')
+            df[col] = s.astype(float)
+        elif col == 'style' or col == 'colour':
+            df[col] = df[col].astype('string')
+    
+    return df
+
 def daily_sales_summary(report: str):
     print("Processing: Daily Sales Summary")
     price_re = re.compile(r"\.\d{2}\s*$")
@@ -109,6 +384,27 @@ def daily_sales_summary(report: str):
     df['day'] = df['day'].astype('string')
     df['date'] = pd.to_datetime(df['date'])
 
+    return df
+
+def sales_by_category(report: str):
+    print("Processing: Sales by Category")
+    
+    price_re = re.compile(r"\.\d{2}\s*$")
+    df_attributes = ['description', 'quantity', 'gross_sale']
+    rows = []
+    
+    for line in report.splitlines():
+        line = line.rstrip("\n")
+        if price_re.search(line):
+            data = line.split()
+            rows.append(data)
+    
+    df = pd.DataFrame(rows,columns=df_attributes)
+            
+    df['description'] = df['description'].astype('string')
+    df['quantity'] = df['quantity'].astype(int)
+    df['gross_sale'] = df['gross_sale'].astype(str).str.replace('$', '').astype(float)
+    
     return df
 
 def sales_by_customer(report: str):
@@ -331,11 +627,3 @@ def tender_breakdown_summary(report: str):
 
     return df
 
-def sales_perf_inc_gst_on_retail(report: str): print("Processing: Sales Performance (Incl. GST on Retail $)")
-def sales_perf_exc_gst_on_retail(report: str): print("Processing: Sales Performance (Excl. GST on Retail $)")
-def sales_perf_inc_tax_on_net(report: str): print("Processing: Sales Performance (Incl. Tax on Net $)")
-def sales_perf_exc_tax_on_net(report: str): print("Processing: Sales Performance (Excl. Tax on Net $)")
-
-def best_sellers_qty(report: str): print("Processing: Best Sellers by Quantity")
-def best_sellers_value(report: str): print("Processing: Best Sellers by Value")
-def sales_by_category(report: str): print("Processing: Sales by Category")

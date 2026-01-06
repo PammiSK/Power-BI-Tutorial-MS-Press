@@ -1,8 +1,0 @@
-/* style.css */
-body { font-family: system-ui, Arial, sans-serif; margin: 24px; }
-textarea { width: 100%; max-width: 1000px; font-size: 14px; padding: 8px; }
-button { margin-top: 8px; padding: 8px 16px; cursor: pointer; }
-table { border-collapse: collapse; width: 100%; max-width: 1000px; margin-top: 16px; }
-th, td { border: 1px solid #ddd; padding: 8px; font-size: 14px; text-align: left; }
-th { background: #f4f4f4; position: sticky; top: 0; }
-tbody tr:nth-child(even) { background: #fafafa; }
