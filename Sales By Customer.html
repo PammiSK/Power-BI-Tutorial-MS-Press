@@ -1,0 +1,488 @@
+```html
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sales by Customer → CSV</title>
+  <style>
+    :root {
+      color-scheme: dark light;
+      --bg: #0b0f14;
+      --card: #111827;
+      --text: #e5e7eb;
+      --muted: #9ca3af;
+      --border: #263244;
+      --btn: #2563eb;
+      --btn2: #0f172a;
+      --danger: #ef4444;
+    }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+      background: var(--bg);
+      color: var(--text);
+    }
+    .wrap {
+      max-width: 1100px;
+      margin: 24px auto;
+      padding: 0 16px 40px;
+    }
+    h1 {
+      font-size: 20px;
+      margin: 0 0 12px;
+      letter-spacing: 0.2px;
+    }
+    .card {
+      background: color-mix(in oklab, var(--card) 92%, black);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 14px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+    }
+    .row {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 14px;
+    }
+    @media (min-width: 900px) {
+      .row { grid-template-columns: 1.2fr 0.8fr; }
+    }
+    textarea {
+      width: 100%;
+      min-height: 360px;
+      resize: vertical;
+      background: #0a1220;
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 12px;
+      line-height: 1.35;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 13px;
+      outline: none;
+    }
+    textarea:focus { border-color: color-mix(in oklab, var(--btn) 60%, var(--border)); }
+    .controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+    }
+    button {
+      appearance: none;
+      border: 1px solid transparent;
+      border-radius: 10px;
+      padding: 10px 12px;
+      cursor: pointer;
+      font-weight: 650;
+      letter-spacing: 0.2px;
+      background: var(--btn);
+      color: white;
+    }
+    button.secondary {
+      background: transparent;
+      border-color: var(--border);
+      color: var(--text);
+    }
+    button.danger {
+      background: transparent;
+      border-color: color-mix(in oklab, var(--danger) 70%, var(--border));
+      color: color-mix(in oklab, var(--danger) 80%, white);
+    }
+    button:disabled { opacity: 0.55; cursor: not-allowed; }
+    .small {
+      font-size: 12px;
+      color: var(--muted);
+      margin-top: 8px;
+      line-height: 1.35;
+    }
+    .stat {
+      display: grid;
+      gap: 10px;
+    }
+    .pill {
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 12px;
+      background: color-mix(in oklab, var(--card) 88%, black);
+    }
+    .pill b { display: block; font-size: 12px; color: var(--muted); margin-bottom: 4px; font-weight: 700; }
+    .pill span { font-size: 16px; }
+    .error {
+      border: 1px solid color-mix(in oklab, var(--danger) 60%, var(--border));
+      background: color-mix(in oklab, var(--danger) 10%, var(--card));
+      color: #ffd1d1;
+      border-radius: 10px;
+      padding: 10px 12px;
+      display: none;
+      white-space: pre-wrap;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 12px;
+    }
+    .ok {
+      border: 1px solid var(--border);
+      background: color-mix(in oklab, #22c55e 10%, var(--card));
+      color: #d1fae5;
+      border-radius: 10px;
+      padding: 10px 12px;
+      display: none;
+      white-space: pre-wrap;
+      font-size: 12px;
+    }
+    label.chk {
+      display: inline-flex;
+      gap: 8px;
+      align-items: center;
+      user-select: none;
+      font-size: 13px;
+      color: var(--muted);
+    }
+    input[type="checkbox"] { width: 16px; height: 16px; }
+    input[type="text"] {
+      background: #0a1220;
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 12px;
+      outline: none;
+      min-width: 220px;
+    }
+    input[type="text"]:focus { border-color: color-mix(in oklab, var(--btn) 60%, var(--border)); }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Sales by Customer report → CSV download (GitHub Pages friendly)</h1>
+
+    <div class="row">
+      <div class="card">
+        <div class="controls" style="margin-bottom: 10px;">
+          <button id="btnProcess">Process and download CSV</button>
+          <button class="secondary" id="btnProcessOnly">Process only</button>
+          <button class="danger" id="btnClear">Clear</button>
+
+          <label class="chk">
+            <input type="checkbox" id="chkSuper" />
+            Only “Super sales” (group total sales_gst_inc ≥
+            <input type="text" id="superThreshold" value="800" inputmode="decimal" style="width: 90px; min-width: 90px;" />
+            )
+          </label>
+
+          <input type="text" id="fileName" value="sales_by_customer.csv" />
+        </div>
+
+        <textarea id="report" placeholder="Paste the Sales by Customer report text here"></textarea>
+
+        <div class="small">
+          It parses lines ending with a price like “.00” or “.25”. It ignores blank lines and lines starting with “Total”.
+          Name format: “Last, First” becomes “First Last”.
+          Date is read as day-first.
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="stat">
+          <div class="pill">
+            <b>Status</b>
+            <span id="status">Waiting for input</span>
+          </div>
+          <div class="pill">
+            <b>Rows parsed</b>
+            <span id="rowsCount">0</span>
+          </div>
+          <div class="pill">
+            <b>Customers</b>
+            <span id="custCount">0</span>
+          </div>
+          <div class="pill">
+            <b>Date range</b>
+            <span id="dateRange">–</span>
+          </div>
+        </div>
+
+        <div id="okBox" class="ok" style="margin-top: 12px;"></div>
+        <div id="errBox" class="error" style="margin-top: 12px;"></div>
+
+        <div class="small" style="margin-top: 12px;">
+          CSV columns:
+          <br />customer, date, qty, sales_gst_inc, sales_gst_exc
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const priceRe = /\.\d{2}\s*$/;
+
+    function toTitleCase(s) {
+      return s
+        .toLowerCase()
+        .split(" ")
+        .filter(Boolean)
+        .map(w => w.charAt(0).toUpperCase() + w.slice(1))
+        .join(" ");
+    }
+
+    function normaliseName(raw) {
+      // "Last, First" -> "First Last"
+      const parts = raw.split(",").map(p => p.trim()).filter(Boolean);
+      if (parts.length >= 2) {
+        const last = parts[0];
+        const first = parts.slice(1).join(" ");
+        return toTitleCase((first + " " + last).trim());
+      }
+      return toTitleCase(raw.trim());
+    }
+
+    function parseMoney(x) {
+      if (x == null) return NaN;
+      return Number(String(x).replaceAll(",", "").trim());
+    }
+
+    function parseQty(x) {
+      return Number(String(x).replaceAll(",", "").trim());
+    }
+
+    function parseDateDayFirst(d) {
+      // Supports dd/mm/yyyy, dd-mm-yyyy, dd/mm/yy, dd-mm-yy
+      const s = String(d).trim();
+      const m = s.match(/^(\d{1,2})[\/-](\d{1,2})[\/-](\d{2}|\d{4})$/);
+      if (!m) return null;
+      let dd = Number(m[1]);
+      let mm = Number(m[2]);
+      let yy = Number(m[3]);
+      if (yy < 100) yy += 2000; // simple assumption
+      const dt = new Date(Date.UTC(yy, mm - 1, dd));
+      // basic validation
+      if (dt.getUTCFullYear() !== yy || (dt.getUTCMonth() + 1) !== mm || dt.getUTCDate() !== dd) return null;
+      return dt;
+    }
+
+    function isoDate(dt) {
+      const y = dt.getUTCFullYear();
+      const m = String(dt.getUTCMonth() + 1).padStart(2, "0");
+      const d = String(dt.getUTCDate()).padStart(2, "0");
+      return `${y}-${m}-${d}`;
+    }
+
+    function csvEscape(value) {
+      const s = String(value ?? "");
+      if (/[",\n]/.test(s)) return `"${s.replaceAll('"', '""')}"`;
+      return s;
+    }
+
+    function toCSV(rows) {
+      const header = ["customer", "date", "qty", "sales_gst_inc", "sales_gst_exc"];
+      const lines = [header.join(",")];
+      for (const r of rows) {
+        lines.push([
+          csvEscape(r.customer),
+          csvEscape(r.date),
+          csvEscape(r.qty),
+          csvEscape(r.sales_gst_inc),
+          csvEscape(r.sales_gst_exc)
+        ].join(","));
+      }
+      return lines.join("\n");
+    }
+
+    function downloadText(filename, text) {
+      const blob = new Blob([text], { type: "text/csv;charset=utf-8" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = filename;
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      URL.revokeObjectURL(url);
+    }
+
+    function processReport(reportText) {
+      let currName = null;
+      let currDate = null;
+
+      const rows = [];
+      const lines = reportText.split(/\r?\n/);
+
+      for (let rawLine of lines) {
+        const line = rawLine.replace(/\n$/, "").trimEnd();
+        if (!line.trim()) continue;
+        if (line.startsWith("Total")) continue;
+
+        if (!priceRe.test(line)) continue;
+
+        let data = line.trim().split(/\s+/);
+
+        if (data.length > 4) {
+          // name ... date qty inc exc
+          const nameRaw = data.slice(0, -4).join(" ");
+          currName = normaliseName(nameRaw);
+          currDate = data[data.length - 4];
+          data = [currName, currDate, ...data.slice(-3)];
+        } else if (data.length === 4) {
+          // date qty inc exc
+          currDate = data[0];
+          data = [currName, currDate, ...data.slice(-3)];
+        } else if (data.length === 3) {
+          // qty inc exc (uses curr date)
+          data = [currName, currDate, ...data];
+        } else {
+          continue;
+        }
+
+        const customer = (data[0] ?? "").toString().trim();
+        const dateStr = (data[1] ?? "").toString().trim();
+        const qtyStr = data[2];
+        const incStr = data[3];
+        const excStr = data[4];
+
+        if (!customer || !dateStr) continue;
+
+        const dt = parseDateDayFirst(dateStr);
+        if (!dt) continue;
+
+        const qty = parseQty(qtyStr);
+        const inc = parseMoney(incStr);
+        const exc = parseMoney(excStr);
+
+        if (!Number.isFinite(qty) || !Number.isFinite(inc) || !Number.isFinite(exc)) continue;
+
+        rows.push({
+          customer,
+          dateObj: dt,
+          date: isoDate(dt),
+          qty: Math.trunc(qty),
+          sales_gst_inc: inc,
+          sales_gst_exc: exc
+        });
+      }
+
+      // sort by customer, date
+      rows.sort((a, b) => {
+        const c = a.customer.localeCompare(b.customer);
+        if (c !== 0) return c;
+        return a.dateObj - b.dateObj;
+      });
+
+      return rows;
+    }
+
+    function filterSuperSales(rows, threshold) {
+      // groups by (customer|date) and keeps groups where sum(inc) >= threshold
+      const sums = new Map();
+      for (const r of rows) {
+        const key = `${r.customer}||${r.date}`;
+        sums.set(key, (sums.get(key) || 0) + r.sales_gst_inc);
+      }
+      return rows.filter(r => sums.get(`${r.customer}||${r.date}`) >= threshold);
+    }
+
+    function setStatus(text) {
+      document.getElementById("status").textContent = text;
+    }
+
+    function showOk(msg) {
+      const ok = document.getElementById("okBox");
+      ok.style.display = "block";
+      ok.textContent = msg;
+    }
+
+    function hideOk() {
+      const ok = document.getElementById("okBox");
+      ok.style.display = "none";
+      ok.textContent = "";
+    }
+
+    function showErr(msg) {
+      const err = document.getElementById("errBox");
+      err.style.display = "block";
+      err.textContent = msg;
+    }
+
+    function hideErr() {
+      const err = document.getElementById("errBox");
+      err.style.display = "none";
+      err.textContent = "";
+    }
+
+    function updateStats(rows) {
+      document.getElementById("rowsCount").textContent = rows.length;
+
+      const customers = new Set(rows.map(r => r.customer));
+      document.getElementById("custCount").textContent = customers.size;
+
+      if (rows.length) {
+        const minD = rows[0].date;
+        const maxD = rows[rows.length - 1].date;
+        document.getElementById("dateRange").textContent = (minD === maxD) ? minD : `${minD} to ${maxD}`;
+      } else {
+        document.getElementById("dateRange").textContent = "–";
+      }
+    }
+
+    function run({ download }) {
+      hideErr();
+      hideOk();
+
+      const reportText = document.getElementById("report").value || "";
+      if (!reportText.trim()) {
+        setStatus("No input");
+        updateStats([]);
+        showErr("Paste the report into the textbox first.");
+        return;
+      }
+
+      setStatus("Processing…");
+
+      let rows = processReport(reportText);
+
+      const onlySuper = document.getElementById("chkSuper").checked;
+      const threshold = Number(String(document.getElementById("superThreshold").value).trim());
+
+      if (onlySuper) {
+        const t = Number.isFinite(threshold) ? threshold : 800;
+        rows = filterSuperSales(rows, t);
+      }
+
+      updateStats(rows);
+
+      if (!rows.length) {
+        setStatus("No rows parsed");
+        showErr("Parsed 0 rows. Check the report format. Lines must end with something like “.00” and include the date and amounts.");
+        return;
+      }
+
+      setStatus("Ready");
+
+      const csvText = toCSV(rows.map(r => ({
+        customer: r.customer,
+        date: r.date,
+        qty: r.qty,
+        sales_gst_inc: r.sales_gst_inc,
+        sales_gst_exc: r.sales_gst_exc
+      })));
+
+      const fileNameInput = document.getElementById("fileName").value.trim();
+      const filename = fileNameInput ? fileNameInput : "sales_by_customer.csv";
+
+      showOk(`Processed ${rows.length} rows.\n${onlySuper ? "Super sales filter is ON.\n" : ""}${download ? "Downloading CSV now." : "CSV is ready to download."}`);
+
+      if (download) downloadText(filename, csvText);
+    }
+
+    document.getElementById("btnProcess").addEventListener("click", () => run({ download: true }));
+    document.getElementById("btnProcessOnly").addEventListener("click", () => run({ download: false }));
+
+    document.getElementById("btnClear").addEventListener("click", () => {
+      document.getElementById("report").value = "";
+      setStatus("Waiting for input");
+      updateStats([]);
+      hideErr();
+      hideOk();
+    });
+  </script>
+</body>
+</html>
+```
