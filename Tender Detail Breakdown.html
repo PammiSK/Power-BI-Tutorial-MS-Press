@@ -1,0 +1,324 @@
+```html
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tender Detail Breakdown → CSV</title>
+  <style>
+    :root{
+      color-scheme: dark light;
+      --bg:#0b0f14; --card:#111827; --text:#e5e7eb; --muted:#9ca3af;
+      --border:#263244; --btn:#2563eb; --danger:#ef4444;
+    }
+    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;background:var(--bg);color:var(--text);}
+    .wrap{max-width:1100px;margin:24px auto;padding:0 16px 40px;}
+    h1{font-size:20px;margin:0 0 12px;}
+    .grid{display:grid;grid-template-columns:1fr;gap:14px;}
+    @media (min-width: 900px){.grid{grid-template-columns:1.2fr 0.8fr;}}
+    .card{background:color-mix(in oklab,var(--card) 92%, black);border:1px solid var(--border);border-radius:12px;padding:14px;box-shadow:0 10px 30px rgba(0,0,0,0.25);}
+    textarea{
+      width:100%;min-height:380px;resize:vertical;background:#0a1220;color:var(--text);
+      border:1px solid var(--border);border-radius:10px;padding:12px;line-height:1.35;
+      font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+      font-size:13px;outline:none;
+    }
+    textarea:focus{border-color:color-mix(in oklab,var(--btn) 60%, var(--border));}
+    .controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:10px;}
+    button{
+      appearance:none;border:1px solid transparent;border-radius:10px;padding:10px 12px;cursor:pointer;
+      font-weight:650;background:var(--btn);color:white;
+    }
+    button.secondary{background:transparent;border-color:var(--border);color:var(--text);}
+    button.danger{background:transparent;border-color:color-mix(in oklab,var(--danger) 70%, var(--border));
+      color:color-mix(in oklab,var(--danger) 80%, white);}
+    input[type="text"]{
+      background:#0a1220;color:var(--text);border:1px solid var(--border);
+      border-radius:10px;padding:10px 12px;outline:none;min-width:240px;
+    }
+    input[type="text"]:focus{border-color:color-mix(in oklab,var(--btn) 60%, var(--border));}
+    .pill{border:1px solid var(--border);border-radius:10px;padding:10px 12px;background:color-mix(in oklab,var(--card) 88%, black);}
+    .pill b{display:block;font-size:12px;color:var(--muted);margin-bottom:4px;font-weight:700;}
+    .pill span{font-size:16px;}
+    .stat{display:grid;gap:10px;}
+    .small{font-size:12px;color:var(--muted);margin-top:8px;line-height:1.35;}
+    .error{
+      border:1px solid color-mix(in oklab,var(--danger) 60%, var(--border));
+      background:color-mix(in oklab,var(--danger) 10%, var(--card));
+      color:#ffd1d1;border-radius:10px;padding:10px 12px;display:none;white-space:pre-wrap;
+      font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;font-size:12px;
+    }
+    .ok{
+      border:1px solid var(--border);
+      background:color-mix(in oklab,#22c55e 10%, var(--card));
+      color:#d1fae5;border-radius:10px;padding:10px 12px;display:none;white-space:pre-wrap;font-size:12px;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Tender Detail Breakdown report → CSV download (GitHub Pages friendly)</h1>
+
+    <div class="grid">
+      <div class="card">
+        <div class="controls">
+          <button id="btnProcess">Process and download CSV</button>
+          <button id="btnProcessOnly" class="secondary">Process only</button>
+          <button id="btnClear" class="danger">Clear</button>
+          <input type="text" id="fileName" value="tender_breakdown_detail.csv" />
+        </div>
+
+        <textarea id="report" placeholder="Paste the Tender Detail Breakdown report text here"></textarea>
+
+        <div class="small">
+          Rules used (mirrors your Python):
+          <br>• Day/Date line is detected when it contains “day” (case-insensitive) but not “Total” or “Birthday”.
+          <br>• Tender is taken from the first 17 characters of any line containing “Value”.
+          <br>• Data rows are lines ending with a price like “.00”, excluding lines containing “Total”.
+          <br>• Fixed-width parsing: docket (0–13), sales rep (17–31), time (32–39), value (41–end).
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="stat">
+          <div class="pill"><b>Status</b><span id="status">Waiting for input</span></div>
+          <div class="pill"><b>Rows parsed</b><span id="rowsCount">0</span></div>
+          <div class="pill"><b>Unique tenders</b><span id="tenderCount">0</span></div>
+          <div class="pill"><b>Date range</b><span id="dateRange">–</span></div>
+        </div>
+
+        <div id="okBox" class="ok" style="margin-top: 12px;"></div>
+        <div id="errBox" class="error" style="margin-top: 12px;"></div>
+
+        <div class="small" style="margin-top: 12px;">
+          CSV columns:
+          <br>day, date, tender, docket_no, sales_rep, time, value
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const priceRe = /\.\d{2}\s*$/;
+
+    function parseMoney(x){
+      return Number(String(x ?? "").replaceAll(",", "").trim());
+    }
+
+    function parseDateDayFirst(d){
+      // dd/mm/yyyy or dd-mm-yyyy (also accepts yy)
+      const s = String(d ?? "").trim();
+      const m = s.match(/^(\d{1,2})[\/-](\d{1,2})[\/-](\d{2}|\d{4})$/);
+      if(!m) return null;
+      let dd = Number(m[1]), mm = Number(m[2]), yy = Number(m[3]);
+      if(yy < 100) yy += 2000;
+      const dt = new Date(Date.UTC(yy, mm - 1, dd));
+      if(dt.getUTCFullYear() !== yy || (dt.getUTCMonth()+1) !== mm || dt.getUTCDate() !== dd) return null;
+      return dt;
+    }
+
+    function parseTimeToSortable(t){
+      // Accepts HH:MM or HH:MM:SS. Returns minutes since midnight.
+      const s = String(t ?? "").trim();
+      const m = s.match(/^(\d{1,2}):(\d{2})(?::(\d{2}))?$/);
+      if(!m) return null;
+      const hh = Number(m[1]), mm = Number(m[2]), ss = m[3] ? Number(m[3]) : 0;
+      if(hh<0 || hh>23 || mm<0 || mm>59 || ss<0 || ss>59) return null;
+      return hh*3600 + mm*60 + ss;
+    }
+
+    function isoDate(dt){
+      const y = dt.getUTCFullYear();
+      const m = String(dt.getUTCMonth()+1).padStart(2, "0");
+      const d = String(dt.getUTCDate()).padStart(2, "0");
+      return `${y}-${m}-${d}`;
+    }
+
+    function csvEscape(v){
+      const s = String(v ?? "");
+      if (/[",\n]/.test(s)) return `"${s.replaceAll('"', '""')}"`;
+      return s;
+    }
+
+    function toCSV(rows){
+      const header = ["day","date","tender","docket_no","sales_rep","time","value"];
+      const lines = [header.join(",")];
+      for(const r of rows){
+        lines.push([
+          csvEscape(r.day),
+          csvEscape(r.date),
+          csvEscape(r.tender),
+          csvEscape(r.docket_no),
+          csvEscape(r.sales_rep),
+          csvEscape(r.time),
+          csvEscape(r.value)
+        ].join(","));
+      }
+      return lines.join("\n");
+    }
+
+    function downloadText(filename, text){
+      const blob = new Blob([text], {type:"text/csv;charset=utf-8"});
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = filename;
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      URL.revokeObjectURL(url);
+    }
+
+    function processReport(reportText){
+      let day = "";
+      let dateStr = "";
+      let tender = "";
+
+      const rows = [];
+      const lines = reportText.split(/\r?\n/);
+
+      for (let raw of lines){
+        const line = raw.replace(/\n$/, "");
+
+        // Match: if "day" in line and "Total" not in line and "Birthday" not in line
+        if (line.toLowerCase().includes("day") && !line.includes("Total") && !line.includes("Birthday")){
+          const parts = line.trim().split(/\s+/);
+          if (parts.length >= 2){
+            day = parts[0];
+            dateStr = parts[1];
+          }
+        }
+
+        // Match: if "Value" in line => tender = line[:17].strip()
+        if (line.includes("Value")){
+          tender = line.slice(0, 17).trim();
+        }
+
+        // Match: if line ends with .dd and not contains Total => fixed width extract
+        if (priceRe.test(line) && !line.includes("Total")){
+          const docket_no = line.slice(0, 14).trim();
+          const sales_rep = line.slice(17, 32).trim();
+          const time = line.slice(32, 40).trim();
+          const valueRaw = line.slice(41).trim();
+
+          // Convert similar to your df typing
+          const dt = parseDateDayFirst(dateStr);
+          const val = parseMoney(valueRaw);
+          const tSort = parseTimeToSortable(time);
+
+          // Basic guards so junk lines do not get included
+          if (!day || !dateStr || !tender) continue;
+          if (!docket_no || !sales_rep || !time) continue;
+          if (!dt || !Number.isFinite(val) || tSort == null) continue;
+
+          rows.push({
+            day: String(day),
+            dateObj: dt,
+            date: isoDate(dt),
+            tender: String(tender),
+            docket_no: String(docket_no),
+            sales_rep: String(sales_rep),
+            time: String(time),
+            timeSort: tSort,
+            value: val
+          });
+        }
+      }
+
+      // Sort by date then time (like your pandas)
+      rows.sort((a,b) => {
+        const d = a.dateObj - b.dateObj;
+        if (d !== 0) return d;
+        return a.timeSort - b.timeSort;
+      });
+
+      return rows;
+    }
+
+    function setStatus(t){ document.getElementById("status").textContent = t; }
+    function showErr(msg){
+      const el = document.getElementById("errBox");
+      el.style.display = "block"; el.textContent = msg;
+    }
+    function hideErr(){ const el=document.getElementById("errBox"); el.style.display="none"; el.textContent=""; }
+    function showOk(msg){
+      const el = document.getElementById("okBox");
+      el.style.display = "block"; el.textContent = msg;
+    }
+    function hideOk(){ const el=document.getElementById("okBox"); el.style.display="none"; el.textContent=""; }
+
+    function updateStats(rows){
+      document.getElementById("rowsCount").textContent = rows.length;
+
+      const tenders = new Set(rows.map(r => r.tender));
+      document.getElementById("tenderCount").textContent = tenders.size;
+
+      if (rows.length){
+        const minD = rows[0].date;
+        const maxD = rows[rows.length - 1].date;
+        document.getElementById("dateRange").textContent = (minD === maxD) ? minD : `${minD} to ${maxD}`;
+      } else {
+        document.getElementById("dateRange").textContent = "–";
+      }
+    }
+
+    function run(download){
+      hideErr(); hideOk();
+
+      const text = document.getElementById("report").value || "";
+      if (!text.trim()){
+        setStatus("No input");
+        updateStats([]);
+        showErr("Paste the report into the textbox first.");
+        return;
+      }
+
+      setStatus("Processing…");
+
+      const rows = processReport(text);
+      updateStats(rows);
+
+      if (!rows.length){
+        setStatus("No rows parsed");
+        showErr(
+          "Parsed 0 rows.\n\n" +
+          "Check that your report contains:\n" +
+          "• A line that contains 'day' with a date next to it\n" +
+          "• Lines containing 'Value' (tender name is first 17 chars)\n" +
+          "• Data lines ending with something like '.00' and not containing 'Total'\n"
+        );
+        return;
+      }
+
+      setStatus("Ready");
+
+      const csvText = toCSV(rows.map(r => ({
+        day: r.day,
+        date: r.date,
+        tender: r.tender,
+        docket_no: r.docket_no,
+        sales_rep: r.sales_rep,
+        time: r.time,
+        value: r.value
+      })));
+
+      const fileNameInput = document.getElementById("fileName").value.trim();
+      const filename = fileNameInput ? fileNameInput : "tender_breakdown_detail.csv";
+
+      showOk(`Processed ${rows.length} rows.\n${download ? "Downloading CSV now." : "CSV is ready to download."}`);
+
+      if (download) downloadText(filename, csvText);
+    }
+
+    document.getElementById("btnProcess").addEventListener("click", () => run(true));
+    document.getElementById("btnProcessOnly").addEventListener("click", () => run(false));
+    document.getElementById("btnClear").addEventListener("click", () => {
+      document.getElementById("report").value = "";
+      setStatus("Waiting for input");
+      updateStats([]);
+      hideErr(); hideOk();
+    });
+  </script>
+</body>
+</html>
+```
